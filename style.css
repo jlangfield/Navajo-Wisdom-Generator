@@ -31,7 +31,7 @@ body {
 .quote-text {
     font-size: 2.0rem;
     line-height: 2.3rem;
-    margin: 40px 0 10px 0;
+    margin: 20px 0 10px 0;
     animation: fadeInUp;
     animation-duration: 2s;
 }
@@ -71,7 +71,7 @@ button {
     color: lightskyblue;
     background-color: rgba(73, 112, 204, 0.65);
     outline: none;
-    padding: 0.5rem 1.8rem 0.9rem 1.8rem;
+    padding: 0.3rem 0.7rem 0.7rem 0.2rem;
     box-shadow: 0 0.4rem rgba(0, 0, 0, 0.65);
     margin: 10px;
 }
@@ -91,9 +91,10 @@ i {
 }
 
 h1 {
-    line-height: 2.3rem;
+    line-height: 2.5rem;
     /* margin-bottom: 0; */
     font-weight: 300;
+    font-size: 2.5rem;
 }
 
 h2 {

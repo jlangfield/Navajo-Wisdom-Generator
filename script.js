@@ -1,13 +1,3 @@
-// function newQuote() {
-//     const quote = localQuotes[Math.floor(Math.random() * localQuotes.length)];
-//     console.log(quote);
-// }
-
-// // On load
-// newQuote();
-
-
-
 const quoteContainer = document.getElementById("quote-container");
 const quoteText = document.getElementById("quote");
 const authorText = document.getElementById("author");
@@ -17,8 +7,7 @@ const newQuoteBtn2 = document.getElementById("new-quote2");
 const newQuoteBtn3 = document.getElementById("new-quote3");
 const newQuoteBtn4 = document.getElementById("new-quote4");
 const newQuoteBtn5 = document.getElementById("new-quote5");
-
-// let apiQuotes = []
+const newQuoteBtn6 = document.getElementById("new-quote6");
 
 // Show new quote
 function newQuote() {
@@ -115,17 +104,24 @@ function newQuote5() {
     quoteText.textContent = quote.text;
 }
 
-// Get quotes from API
-// async function getQuotes() {
-//     const apiUrl = "https://jacintodesign.github.io/quotes-api/data/quotes.json";
-//     try {
-//         const response = await fetch(apiUrl);
-//         apiQuotes = await response.json();
-//         newQuote();
-//     } catch (error) {
-//         // Catch error here
-//     }
-// }
+// Show new quote6
+function newQuote6() {
+    // Pick a random quote from apiQuotes array
+    const quote = localQuotes6[Math.floor(Math.random() * localQuotes6.length)];
+    // Check if author name is blank to replace with "Unknown"
+    if (!quote.author) {
+        authorText.textContent = "Unknown";
+    } else {
+        authorText.textContent = quote.author;
+    }
+    // Check quote length to determine styling
+    if (quote.text.length > 120) {
+        quoteText.classList.add("long-quote");
+    } else {
+        quoteText.classList.remove("long-quote");
+    }
+    quoteText.textContent = quote.text;
+}
 
 // Tweet Quote
 function tweetQuote() {
@@ -139,6 +135,7 @@ newQuoteBtn2.addEventListener("click", newQuote2);
 newQuoteBtn3.addEventListener("click", newQuote3);
 newQuoteBtn4.addEventListener("click", newQuote4);
 newQuoteBtn5.addEventListener("click", newQuote5);
+newQuoteBtn6.addEventListener("click", newQuote6);
 twitterBtn.addEventListener("click", tweetQuote);
 
 // On load
@@ -148,3 +145,4 @@ newQuote2();
 newQuote3();
 newQuote4();
 newQuote5();
+newQuote6();
