@@ -699,4 +699,220 @@ const localQuotes4 = [
     text: "Your life does not get better by chance, it gets better by change.",
     author: "Interpretation: Emphasizes the role of intentional change and personal growth in improving the quality of one's life. #BlackfootNation"
   },
+  {
+    text: "Your time is limited, don't waste it living someone else's life.",
+    author: "Interpretation: Urges individuals to prioritize their own aspirations and live authentically, recognizing the preciousness of time. #BlackfootNation"
+  },
+  {
+    text: "If opportunity doesn't knock, build a door.",
+    author: "Interpretation: Encourages a proactive and resourceful approach to creating opportunities when they are not readily available. #BlackfootNation"
+  },
+  {
+    text: "Life is what happens when you're busy making other plans.",
+    author: "Interpretation: Reminds individuals to embrace the unexpected and appreciate the richness of life's unplanned moments. #BlackfootNation"
+  },
+  {
+    text: "The only way to do great work is to love what you do.",
+    author: "Interpretation: Emphasizes the connection between passion and excellence, suggesting that genuine love for one's work leads to greatness. #BlackfootNation"
+  },
+  {
+    text: "The best way to predict the future is to create it.",
+    author: "Interpretation: Encourages proactive decision-making and intentional actions in shaping one's future. #BlackfootNation"
+  },
+  {
+    text: "Be the change that you wish to see in the world.",
+    author: "Interpretation: Inspires personal responsibility and proactive efforts in creating positive change in the world. #BlackfootNation"
+  },
+  {
+    text: "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
+    author: "Interpretation: Advocates pursuing meaningful and fulfilling work by aligning passion with profession, emphasizing the importance of loving one's work. #BlackfootNation"
+  },
+  {
+    text: "Believe you can and you're halfway there.",
+    author: "Interpretation: Emphasizes the power of self-belief and confidence as crucial steps toward achieving goals. #BlackfootNation"
+  },
+  {
+    text: "If you want to go fast, go alone. If you want to go far, go together.",
+    author: "Interpretation: Encourages collaboration and collective effort for long-term and meaningful achievements. #BlackfootNation"
+  },
+  {
+    text: "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    author: "Interpretation: Emphasizes the importance of inner strength, potential, and personal qualities in determining one's journey and future. #BlackfootNation"
+  },
+  {
+    text: "The only limit to our realization of tomorrow will be our doubts of today.",
+    author: "Interpretation: Encourages overcoming doubts and embracing the limitless potential of the future. #BlackfootNation"
+  },
+  {
+    text: "Success usually comes to those who are too busy to be looking for it.",
+    author: "Interpretation: Emphasizes the value of hard work, focus, and dedication as key contributors to achieving success. #BlackfootNation"
+  },
+  {
+    text: "The mind is everything. What you think you become.",
+    author: "Interpretation: Emphasizes the profound impact of thoughts on shaping one's identity and future experiences. #BlackfootNation"
+  },
+  {
+    text: "A journey of a thousand miles begins with a single step.",
+    author: "Interpretation: Encourages taking the first step, emphasizing that every significant journey starts with a small action. #BlackfootNation"
+  },
+  {
+    text: "The future belongs to those who believe in the beauty of their dreams.",
+    author: "Interpretation: Encourages belief in the potential and fulfillment of one's dreams as a key to shaping a positive future. #BlackfootNation"
+  },
+  {
+    text: "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+    author: "Interpretation: Redefines the purpose of life beyond personal happiness, emphasizing service, honor, and compassion. #BlackfootNation"
+  },
+  {
+    text: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    author: "Interpretation: Emphasizes the transformative journey and personal growth that accompanies the pursuit and achievement of goals. #BlackfootNation"
+  },
+  {
+    text: "Every morning brings new potential, but only if you make the most of it.",
+    author: "Interpretation: Encourages seizing the opportunities presented by each new day and making the most of its potential. #BlackfootNation"
+  },
+  {
+    text: "The only person you are destined to become is the person you decide to be.",
+    author: "Interpretation: Empowers individuals to take control of their own destiny through conscious decisions and self-determination. #BlackfootNation"
+  },
+  {
+    text: "If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.",
+    author: "Interpretation: Highlights the power of personal determination and the willingness to learn as key factors in personal growth. #BlackfootNation"
+  },
+  {
+    text: "Your life does not get better by chance, it gets better by change.",
+    author: "Interpretation: Emphasizes the role of intentional change and personal growth in improving the quality of one's life. #BlackfootNation"
+  },
+  {
+    text: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    author: "Interpretation: Emphasizes the resilience and strength found in the act of overcoming challenges and setbacks. #BlackfootNation"
+  },
+  {
+    text: "The only way to do great work is to love what you do.",
+    author: "Interpretation: Emphasizes the connection between passion and excellence, suggesting that genuine love for one's work leads to greatness. #BlackfootNation"
+  },
+  {
+    text: "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+    author: "Interpretation: Emphasizes the impact of supportive relationships and the importance of friendship in challenging times. #BlackfootNation"
+  },
+  {
+    text: "The best way to predict your future is to create it.",
+    author: "Interpretation: Encourages proactive decision-making and intentional actions in shaping one's future. #BlackfootNation"
+  },
+  {
+    text: "If you want to go fast, go alone. If you want to go far, go together.",
+    author: "Interpretation: Encourages collaboration and collective effort for long-term and meaningful achievements. #BlackfootNation"
+  },
+  {
+    text: "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    author: "Interpretation: Emphasizes the importance of inner strength, potential, and personal qualities in determining one's journey and future. #BlackfootNation"
+  },
+  {
+    text: "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+    author: "Interpretation: Encourages self-reflection and overcoming self-limiting beliefs that may hinder progress toward personal goals. #BlackfootNation"
+  },
+  {
+    text: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    author: "Interpretation: Views success and failure as transient experiences and places emphasis on the courage to persist in the face of challenges. #BlackfootNation"
+  },
+  {
+    text: "Don't watch the clock; do what it does. Keep going.",
+    author: "Interpretation: Encourages persistence and continuous effort, advising against fixating on time but rather staying focused on progress. #BlackfootNation"
+  },
+  {
+    text: "Your beliefs don't make you a better person; your behavior does.",
+    author: "Interpretation: Emphasizes the importance of actions over professed beliefs in determining one's character and moral standing. #BlackfootNation"
+  },
+  {
+    text: "The best way to predict the future is to create it.",
+    author: "Interpretation: Encourages proactive decision-making and intentional actions in shaping one's future. #BlackfootNation"
+  },
+  {
+    text: "Be the change that you wish to see in the world.",
+    author: "Interpretation: Inspires personal responsibility and proactive efforts in creating positive change in the world. #BlackfootNation"
+  },
+  {
+    text: "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
+    author: "Interpretation: Advocates pursuing meaningful and fulfilling work by aligning passion with profession, emphasizing the importance of loving one's work. #BlackfootNation"
+  },
+  {
+    text: "Believe you can and you're halfway there.",
+    author: "Interpretation: Emphasizes the power of self-belief and confidence as crucial steps toward achieving goals. #BlackfootNation"
+  },
+  {
+    text: "If you want to go fast, go alone. If you want to go far, go together.",
+    author: "Interpretation: Encourages collaboration and collective effort for long-term and meaningful achievements. #BlackfootNation"
+  },
+  {
+    text: "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    author: "Interpretation: Emphasizes the importance of inner strength, potential, and personal qualities in determining one's journey and future. #BlackfootNation"
+  },
+  {
+    text: "The only limit to our realization of tomorrow will be our doubts of today.",
+    author: "Interpretation: Encourages overcoming doubts and embracing the limitless potential of the future. #BlackfootNation"
+  },
+  {
+    text: "Success usually comes to those who are too busy to be looking for it.",
+    author: "Interpretation: Emphasizes the value of hard work, focus, and dedication as key contributors to achieving success. #BlackfootNation"
+  },
+  {
+    text: "The mind is everything. What you think you become.",
+    author: "Interpretation: Emphasizes the profound impact of thoughts on shaping one's identity and future experiences. #BlackfootNation"
+  },
+  {
+    text: "A journey of a thousand miles begins with a single step.",
+    author: "Interpretation: Encourages taking the first step, emphasizing that every significant journey starts with a small action. #BlackfootNation"
+  },
+  {
+    text: "The future belongs to those who believe in the beauty of their dreams.",
+    author: "Interpretation: Encourages belief in the potential and fulfillment of one's dreams as a key to shaping a positive future. #BlackfootNation"
+  },
+  {
+    text: "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+    author: "Interpretation: Redefines the purpose of life beyond personal happiness, emphasizing service, honor, and compassion. #BlackfootNation"
+  },
+  {
+    text: "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    author: "Interpretation: Emphasizes the transformative journey and personal growth that accompanies the pursuit and achievement of goals. #BlackfootNation"
+  },
+  {
+    text: "Every morning brings new potential, but only if you make the most of it.",
+    author: "Interpretation: Encourages seizing the opportunities presented by each new day and making the most of its potential. #BlackfootNation"
+  },
+  {
+    text: "The only person you are destined to become is the person you decide to be.",
+    author: "Interpretation: Empowers individuals to take control of their own destiny through conscious decisions and self-determination. #BlackfootNation"
+  },
+  {
+    text: "If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.",
+    author: "Interpretation: Highlights the power of personal determination and the willingness to learn as key factors in personal growth. #BlackfootNation"
+  },
+  {
+    text: "Your life does not get better by chance, it gets better by change.",
+    author: "Interpretation: Emphasizes the role of intentional change and personal growth in improving the quality of one's life. #BlackfootNation"
+  },
+  {
+    text: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    author: "Interpretation: Emphasizes the resilience and strength found in the act of overcoming challenges and setbacks. #BlackfootNation"
+  },
+  {
+    text: "The only way to do great work is to love what you do.",
+    author: "Interpretation: Emphasizes the connection between passion and excellence, suggesting that genuine love for one's work leads to greatness. #BlackfootNation"
+  },
+  {
+    text: "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+    author: "Interpretation: Emphasizes the impact of supportive relationships and the importance of friendship in challenging times. #BlackfootNation"
+  },
+  {
+    text: "The best way to predict your future is to create it.",
+    author: "Interpretation: Encourages proactive decision-making and intentional actions in shaping one's future. #BlackfootNation"
+  },
+  {
+    text: "If you want to go fast, go alone. If you want to go far, go together.",
+    author: "Interpretation: Encourages collaboration and collective effort for long-term and meaningful achievements. #BlackfootNation"
+  },
+  {
+    text: "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    author: "Interpretation: Emphasizes the importance of inner strength, potential, and personal qualities in determining one's journey and future. #BlackfootNation"
+  },
 ];
