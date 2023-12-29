@@ -31,7 +31,7 @@ body {
 .quote-text {
     font-size: 2.0rem;
     line-height: 2.3rem;
-    margin: 40px auto;
+    margin: 40px 0 10px 0;
     animation: fadeInUp;
     animation-duration: 2s;
 }
@@ -92,7 +92,7 @@ i {
 
 h1 {
     line-height: 2.3rem;
-    margin: 10px;
+    /* margin-bottom: 0; */
     font-weight: 300;
 }
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 h3 {
-    margin: 40px 0 10px 0;
+    /* margin: 40px 0 10px 0; */
     font-weight: 300;
     color: #647f93;
 }
