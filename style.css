@@ -32,6 +32,8 @@ body {
     font-size: 2.0rem;
     line-height: 2.3rem;
     margin-bottom: 40px;
+    animation: fadeInUp;
+    animation-duration: 2s;
 }
 
 .long-quote {
@@ -44,12 +46,19 @@ body {
     font-weight: 400;
     font-style: italic;
     color: lightskyblue;
+    animation: fadeInDown;
+    animation-duration: 2s;
 }
 
 .buttons-container {
     /* margin: 15px 7rem; */
     display: flex;
     justify-content: space-between;
+}
+
+.buttons-container2 {
+    display: flex;
+    justify-content: center;
 }
 
 button {
@@ -83,11 +92,17 @@ i {
 h1 {
     line-height: 2rem;
     margin: 10px;
+    font-weight: 300;
 }
 
 h2 {
     color: lightskyblue;
     font-style: italic;
+    font-weight: 300;
+}
+
+h3 {
+    margin: 40px 0 0 0;
 }
 
 h5 {
