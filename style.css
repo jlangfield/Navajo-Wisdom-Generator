@@ -55,7 +55,26 @@ body {
     /* margin: 15px 7rem; */
     display: flexbox;
     justify-content: space-between;
+    border: #406286 solid 2px;
+    border-radius: 10px;
+    height: 80px;
+    overflow-y: scroll;
 }
+
+.buttons-container::-webkit-scrollbar {
+    width: 12px;
+}
+
+.buttons-container::-webkit-scrollbar-track {
+    background: lightskyblue;
+    border-radius: 10px;
+}
+
+.buttons-container::-webkit-scrollbar-thumb {
+    background-color: rgb(73, 112, 204);    /* color of the scroll thumb */
+    border-radius: 10px;       /* roundness of the scroll thumb */
+    border: 3px solid lightskyblue;  /* creates padding around scroll thumb */
+  }
 
 .buttons-container2 {
     display: flex;
