@@ -643,4 +643,268 @@ const localQuotes6 = [
     text: "May your dreams be woven into the fabric of the universe, creating a tapestry of beauty and significance.",
     author: "Interpretation: Wishes for dreams that contribute to the universal tapestry, weaving a fabric of beauty and significance. #SiouxWisdom"
   },
+  {
+    text: "May your spirit be like the river, navigating obstacles with grace and carving a path of resilience.",
+    author: "Interpretation: Wishes for a spirit that mirrors the river's ability to navigate obstacles with grace, carving a path of resilience. #SiouxWisdom"
+  },
+  {
+    text: "The fire within is the spark of the divine. May your inner flame illuminate your path and the paths of those around you.",
+    author: "Interpretation: Draws parallels between the inner fire and the divine spark, wishing for an illuminated path for oneself and others. #SiouxWisdom"
+  },
+  {
+    text: "May your dreams be the wings that carry you to new heights, allowing you to soar in the vast skies of possibility.",
+    author: "Interpretation: Wishes for dreams that serve as wings, propelling individuals to new heights in the vast skies of possibility. #SiouxWisdom"
+  },
+  {
+    text: "The moon teaches patience; it waxes and wanes, yet remains constant. May your patience be unwavering through life's cycles.",
+    author: "Interpretation: Draws lessons in patience from the moon's cycles, wishing for unwavering patience through life's ups and downs. #SiouxWisdom"
+  },
+  {
+    text: "May your footsteps leave imprints of kindness and compassion, creating a path that others are inspired to follow.",
+    author: "Interpretation: Wishes for footsteps that leave imprints of kindness and compassion, inspiring others to follow a similar path. #SiouxWisdom"
+  },
+  {
+    text: "The wind whispers stories of the land. May you listen with a heart tuned to the wisdom carried by the gentle breezes.",
+    author: "Interpretation: Draws wisdom from the wind's whispers, urging a heart tuned to the stories of the land carried by gentle breezes. #SiouxWisdom"
+  },
+  {
+    text: "May your heart beat in sync with the heartbeat of Mother Earth, fostering a deep connection to the cycles of nature.",
+    author: "Interpretation: Wishes for a heart that beats in harmony with Mother Earth, fostering a profound connection to the cycles of nature. #SiouxWisdom"
+  },
+  {
+    text: "The tree of life is rooted in the sacred soil. May your roots anchor you in wisdom, love, and a sense of belonging.",
+    author: "Interpretation: Draws inspiration from the tree of life's roots, wishing for roots anchored in wisdom, love, and a sense of belonging. #SiouxWisdom"
+  },
+  {
+    text: "May your actions be as seeds of love, sprouting into a garden of kindness that blooms for generations to come.",
+    author: "Interpretation: Wishes for actions that serve as seeds of love, growing into a garden of kindness that blossoms for generations. #SiouxWisdom"
+  },
+  {
+    text: "The sunflower turns toward the sun, seeking light. May you turn toward positivity, seeking the light in every circumstance.",
+    author: "Interpretation: Draws inspiration from the sunflower, urging a focus on positivity and seeking the light in every circumstance. #SiouxWisdom"
+  },
+  {
+    text: "May your thoughts be as clear as the waters of a pristine lake, reflecting the beauty and purity within your soul.",
+    author: "Interpretation: Wishes for clear thoughts, drawing from the clarity of pristine lake waters, reflecting the beauty and purity within. #SiouxWisdom"
+  },
+  {
+    text: "The eagle sees beyond the horizon. May your vision be far-reaching, embracing possibilities beyond the limits of today.",
+    author: "Interpretation: Draws vision lessons from the eagle, wishing for far-reaching vision that embraces possibilities beyond the limits of today. #SiouxWisdom"
+  },
+  {
+    text: "May your laughter be a melody, echoing through the valleys of life and uplifting the spirits of those who hear it.",
+    author: "Interpretation: Wishes for laughter that resembles a melody, echoing through life's valleys and uplifting the spirits of those who hear it. #SiouxWisdom"
+  },
+  {
+    text: "The mountain stands tall, witnessing the passage of time. May your resilience mirror the enduring strength of the mountain.",
+    author: "Interpretation: Draws resilience lessons from the mountain, wishing for enduring strength that mirrors the mountain's tall and timeless presence. #SiouxWisdom"
+  },
+  {
+    text: "May your words be like feathers, gentle and comforting, bringing solace to the hearts of those who listen.",
+    author: "Interpretation: Wishes for words that resemble feathers, gentle and comforting, offering solace to the hearts of those who listen. #SiouxWisdom"
+  },
+  {
+    text: "The river of life flows through valleys and peaks. May your journey be embraced with equanimity through both low and high tides.",
+    author: "Interpretation: Draws inspiration from the river of life, urging equanimity through the valleys and peaks of one's journey. #SiouxWisdom"
+  },
+  {
+    text: "May your spirit dance with the energy of the Northern Lights, illuminating the sky with the beauty of your unique essence.",
+    author: "Interpretation: Wishes for a spirit that dances with the energy of the Northern Lights, illuminating the sky with the beauty of one's unique essence. #SiouxWisdom"
+  },
+  {
+    text: "The butterfly's metamorphosis is a symbol of transformation. May your life embrace profound and beautiful transformations.",
+    author: "Interpretation: Draws inspiration from the butterfly's metamorphosis, wishing for profound and beautiful transformations in one's life. #SiouxWisdom"
+  },
+  {
+    text: "May your dreams be like the stars, guiding you through the vast cosmic tapestry with purpose and celestial wisdom.",
+    author: "Interpretation: Wishes for dreams that guide through the cosmic tapestry with purpose and celestial wisdom, like the stars. #SiouxWisdom"
+  },
+  {
+    text: "The drumbeat is the heartbeat of the community. May your actions resonate with the pulse of unity and shared purpose.",
+    author: "Interpretation: Draws from the drum's heartbeat, urging actions that resonate with the pulse of unity and shared purpose within the community. #SiouxWisdom"
+  },
+  {
+    text: "May your heart be a sanctuary, open to love and compassion, providing solace and warmth to all who seek refuge.",
+    author: "Interpretation: Wishes for a heart that acts as a sanctuary, open to love and compassion, offering solace and warmth to those seeking refuge. #SiouxWisdom"
+  },
+  {
+    text: "The buffalo teaches us humility. May your humility be a source of strength, grounding you in the richness of your true self.",
+    author: "Interpretation: Draws humility lessons from the buffalo, wishing for humility as a source of strength, grounding individuals in the richness of their true selves. #SiouxWisdom"
+  },
+  {
+    text: "May your path be illuminated by the glow of the firefly, offering gentle light in moments of darkness and uncertainty.",
+    author: "Interpretation: Wishes for a path illuminated by the glow of the firefly, providing gentle light in moments of darkness and uncertainty. #SiouxWisdom"
+  },
+  {
+    text: "The bear hibernates and emerges renewed. May your periods of rest bring rejuvenation and renewed strength to face life's challenges.",
+    author: "Interpretation: Draws renewal lessons from the bear's hibernation, wishing for restful periods that bring rejuvenation and renewed strength. #SiouxWisdom"
+  },
+  {
+    text: "May your dreams be the seeds of a magnificent garden, blooming with the colors of joy, fulfillment, and prosperity.",
+    author: "Interpretation: Wishes for dreams as seeds, growing into a magnificent garden with the colors of joy, fulfillment, and prosperity. #SiouxWisdom"
+  },
+  {
+    text: "The wind carries the whispers of the ancestors. May your ears be attuned to their guidance and wisdom, carried by the breezes of time.",
+    author: "Interpretation: Draws wisdom from the wind carrying whispers of the ancestors, urging ears attuned to their guidance and wisdom in the breezes of time. #SiouxWisdom"
+  },
+  {
+    text: "May your journey be guided by the starlight, illuminating the path forward with the wisdom and brilliance of celestial constellations.",
+    author: "Interpretation: Wishes for a journey guided by starlight, illuminating the path with the wisdom and brilliance of celestial constellations. #SiouxWisdom"
+  },
+  {
+    text: "The drum connects us to the heartbeat of the Earth. May your connection to the rhythms of nature inspire harmony in your life.",
+    author: "Interpretation: Draws connection from the drum to the Earth's heartbeat, wishing for a connection to nature's rhythms that inspires harmony in one's life. #SiouxWisdom"
+  },
+  {
+    text: "May your spirit be like the arrow, aimed at the target of your dreams, propelled by determination and guided by precision.",
+    author: "Interpretation: Wishes for a spirit like the arrow, aimed at the target of dreams, propelled by determination and guided by precision. #SiouxWisdom"
+  },
+  {
+    text: "The hawk soars with keen vision. May your perspectives be clear, allowing you to soar above challenges with insight and foresight.",
+    author: "Interpretation: Draws vision lessons from the hawk, wishing for clear perspectives that allow soaring above challenges with insight and foresight. #SiouxWisdom"
+  },
+  {
+    text: "May your voice echo the wisdom of the mountains, resonating with the timeless truths that stand tall in the face of change.",
+    author: "Interpretation: Wishes for a voice echoing the wisdom of the mountains, resonating with timeless truths that stand tall amidst change. #SiouxWisdom"
+  },
+  {
+    text: "The rain nourishes the Earth. May your actions nourish the souls around you, fostering growth, resilience, and beauty.",
+    author: "Interpretation: Draws inspiration from the rain nourishing the Earth, wishing for actions that nourish souls, fostering growth, resilience, and beauty. #SiouxWisdom"
+  },
+  {
+    text: "May your heart be a sacred drum, beating in harmony with the rhythms of the universe, resonating with the pulse of life.",
+    author: "Interpretation: Wishes for a heart that resembles a sacred drum, beating in harmony with the universe's rhythms and the pulse of life. #SiouxWisdom"
+  },
+  {
+    text: "The coyote is a trickster and a teacher. May your life's lessons be both humorous and profound, guided by the wisdom of the coyote.",
+    author: "Interpretation: Draws lessons from the coyote, wishing for life's teachings to be both humorous and profound, guided by the wisdom of this trickster. #SiouxWisdom"
+  },
+  {
+    text: "May your spirit be like the flowing river, adaptable to change, yet constant in its pursuit of purpose and destiny.",
+    author: "Interpretation: Wishes for a spirit that mirrors the flowing river, adaptable to change yet constant in the pursuit of purpose and destiny. #SiouxWisdom"
+  },
+  {
+    text: "The bear teaches us to listen to the silence. May your moments of quiet reflection reveal profound insights and inner wisdom.",
+    author: "Interpretation: Draws wisdom from the bear's affinity for silence, wishing for moments of quiet reflection to reveal profound insights and inner wisdom. #SiouxWisdom"
+  },
+  {
+    text: "May your actions be like the gentle rain, nurturing the seeds of positivity and growth wherever they fall.",
+    author: "Interpretation: Wishes for actions that resemble gentle rain, nurturing the seeds of positivity and growth wherever they fall. #SiouxWisdom"
+  },
+  {
+    text: "The stars hold the stories of the universe. May your life be a constellation of meaningful stories, each shining with its own brilliance.",
+    author: "Interpretation: Draws inspiration from the stars holding universal stories, wishing for a life that forms a constellation of meaningful stories, each shining brilliantly. #SiouxWisdom"
+  },
+  {
+    text: "May your footsteps leave imprints of respect on the sacred ground, honoring the interconnected web of all life.",
+    author: "Interpretation: Wishes for footsteps that leave imprints of respect on sacred ground, honoring the interconnected web of all life. #SiouxWisdom"
+  },
+  {
+    text: "The butterfly's dance is a celebration of transformation. May your journey be marked by joyful dances of growth and renewal.",
+    author: "Interpretation: Draws celebration from the butterfly's dance, wishing for a journey marked by joyful dances of growth and renewal. #SiouxWisdom"
+  },
+  {
+    text: "May your dreams be like feathers carried by the winds of possibility, landing in places of fulfillment and serenity.",
+    author: "Interpretation: Wishes for dreams like feathers carried by winds of possibility, landing in places of fulfillment and serenity. #SiouxWisdom"
+  },
+  {
+    text: "The buffalo teaches us the importance of giving. May your generosity flow like a river, enriching the lives of those you encounter.",
+    author: "Interpretation: Draws generosity lessons from the buffalo, wishing for generosity to flow like a river, enriching the lives of those encountered. #SiouxWisdom"
+  },
+  {
+    text: "May your spirit soar like the eagle, embracing the vastness of the sky and the limitless possibilities that stretch before you.",
+    author: "Interpretation: Wishes for a soaring spirit like the eagle, embracing the vastness of the sky and the limitless possibilities that stretch ahead. #SiouxWisdom"
+  },
+  {
+    text: "The thunder speaks of power and presence. May your voice carry the resonance of thunder, expressing your strength and authenticity.",
+    author: "Interpretation: Draws power and presence lessons from thunder, wishing for a voice that carries the resonance of strength and authenticity. #SiouxWisdom"
+  },
+  {
+    text: "May your life be a dance with the seasons, adapting to change with grace, and finding beauty in every phase of the journey.",
+    author: "Interpretation: Wishes for a life that dances with the seasons, adapting to change with grace, and finding beauty in every phase of the journey. #SiouxWisdom"
+  },
+  {
+    text: "The wolf embodies family and community. May your pack be united, and the bonds of love and support unbreakable.",
+    author: "Interpretation: Draws family and community lessons from the wolf, wishing for a united pack and unbreakable bonds of love and support. #SiouxWisdom"
+  },
+  {
+    text: "May your dreams be woven into the tapestry of the night sky, creating constellations of hope and inspiration for generations to come.",
+    author: "Interpretation: Wishes for dreams woven into the tapestry of the night sky, creating constellations of hope and inspiration for future generations. #SiouxWisdom"
+  },
+  {
+    text: "The river of life flows with interconnectedness. May your actions contribute to the harmony of this flowing tapestry.",
+    author: "Interpretation: Draws interconnectedness from the river of life, wishing for actions that contribute to the harmony of the flowing tapestry. #SiouxWisdom"
+  },
+  {
+    text: "May your spirit be like the medicine wheel, balanced and aligned with the sacred energies of life, fostering harmony and well-being.",
+    author: "Interpretation: Wishes for a spirit like the medicine wheel, balanced and aligned with sacred energies, fostering harmony and well-being. #SiouxWisdom"
+  },
+  {
+    text: "The drumbeat echoes the heartbeat of Mother Earth. May your steps resonate with the rhythm of love and respect for the Earth.",
+    author: "Interpretation: Draws Earth connection from the drum's heartbeat, wishing for steps that resonate with the rhythm of love and respect for Mother Earth. #SiouxWisdom"
+  },
+  {
+    text: "May your journey be blessed with the guidance of the morning star, lighting the way to your aspirations and highest potentials.",
+    author: "Interpretation: Wishes for a journey guided by the morning star, lighting the way to aspirations and highest potentials. #SiouxWisdom"
+  },
+  {
+    text: "The cedar holds sacredness. May your actions be rooted in reverence, carrying the sacred essence that blesses all you touch.",
+    author: "Interpretation: Draws sacredness from cedar, wishing for actions rooted in reverence, carrying the sacred essence to bless all touched. #SiouxWisdom"
+  },
+  {
+    text: "May your heart be a compass, navigating the vast landscapes of life with clarity, purpose, and an unwavering moral direction.",
+    author: "Interpretation: Wishes for a heart as a compass, navigating life's landscapes with clarity, purpose, and unwavering moral direction. #SiouxWisdom"
+  },
+  {
+    text: "The wind speaks the language of the land. May your ears be attuned to its whispers, understanding the stories carried through the air.",
+    author: "Interpretation: Draws land connection from the wind's language, wishing for ears attuned to its whispers and understanding the stories carried through the air. #SiouxWisdom"
+  },
+  {
+    text: "May your life be a dance of gratitude, celebrating each moment as a gift and acknowledging the interconnectedness of all things.",
+    author: "Interpretation: Wishes for a life that dances with gratitude, celebrating each moment as a gift and acknowledging the interconnectedness of all things. #SiouxWisdom"
+  },
+  {
+    text: "The sunflower turns to face the sun. May your journey be guided by the light of positivity, warmth, and spiritual illumination.",
+    author: "Interpretation: Draws guidance from the sunflower, urging a journey guided by the light of positivity, warmth, and spiritual illumination. #SiouxWisdom"
+  },
+  {
+    text: "May your words be like the wind, carrying messages of kindness, understanding, and healing to the hearts of those who receive them.",
+    author: "Interpretation: Wishes for words that resemble the wind, carrying messages of kindness, understanding, and healing to the hearts of those who receive them. #SiouxWisdom"
+  },
+  {
+    text: "The sacred pipe connects heaven and earth. May your actions bridge the divine and the earthly, creating harmony and balance.",
+    author: "Interpretation: Draws heaven-earth connection from the sacred pipe, wishing for actions to bridge the divine and earthly, creating harmony and balance. #SiouxWisdom"
+  },
+  {
+    text: "May your laughter be the melody that brings joy to the world, echoing through the valleys and mountains of shared human experience.",
+    author: "Interpretation: Wishes for laughter as a joyful melody, echoing through the valleys and mountains of shared human experience, bringing joy to the world. #SiouxWisdom"
+  },
+  {
+    text: "The hummingbird sips nectar from life's blossoms. May your existence be filled with the sweetness of love, joy, and meaningful connections.",
+    author: "Interpretation: Draws sweetness lessons from the hummingbird, wishing for an existence filled with the sweetness of love, joy, and meaningful connections. #SiouxWisdom"
+  },
+  {
+    text: "May your thoughts be as sacred as the eagle's flight, soaring to heights of wisdom, clarity, and profound understanding.",
+    author: "Interpretation: Wishes for thoughts as sacred as the eagle's flight, soaring to heights of wisdom, clarity, and profound understanding. #SiouxWisdom"
+  },
+  {
+    text: "The turtle carries the wisdom of the Earth on its back. May your journey be guided by the slow and steady pace of wisdom and endurance.",
+    author: "Interpretation: Draws wisdom from the turtle, wishing for a journey guided by the slow and steady pace of wisdom and endurance. #SiouxWisdom"
+  },
+  {
+    text: "May your spirit dance with the Northern Lights, reflecting the vibrant colors of your unique essence and the beauty within.",
+    author: "Interpretation: Wishes for a spirit that dances with the Northern Lights, reflecting vibrant colors of unique essence and inner beauty. #SiouxWisdom"
+  },
+  {
+    text: "The moon illuminates the darkness. May your presence be a guiding light, bringing clarity and understanding to those in need.",
+    author: "Interpretation: Draws illumination from the moon, wishing for a presence that serves as a guiding light, bringing clarity and understanding to those in need. #SiouxWisdom"
+  },
+  {
+    text: "May your actions be the ripple that transforms still waters, creating waves of positive change and inspiration in the world.",
+    author: "Interpretation: Wishes for actions as the ripple that transforms still waters, creating waves of positive change and inspiration in the world. #SiouxWisdom"
+  },
+  {
+    text: "The drumbeat echoes across the land. May your heartbeat synchronize with the rhythm of the drum, connecting you to the heartbeat of all creation.",
+    author: "Interpretation: Draws land connection from the drum's echo, wishing for a heartbeat that synchronizes with the drum's rhythm, connecting to the heartbeat of all creation. #SiouxWisdom"
+  },
 ];
