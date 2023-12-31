@@ -12,6 +12,7 @@ const newQuoteBtn7 = document.getElementById("new-quote7");
 const newQuoteBtn8 = document.getElementById("new-quote8");
 const newQuoteBtn9 = document.getElementById("new-quote9");
 const newQuoteBtn10 = document.getElementById("new-quote10");
+const newQuoteBtn11 = document.getElementById("new-quote11");
 
 // Show new quote
 function newQuote() {
@@ -203,6 +204,25 @@ function newQuote10() {
     quoteText.textContent = quote.text;
 }
 
+// Show new quote11
+function newQuote11() {
+    // Pick a random quote from apiQuotes array
+    const quote = localQuotes11[Math.floor(Math.random() * localQuotes11.length)];
+    // Check if author name is blank to replace with "Unknown"
+    if (!quote.author) {
+        authorText.textContent = "Unknown";
+    } else {
+        authorText.textContent = quote.author;
+    }
+    // Check quote length to determine styling
+    if (quote.text.length > 120) {
+        quoteText.classList.add("long-quote");
+    } else {
+        quoteText.classList.remove("long-quote");
+    }
+    quoteText.textContent = quote.text;
+}
+
 // Tweet Quote
 function tweetQuote() {
     const twitterUrl = `https://twitter.com/intent/tweet?text=${quoteText.innerText} - ${authorText.innerText}`;
@@ -220,6 +240,7 @@ newQuoteBtn7.addEventListener("click", newQuote7);
 newQuoteBtn8.addEventListener("click", newQuote8);
 newQuoteBtn9.addEventListener("click", newQuote9);
 newQuoteBtn10.addEventListener("click", newQuote10);
+newQuoteBtn11.addEventListener("click", newQuote11);
 twitterBtn.addEventListener("click", tweetQuote);
 
 // On load
@@ -234,3 +255,4 @@ newQuote7();
 newQuote8();
 newQuote9();
 newQuote10();
+newQuote11();
