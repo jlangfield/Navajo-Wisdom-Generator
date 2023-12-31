@@ -4,32 +4,16 @@ const localQuotes4 = [
     author: "Encourages empathy and understanding, advising against making judgments without experiencing another person's perspective."
   },
   {
-    text: "The soul would have no rainbow if the eyes had no tears. Blackfoot",
-    author: "Suggests that adversity and challenges contribute to the beauty and richness of life's experiences."
-  },
-  {
     text: "It is better to have less thunder in the mouth and more lightning in the hand. Blackfoot",
     author: "Emphasizes the power of action and deeds over empty words and boasts."
-  },
-  {
-    text: "Treat the earth well. It was not given to you by your parents, it was loaned to you by your children. Blackfoot",
-    author: "Encourages environmental stewardship and respect for the Earth, emphasizing the responsibility to preserve it for future generations."
   },
   {
     text: "Hold on to what is good, even if it's a handful of earth. Blackfoot",
     author: "Encourages valuing and preserving what is good and meaningful in life, even if it seems small or humble."
   },
   {
-    text: "Certain things catch your eye, but pursue only those that capture the heart. Blackfoot",
-    author: "Encourages prioritizing pursuits that deeply resonate with one's values and passions."
-  },
-  {
     text: "Tell me and I'll forget. Show me, and I may not remember. Involve me, and I'll understand. Blackfoot",
     author: "Emphasizes the power of experiential learning and active participation in understanding and retaining knowledge."
-  },
-  {
-    text: "Give me knowledge, so I may have kindness for all. Blackfoot",
-    author: "Links knowledge with compassion, suggesting that understanding can lead to empathy and kindness toward others."
   },
   {
     text: "When you were born, you cried and the world rejoiced. Live your life so that when you die, the world cries and you rejoice. Blackfoot",
@@ -80,32 +64,16 @@ const localQuotes4 = [
     author: "Shifts the focus from material wealth to the richness of character and values, suggesting that true wealth lies within the heart."
   },
   {
-    text: "Do not judge your neighbor until you walk two moons in his moccasins. Blackfoot",
-    author: "Encourages empathy and understanding, advising against making judgments without experiencing another person's perspective."
-  },
-  {
     text: "The soul would have no rainbow if the eyes had no tears. Blackfoot",
     author: "Suggests that adversity and challenges contribute to the beauty and richness of life's experiences."
-  },
-  {
-    text: "It is better to have less thunder in the mouth and more lightning in the hand. Blackfoot",
-    author: "Emphasizes the power of action and deeds over empty words and boasts."
   },
   {
     text: "Treat the earth well. It was not given to you by your parents, it was loaned to you by your children. Blackfoot",
     author: "Encourages environmental stewardship and respect for the Earth, emphasizing the responsibility to preserve it for future generations."
   },
   {
-    text: "Hold on to what is good, even if it's a handful of earth. Blackfoot",
-    author: "Encourages valuing and preserving what is good and meaningful in life, even if it seems small or humble."
-  },
-  {
     text: "Certain things catch your eye, but pursue only those that capture the heart. Blackfoot",
     author: "Encourages prioritizing pursuits that deeply resonate with one's values and passions."
-  },
-  {
-    text: "Tell me and I'll forget. Show me, and I may not remember. Involve me, and I'll understand. Blackfoot",
-    author: "Emphasizes the power of experiential learning and active participation in understanding and retaining knowledge."
   },
   {
     text: "Give me knowledge, so I may have kindness for all. Blackfoot",
@@ -352,20 +320,12 @@ const localQuotes4 = [
     author: "Encourages the uplifting power of helping others and contributing to their well-being."
   },
   {
-    text: "Success is not final, failure is not fatal: It is the courage to continue that counts. Blackfoot",
-    author: "Views success and failure as transient, placing importance on the courage to persist in the face of challenges."
-  },
-  {
     text: "The only limit to our realization of tomorrow will be our doubts of today. Blackfoot",
     author: "Encourages overcoming doubts and embracing the limitless possibilities that the future holds."
   },
   {
     text: "Strive not to be a success, but rather to be of value. Blackfoot",
     author: "Encourages prioritizing contributing value to others and society over personal success."
-  },
-  {
-    text: "The best revenge is to be unlike him who performed the injustice. Blackfoot",
-    author: "Advocates responding to injustice with integrity and avoiding revengeful actions."
   },
   {
     text: "Change your thoughts and you change your world. Blackfoot",
@@ -396,16 +356,8 @@ const localQuotes4 = [
     author: "Encourages embracing risk and stepping out of one's comfort zone for the potential of extraordinary achievements."
   },
   {
-    text: "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it. Blackfoot",
-    author: "Highlights the role of self-limiting beliefs in hindering progress toward personal goals."
-  },
-  {
     text: "What you get by achieving your goals is not as important as what you become by achieving your goals. Blackfoot",
     author: "Emphasizes the transformative journey and personal growth that accompanies the pursuit and achievement of goals."
-  },
-  {
-    text: "Your time is limited, don't waste it living someone else's life. Blackfoot",
-    author: "Urges individuals to prioritize their own aspirations and live authentically, recognizing the preciousness of time."
   },
   {
     text: "The purpose of our lives is to be happy. Blackfoot",
@@ -414,14 +366,6 @@ const localQuotes4 = [
   {
     text: "You have within you right now, everything you need to deal with whatever the world can throw at you. Blackfoot",
     author: "Encourages self-confidence by recognizing the inherent strength and resources within each individual."
-  },
-  {
-    text: "If opportunity doesn't knock, build a door. Blackfoot",
-    author: "Encourages a proactive and resourceful approach to creating opportunities when they are not readily available."
-  },
-  {
-    text: "Life is what happens when you're busy making other plans. Blackfoot",
-    author: "Reminds individuals to embrace the unexpected and appreciate the richness of life's unplanned moments."
   },
   {
     text: "You miss 100% of the shots you don't take. Blackfoot",
@@ -464,20 +408,8 @@ const localQuotes4 = [
     author: "Encourages collaboration and collective effort for long-term and meaningful achievements."
   },
   {
-    text: "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it. Blackfoot",
-    author: "Encourages self-reflection and overcoming self-limiting beliefs that may hinder progress toward personal goals."
-  },
-  {
-    text: "Success is not final, failure is not fatal: It is the courage to continue that counts. Blackfoot",
-    author: "Views success and failure as transient experiences and places emphasis on the courage to persist in the face of challenges."
-  },
-  {
     text: "Don't watch the clock; do what it does. Keep going. Blackfoot",
     author: "Encourages persistence and continuous effort, advising against fixating on time but rather staying focused on progress."
-  },
-  {
-    text: "Your beliefs don't make you a better person; your behavior does. Blackfoot",
-    author: "Emphasizes the importance of actions over professed beliefs in determining one's character and moral standing."
   },
   {
     text: "Be the change that you wish to see in the world. Blackfoot",
@@ -486,10 +418,6 @@ const localQuotes4 = [
   {
     text: "The best revenge is to be unlike him who performed the injustice. Blackfoot",
     author: "Advocates responding to injustice with integrity and avoiding revengeful actions."
-  },
-  {
-    text: "You can never cross the ocean until you have the courage to lose sight of the shore. Blackfoot",
-    author: "Encourages taking risks and venturing into the unknown with courage and determination."
   },
   {
     text: "It is not the mountain we conquer but ourselves. Blackfoot",
@@ -538,10 +466,6 @@ const localQuotes4 = [
   {
     text: "Success is not final, failure is not fatal: It is the courage to continue that counts. Blackfoot",
     author: "Views success and failure as transient experiences and places emphasis on the courage to persist in the face of challenges."
-  },
-  {
-    text: "Don't watch the clock; do what it does. Keep going. Blackfoot",
-    author: "Encourages persistence and continuous effort, advising against fixating on time but rather staying focused on progress."
   },
   {
     text: "Your beliefs don't make you a better person; your behavior does. Blackfoot",

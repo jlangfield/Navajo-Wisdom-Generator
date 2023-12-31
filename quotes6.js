@@ -60,14 +60,6 @@ const localQuotes6 = [
     author: "Encourages gratitude and mindfulness, reminding us to appreciate the source of our sustenance before consuming it."
   },
   {
-    text: "The only things you can take with you when you leave this world are the things you've packed inside your heart. Sioux",
-    author: "Emphasizes the importance of cultivating positive qualities and virtues that endure beyond material possessions."
-  },
-  {
-    text: "The greatest strength is gentleness. Sioux",
-    author: "Challenges the traditional notion of strength, suggesting that true strength lies in qualities like gentleness and compassion."
-  },
-  {
     text: "The one who tells the stories rules the world. Sioux",
     author: "Recognizes the power of storytelling in shaping perceptions, preserving culture, and influencing the understanding of the world."
   },
@@ -148,10 +140,6 @@ const localQuotes6 = [
     author: "Encourages maintaining inner calm and peace despite external influences, emphasizing personal agency."
   },
   {
-    text: "May your dreams be like the stars, always within reach but forever shining brightly. Sioux",
-    author: "Wishes for dreams that are both aspirational and enduring, akin to the everlasting brilliance of stars."
-  },
-  {
     text: "Honor the sacred. Honor the Earth, our Mother. Honor the Elders. Honor all with whom we share the Earth. Sioux",
     author: "Emphasizes the importance of reverence and respect for the sacred, Earth, elders, and all living beings."
   },
@@ -224,10 +212,6 @@ const localQuotes6 = [
     author: "Acknowledges the significance of selfless actions that benefit future generations, understanding the true purpose of life."
   },
   {
-    text: "May your spirit be as resilient as the grass that bends but does not break in the wind. Sioux",
-    author: "Wishes for a resilient spirit that can adapt to challenges, bending like grass in the wind but remaining unbroken."
-  },
-  {
     text: "The only things you can take with you when you leave this world are the things you've packed inside your heart. Sioux",
     author: "Emphasizes the importance of cultivating positive qualities and virtues that endure beyond material possessions."
   },
@@ -266,10 +250,6 @@ const localQuotes6 = [
   {
     text: "Wisdom is not in words; it is in deeds. Sioux",
     author: "Emphasizes the practical application of wisdom through actions, rather than mere verbal expressions."
-  },
-  {
-    text: "May your spirit dance with the energy of the sacred hoop, embracing the interconnectedness of all life. Sioux",
-    author: "Wishes for a spirit that engages in a joyous dance, symbolizing the interconnected web of life."
   },
   {
     text: "The strength of the wolf is in the pack; the strength of the pack is in the wolf. Sioux",

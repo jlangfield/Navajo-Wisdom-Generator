@@ -392,10 +392,6 @@ const localQuotes = [
     author: "Encouraging a connection with nature and the recognition of its inherent wisdom."
   },
   {
-    text: "Walk in Beauty Navajo",
-    author: "This is a common Navajo phrase that reflects the importance of living a harmonious and balanced life."
-  },
-  {
     text: "Embrace the shadows, for they reveal the presence of light Navajo",
     author: "Encouraging a positive perspective on challenges and difficulties, as they highlight opportunities for growth and transformation."
   },

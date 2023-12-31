@@ -348,28 +348,12 @@ const localQuotes10 = [
         author: "Celebrates the collaboration of Arctic wolf packs, encouraging partnerships that foster success and mutual growth."
     },
     {
-        text: "The Inuit snow shovel clears pathways; may your actions remove obstacles for others, creating smoother journeys. Inuit",
-        author: "Uses the Inuit snow shovel as a symbol, urging actions that remove obstacles for others and create smoother journeys in life."
-    },
-    {
         text: "The polar bear's swim symbolizes courage in icy waters; may your bravery shine in challenging situations. Inuit",
         author: "Symbolizes the polar bear's swim, wishing for bravery that shines brightly in the face of challenging and icy situations."
     },
     {
-        text: "The lemming's communal nests embody shared living; may your communities thrive on cooperation and shared values. Inuit",
-        author: "Symbolizes the lemming's communal nests, encouraging communities that thrive on cooperation and shared values."
-    },
-    {
         text: "The Inuit qajaq's fluid movements mirror the flow of life; may your journey be characterized by adaptability and grace. Inuit",
         author: "Uses the Inuit qajaq's movements as a metaphor, urging a life journey characterized by adaptability and grace in navigating the flow of life."
-    },
-    {
-        text: "The arctic char's migration echoes the cycles of life; may your path be guided by awareness of life's natural rhythms. Inuit",
-        author: "Symbolizes the arctic char's migration, wishing for a path guided by awareness of life's natural rhythms and cycles."
-    },
-    {
-        text: "The Inuit amauti cradles precious life; may your care and nurture create a foundation for growth and resilience. Inuit",
-        author: "Uses the Inuit amauti as a symbol of care, wishing for actions that cradle and nurture the preciousness of life, creating a foundation for growth and resilience."
     },
     {
         text: "The Inuit kamik shields against bitter cold; may your preparations protect you from life's harsh challenges. Inuit",
@@ -392,28 +376,8 @@ const localQuotes10 = [
         author: "Uses the Inuit kayak's design as a metaphor, urging strategies that cut through challenges with efficiency and precision."
     },
     {
-        text: "The lemming's communal nests embody shared living; may your communities thrive on cooperation and shared values. Inuit",
-        author: "Symbolizes the lemming's communal nests, encouraging communities that thrive on cooperation and shared values."
-    },
-    {
-        text: "The Inuit snow shovel clears pathways; may your actions remove obstacles for others, creating smoother journeys. Inuit",
-        author: "Uses the Inuit snow shovel as a symbol, urging actions that remove obstacles for others and create smoother journeys in life."
-    },
-    {
         text: "The Arctic char's migration echoes the cycles of life; may your path be guided by awareness of life's natural rhythms. Inuit",
         author: "Symbolizes the Arctic char's migration, wishing for a path guided by awareness of life's natural rhythms and cycles."
-    },
-    {
-        text: "The Inuit qajaq's fluid movements mirror the flow of life; may your journey be characterized by adaptability and grace. Inuit",
-        author: "Uses the Inuit qajaq's movements as a metaphor, urging a life journey characterized by adaptability and grace in navigating the flow of life."
-    },
-    {
-        text: "The arctic wolf's pack thrives on collaboration; may your partnerships foster success and mutual growth. Inuit",
-        author: "Celebrates the collaboration of Arctic wolf packs, encouraging partnerships that foster success and mutual growth."
-    },
-    {
-        text: "The Inuit amauti cradles precious life; may your care and nurture create a foundation for growth and resilience. Inuit",
-        author: "Uses the Inuit amauti as a symbol of care, wishing for actions that cradle and nurture the preciousness of life, creating a foundation for growth and resilience."
     },
     {
         text: "The seal's sleek movements through icy waters inspire grace in navigating life's challenges. Inuit",
@@ -432,52 +396,8 @@ const localQuotes10 = [
         author: "Symbolizes the Arctic fox's fur, urging adaptability that allows seamless navigation through various environments and situations."
     },
     {
-        text: "The lemming's communal nests embody shared living; may your communities thrive on cooperation and shared values. Inuit",
-        author: "Symbolizes the lemming's communal nests, encouraging communities that thrive on cooperation and shared values."
-    },
-    {
         text: "The Inuit snow shovel clears pathways; may your actions remove obstacles for others, creating smoother journeys. Inuit",
         author: "Uses the Inuit snow shovel as a symbol, urging actions that remove obstacles for others and create smoother journeys in life."
-    },
-    {
-        text: "The Arctic char's migration echoes the cycles of life; may your path be guided by awareness of life's natural rhythms. Inuit",
-        author: "Symbolizes the Arctic char's migration, wishing for a path guided by awareness of life's natural rhythms and cycles."
-    },
-    {
-        text: "The Inuit qajaq's fluid movements mirror the flow of life; may your journey be characterized by adaptability and grace. Inuit",
-        author: "Uses the Inuit qajaq's movements as a metaphor, urging a life journey characterized by adaptability and grace in navigating the flow of life."
-    },
-    {
-        text: "The arctic wolf's pack thrives on collaboration; may your partnerships foster success and mutual growth. Inuit",
-        author: "Celebrates the collaboration of Arctic wolf packs, encouraging partnerships that foster success and mutual growth."
-    },
-    {
-        text: "The Inuit amauti cradles precious life; may your care and nurture create a foundation for growth and resilience. Inuit",
-        author: "Uses the Inuit amauti as a symbol of care, wishing for actions that cradle and nurture the preciousness of life, creating a foundation for growth and resilience."
-    },
-    {
-        text: "The snowy owl's feathers carry messages of wisdom; may your insights inspire those around you. Inuit",
-        author: "Symbolizes the snowy owl's feathers, wishing for insights that inspire and uplift those in your community."
-    },
-    {
-        text: "The Inuit ice knife cuts through frozen obstacles; may your determination overcome challenges with precision. Inuit",
-        author: "Uses the Inuit ice knife as a symbol of determination, urging actions that cut through obstacles with precision and resolve."
-    },
-    {
-        text: "The beluga whale's social bonds exemplify the strength of community; may your connections bring enduring support. Inuit",
-        author: "Celebrates the beluga whale's social bonds, encouraging connections that bring enduring support and strength in community."
-    },
-    {
-        text: "The Inuit snow goggles reveal hidden details; may your perception uncover truths that others may overlook. Inuit",
-        author: "Uses the Inuit snow goggles as a metaphor for perception, urging a keen awareness that uncovers hidden details and truths."
-    },
-    {
-        text: "The polar bear's fur insulates against the cold; may your resilience protect you in challenging times. Inuit",
-        author: "Symbolizes the polar bear's fur, wishing for resilience that insulates and protects against the challenges of life."
-    },
-    {
-        text: "The Inuit ulu blade carves paths in the ice; may your choices create clear and purposeful directions. Inuit",
-        author: "Uses the Inuit ulu blade as a symbol of choices, urging decisions that carve clear and purposeful paths in life's journey."
     },
     {
         text: "The caribou's antlers symbolize strength; may your character be a reflection of enduring fortitude. Inuit",
@@ -498,22 +418,6 @@ const localQuotes10 = [
     {
         text: "The lemming's communal nests embody shared living; may your communities thrive on cooperation and shared values. Inuit",
         author: "Symbolizes the lemming's communal nests, encouraging communities that thrive on cooperation and shared values."
-    },
-    {
-        text: "The Inuit snow shovel clears pathways; may your actions remove obstacles for others, creating smoother journeys. Inuit",
-        author: "Uses the Inuit snow shovel as a symbol, urging actions that remove obstacles for others and create smoother journeys in life."
-    },
-    {
-        text: "The Arctic char's migration echoes the cycles of life; may your path be guided by awareness of life's natural rhythms. Inuit",
-        author: "Symbolizes the Arctic char's migration, wishing for a path guided by awareness of life's natural rhythms and cycles."
-    },
-    {
-        text: "The Inuit qajaq's fluid movements mirror the flow of life; may your journey be characterized by adaptability and grace. Inuit",
-        author: "Uses the Inuit qajaq's movements as a metaphor, urging a life journey characterized by adaptability and grace in navigating the flow of life."
-    },
-    {
-        text: "The arctic wolf's pack thrives on collaboration; may your partnerships foster success and mutual growth. Inuit",
-        author: "Celebrates the collaboration of Arctic wolf packs, encouraging partnerships that foster success and mutual growth."
     },
     {
         text: "The Inuit amauti cradles precious life; may your care and nurture create a foundation for growth and resilience. Inuit",
@@ -550,10 +454,6 @@ const localQuotes10 = [
     {
         text: "The arctic hare's fur changes with the seasons; may your adaptability bring success in every phase of life. Inuit",
         author: "Symbolizes the arctic hare's changing fur, urging adaptability for success in various life situations."
-    },
-    {
-        text: "The Inuit sled dogs run in unison, highlighting the power of collaboration and harmony. Inuit",
-        author: "Celebrates the unity of Inuit sled dogs, encouraging collaboration and harmonious efforts."
     },
     {
         text: "The walrus's tusks are symbols of strength; may your inner resilience guide you through tumultuous times. Inuit",

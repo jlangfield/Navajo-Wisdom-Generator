@@ -256,3 +256,37 @@ newQuote8();
 newQuote9();
 newQuote10();
 newQuote11();
+
+// To display duplicates in console
+
+function findDuplicates(array) {
+    const seen = new Map();
+    const duplicates = [];
+
+    for (const quote of array) {
+        const key = `${quote.text.trim().toLowerCase()}|${quote.author.trim().toLowerCase()}`;
+        
+        if (seen.has(key)) {
+            // Duplicate found, add both the current and previous objects to duplicates array
+            duplicates.push(seen.get(key));
+            duplicates.push(quote);
+        } else {
+            seen.set(key, quote);
+        }
+    }
+
+    return duplicates;
+}
+
+const duplicateQuotes = findDuplicates(localQuotes);
+
+if (duplicateQuotes.length > 0) {
+    console.log('Duplicates found:');
+    duplicateQuotes.forEach((quote, index) => {
+        console.log(`Duplicate ${index + 1}:`);
+        console.log(quote);
+        console.log('---');
+    });
+} else {
+    console.log('No duplicates found in the array.');
+}

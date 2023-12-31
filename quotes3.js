@@ -136,16 +136,8 @@ const localQuotes3 = [
     author: "Encourages humility and the acknowledgment that there is always more to learn and understand.",
   },
   {
-    text: "Don't carry a grudge; while you're carrying a grudge, the other guy's out dancing. Hopi",
-    author: "Advises against holding onto resentment, as it only burdens oneself, while the perceived wrongdoer moves on.",
-  },
-  {
     text: "A good chief gives, he does not take. Hopi",
     author: "Highlights the qualities of leadership that prioritize giving, serving, and selflessness.",
-  },
-  {
-    text: "We will be known forever by the tracks we leave. Hopi",
-    author: "Encourages mindful actions, as they contribute to one's legacy and the collective history of the community.",
   },
   {
     text: "Listen, or your tongue will make you deaf. Hopi",
@@ -248,48 +240,16 @@ const localQuotes3 = [
     author: "Highlights the potential for growth and learning even in challenging situations."
   },
   {
-    text: "Do not let what you cannot do interfere with what you can do. Hopi",
-    author: "Encourages focusing on one's strengths and capabilities rather than dwelling on limitations."
-  },
-  {
-    text: "The sun shines not on us but in us. Hopi",
-    author: "Encourages recognizing the inner light and positive qualities within oneself."
-  },
-  {
     text: "To give and then not feel that one has given is the very best of all ways of giving. Hopi",
     author: "Emphasizes the selfless nature of true giving, without expecting anything in return."
-  },
-  {
-    text: "Every step is a first step if it's a step into the unknown. Hopi",
-    author: "Encourages embracing new experiences and challenges with a sense of curiosity and courage."
-  },
-  {
-    text: "The only journey is the one within. Hopi",
-    author: "Encourages self-reflection and personal growth as an essential part of life's journey."
-  },
-  {
-    text: "It is better to have less thunder in the mouth and more lightning in the hand. Hopi",
-    author: "Emphasizes the power of action and deeds over empty words and boasts."
   },
   {
     text: "You can't change someone who doesn't see an issue with their actions. Hopi",
     author: "Acknowledges the challenge of influencing those who are unaware or unwilling to change."
   },
   {
-    text: "Your life does not get better by chance; it gets better by change. Hopi",
-    author: "Encourages proactive efforts and adaptability as keys to personal improvement and happiness."
-  },
-  {
     text: "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate. Hopi",
     author: "Defines a meaningful life based on contributing to the well-being of others and living with integrity."
-  },
-  {
-    text: "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it. Hopi",
-    author: "Encourages self-awareness and the removal of personal barriers to experiencing love and connection."
-  },
-  {
-    text: "What we think, we become. Hopi",
-    author: "Expresses the idea that our thoughts shape our identity and influence our actions."
   },
   {
     text: "Be kind, for everyone you meet is fighting a harder battle. Hopi",
@@ -316,20 +276,8 @@ const localQuotes3 = [
     author: "Encourages starting each day with gratitude for the gift of life."
   },
   {
-    text: "Kind words do not cost much. Yet they accomplish much. Hopi",
-    author: "Emphasizes the positive impact of simple acts of kindness in building connections and goodwill."
-  },
-  {
-    text: "What you do makes a difference, and you have to decide what kind of difference you want to make. Hopi",
-    author: "Encourages taking responsibility for one's actions and understanding their impact on the world."
-  },
-  {
     text: "To love and be loved is to feel the sun from both sides. Hopi",
     author: "Expresses the reciprocal and fulfilling nature of genuine love and connection."
-  },
-  {
-    text: "It's not what you look at that matters, it's what you see. Hopi",
-    author: "Encourages deeper perception and understanding beyond surface appearances."
   },
   {
     text: "The earth is our mother; care for her as you would care for your own mother. Hopi",
@@ -532,28 +480,12 @@ const localQuotes3 = [
     author: "Highlights the transformative and renewing power of generosity, kindness, and compassion."
   },
   {
-    text: "It is not the mountain we conquer, but ourselves. Hopi",
-    author: "Encourages self-discovery and personal growth through overcoming internal challenges."
-  },
-  {
     text: "An empty stomach is not a good political advisor. Hopi",
     author: "Highlights the practical importance of addressing basic needs before engaging in complex matters."
   },
   {
-    text: "Don't let the noise of others' opinions drown out your inner voice. Hopi",
-    author: "Encourages staying true to one's values and intuition despite external influences."
-  },
-  {
-    text: "You are never too old to set another goal or to dream a new dream. Hopi",
-    author: "Encourages lifelong learning, growth, and the pursuit of new aspirations at any age."
-  },
-  {
     text: "Your time is limited, don't waste it living someone else's life. Hopi",
     author: "Encourages individuals to live authentically and pursue their own paths and dreams."
-  },
-  {
-    text: "Sometimes you will never know the value of a moment until it becomes a memory. Hopi",
-    author: "Encourages mindfulness and appreciation for the fleeting nature of precious moments."
   },
   {
     text: "Success is not final, failure is not fatal: It is the courage to continue that counts. Hopi",
@@ -572,10 +504,6 @@ const localQuotes3 = [
     author: "Encourages optimism and the recognition of new opportunities in the face of challenges."
   },
   {
-    text: "Life is really simple, but we insist on making it complicated. Hopi",
-    author: "Suggests the value of simplicity and the tendency to unnecessarily complicate life."
-  },
-  {
     text: "The only limit to our realization of tomorrow will be our doubts of today. Hopi",
     author: "Encourages overcoming doubts and believing in one's potential for future achievements."
   },
@@ -586,10 +514,6 @@ const localQuotes3 = [
   {
     text: "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight. Hopi",
     author: "Encourages focusing on the positive aspects of life rather than worrying about potential difficulties."
-  },
-  {
-    text: "The best way to predict your future is to create it. Hopi",
-    author: "Emphasizes personal agency and the role individuals play in shaping their own destinies."
   },
   {
     text: "When you reach the end of your rope, tie a knot in it and hang on. Hopi",
@@ -684,14 +608,6 @@ const localQuotes3 = [
     author: "Suggests the value of simplicity and the tendency to unnecessarily complicate life."
   },
   {
-    text: "You are never too old to set another goal or to dream a new dream. Hopi",
-    author: "Encourages lifelong learning, growth, and the pursuit of new aspirations at any age."
-  },
-  {
-    text: "Do not speak unless you can improve the silence. Hopi",
-    author: "Encourages thoughtful and purposeful speech, recognizing the value of silence."
-  },
-  {
     text: "The best way to predict your future is to create it. Hopi",
     author: "Emphasizes personal agency and the role individuals play in shaping their own destinies."
   },
@@ -700,20 +616,12 @@ const localQuotes3 = [
     author: "Encourages self-discovery and personal growth through overcoming internal challenges."
   },
   {
-    text: "An empty stomach is not a good political advisor. Hopi",
-    author: "Highlights the practical importance of addressing basic needs before engaging in complex matters."
-  },
-  {
     text: "Don't let the noise of others' opinions drown out your inner voice. Hopi",
     author: "Encourages staying true to one's values and intuition despite external influences."
   },
   {
     text: "You are never too old to set another goal or to dream a new dream. Hopi",
     author: "Encourages lifelong learning, growth, and the pursuit of new aspirations at any age."
-  },
-  {
-    text: "Your time is limited, don't waste it living someone else's life. Hopi",
-    author: "Encourages individuals to live authentically and pursue their own paths and dreams."
   },
   {
     text: "Sometimes you will never know the value of a moment until it becomes a memory. Hopi",
@@ -732,20 +640,12 @@ const localQuotes3 = [
     author: "Encourages self-reflection and personal growth as an essential part of life's journey."
   },
   {
-    text: "Be kind, for everyone you meet is fighting a harder battle. Hopi",
-    author: "Encourages empathy and understanding, recognizing that everyone faces challenges."
-  },
-  {
     text: "Kind words do not cost much. Yet they accomplish much. Hopi",
     author: "Emphasizes the positive impact of simple acts of kindness in building connections and goodwill."
   },
   {
     text: "What we think, we become. Hopi",
     author: "Expresses the idea that our thoughts shape our identity and influence our actions."
-  },
-  {
-    text: "To give and then not feel that one has given is the very best of all ways of giving. Hopi",
-    author: "Emphasizes the selfless nature of true giving, without expecting anything in return."
   },
   {
     text: "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it. Hopi",
@@ -764,40 +664,20 @@ const localQuotes3 = [
     author: "Emphasizes the value of patience, humility, and the importance of the journey over the destination."
   },
   {
-    text: "A wise man learns more from his enemies than a fool from his friends. Hopi",
-    author: "Highlights the potential for growth and learning even in challenging situations."
-  },
-  {
     text: "Do not let what you cannot do interfere with what you can do. Hopi",
     author: "Encourages focusing on one's strengths and capabilities rather than dwelling on limitations."
-  },
-  {
-    text: "The river is never in a hurry, yet it still reaches its destination. Hopi",
-    author: "Emphasizes the value of patience and persistence in achieving goals."
   },
   {
     text: "It is better to have less thunder in the mouth and more lightning in the hand. Hopi",
     author: "Emphasizes the power of action and deeds over empty words and boasts."
   },
   {
-    text: "You can't change someone who doesn't see an issue with their actions. Hopi",
-    author: "Acknowledges the challenge of influencing those who are unaware or unwilling to change."
-  },
-  {
     text: "Your life does not get better by chance; it gets better by change. Hopi",
     author: "Encourages proactive efforts and adaptability as keys to personal improvement and happiness."
   },
   {
-    text: "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate. Hopi",
-    author: "Defines a meaningful life based on contributing to the well-being of others and living with integrity."
-  },
-  {
     text: "What you do makes a difference, and you have to decide what kind of difference you want to make. Hopi",
     author: "Encourages taking responsibility for one's actions and understanding their impact on the world."
-  },
-  {
-    text: "To love and be loved is to feel the sun from both sides. Hopi",
-    author: "Expresses the reciprocal and fulfilling nature of genuine love and connection."
   },
   {
     text: "It's not what you look at that matters, it's what you see. Hopi",
@@ -878,14 +758,6 @@ const localQuotes3 = [
   {
     text: "The greatest glory in living lies not in never falling, but in rising every time we fall. Hopi",
     author: "Encourages resilience and the strength gained from overcoming challenges and setbacks"
-  },
-  {
-    text: "Life is really simple, but we insist on making it complicated. Hopi",
-    author: "Suggests the value of simplicity and the tendency to unnecessarily complicate life"
-  },
-  {
-    text: "You are never too old to set another goal or to dream a new dream. Hopi",
-    author: "Encourages lifelong learning, growth, and the pursuit of new aspirations at any age"
   },
   {
     text: "The purpose of our lives is to be happy. Hopi",

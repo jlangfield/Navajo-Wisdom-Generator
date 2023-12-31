@@ -4,10 +4,6 @@ const localQuotes7 = [
         author: "Recognizes that some individuals may choose to ignore or deny certain truths, making it challenging to bring awareness or change."
     },
     {
-        text: "The thunder may break the silence, but the lightning is seen first. Iroquois",
-        author: "Suggests that impactful actions often precede significant words, and one's deeds are more noticeable than their words."
-    },
-    {
         text: "Give thanks for unknown blessings already on their way. Iroquois",
         author: "Encourages gratitude and positive anticipation, acknowledging the abundance of unseen blessings that may be forthcoming."
     },
@@ -100,16 +96,8 @@ const localQuotes7 = [
         author: "Encourages authenticity and self-acceptance, advising against pretending to be someone or something other than one's true self."
     },
     {
-        text: "You can't wake a person who is pretending to be asleep. Iroquois",
-        author: "Recognizes that some individuals may choose to ignore or deny certain truths, making it challenging to bring awareness or change."
-    },
-    {
         text: "The thunder may break the silence, but the lightning is seen first. Iroquois",
         author: "Suggests that impactful actions often precede significant words, and one's deeds are more noticeable than their words."
-    },
-    {
-        text: "Give thanks for unknown blessings already on their way. Iroquois",
-        author: "Encourages gratitude and positive anticipation, acknowledging the abundance of unseen blessings that may be forthcoming."
     },
     {
         text: "The strength of the Wolf is in the pack, and the strength of the pack is in the Wolf. Iroquois",

@@ -4,14 +4,6 @@ const localQuotes5 = [
     author: "Emphasizes the importance of continuous learning and education in gaining wisdom, regardless of age."
   },
   {
-    text: "It is better to have less thunder in the mouth and more lightning in the hand. Apache",
-    author: "Advocates for actions and deeds to speak louder than words, emphasizing the value of tangible contributions."
-  },
-  {
-    text: "You can't wake a person who is pretending to be asleep. Apache",
-    author: "Highlights the challenge of reaching someone who is unwilling to acknowledge or address a situation."
-  },
-  {
     text: "The best way to eat an elephant is one bite at a time. Apache",
     author: "Encourages tackling large tasks or challenges gradually and with persistence."
   },
@@ -41,56 +33,12 @@ const localQuotes5 = [
     author: "Recognizes the therapeutic and cathartic nature of expressing emotions, particularly through tears."
   },
   {
-    text: "It is less of a problem to be poor than to be dishonest. Apache",
-    author: "Values honesty and integrity, emphasizing that maintaining one's character is more important than material wealth."
-  },
-  {
     text: "There is nothing as eloquent as a rattlesnake's tail. Apache",
     author: "Emphasizes the power of actions and non-verbal communication, comparing it to the impactful sound of a rattlesnake's tail."
   },
   {
     text: "The greatest war is that which is fought within the hearts of the people. Apache",
     author: "Highlights the internal struggles and conflicts that individuals may face, suggesting that personal battles can be profound."
-  },
-  {
-    text: "Give me knowledge, so I may have kindness for all. Apache",
-    author: "Links knowledge and understanding to compassion, expressing a desire for wisdom that fosters kindness toward others."
-  },
-  {
-    text: "You can't take it with you, but you can send it on ahead. Apache",
-    author: "Encourages acts of generosity and kindness, suggesting that the impact of benevolent actions transcends material possessions."
-  },
-  {
-    text: "It is easy to be brave from a distance. Apache",
-    author: "Acknowledges the contrast between bravado from a safe distance and the genuine courage required in face-to-face encounters."
-  },
-  {
-    text: "It is better to die than to fear death. Apache",
-    author: "Encourages facing challenges and adversity with courage, suggesting that the fear of death should not hinder one's actions."
-  },
-  {
-    text: "Don't let yesterday take up too much of today. Apache",
-    author: "Advises against dwelling excessively on past events, urging a focus on the present and the possibilities of the future."
-  },
-  {
-    text: "Those who have one foot in the canoe and one foot in the boat are going to fall into the river. Apache",
-    author: "Warns against indecision and the inability to commit fully to a course of action, which may lead to failure."
-  },
-  {
-    text: "You can't plant a bean and expect a cornstalk. Apache",
-    author: "Emphasizes the principle of cause and effect, highlighting the importance of aligning actions with desired outcomes."
-  },
-  {
-    text: "The one who tells the stories rules the world. Apache",
-    author: "Recognizes the power of storytelling in shaping perceptions and influencing the understanding of the world."
-  },
-  {
-    text: "When you see something that is done, know that the one who did it is already dead. Apache",
-    author: "Acknowledges that the consequences of actions may outlive the individual who performed them."
-  },
-  {
-    text: "A mountain is not higher than your confidence. It will be under your feet if you reach the top. Apache",
-    author: "Encourages confidence and self-belief, suggesting that challenges can be overcome with the right mindset."
   },
   {
     text: "The best fighter is never angry. Apache",
@@ -113,28 +61,8 @@ const localQuotes5 = [
     author: "Appreciates the beauty of words but underscores the power and wisdom found in thoughtful silence."
   },
   {
-    text: "The tallest tree has the deepest roots. Apache",
-    author: "Symbolizes the strength and stability that come from a solid foundation, drawing a parallel to personal resilience."
-  },
-  {
-    text: "One's own actions tell what that person is. Apache",
-    author: "Emphasizes the significance of deeds and behavior in revealing an individual's character and values."
-  },
-  {
-    text: "Tell me a truth and I'll believe. Tell me a fact and I'll learn. But tell me a story, and it will live in my heart forever. Apache",
-    author: "Recognizes the enduring impact of storytelling in conveying truths and creating lasting impressions."
-  },
-  {
-    text: "It is better to be feared than loved if you cannot be both. Apache",
-    author: "Offers a perspective on leadership, suggesting that if a choice must be made, it is preferable to be respected and feared."
-  },
-  {
     text: "Don't be someone's downtime, spare time, part-time, or sometime. If they can't be there for you all the time, they're not even worth your time. Apache",
     author: "Encourages recognizing and prioritizing relationships that are genuine and reciprocated."
-  },
-  {
-    text: "It is not the answer that enlightens, but the question. Apache",
-    author: "Highlights the value of asking insightful questions, emphasizing the process of seeking understanding and enlightenment."
   },
   {
     text: "You can't start the next chapter of your life if you keep re-reading the last one. Apache",
@@ -157,28 +85,12 @@ const localQuotes5 = [
     author: "Encourages finding passion and love in one's pursuits, emphasizing dedication and commitment."
   },
   {
-    text: "It is better to live one day as a lion than 100 years as a sheep. Apache",
-    author: "Encourages bravery and living with courage, even if it means facing challenges and risks."
-  },
-  {
     text: "A mountain is composed of tiny grains of earth. The ocean is made up of tiny drops of water. Even so, life is but an endless series of little details, actions, speeches, and thoughts. And the consequences, whether good or bad, of even the least of them are far-reaching. Apache",
     author: "Emphasizes the cumulative impact of small actions and details in shaping the course of life, highlighting the significance of mindfulness."
   },
   {
     text: "When you arise in the morning, give thanks for the morning light, for your life and strength. Give thanks for your food and the joy of living. If you see no reason for giving thanks, the fault lies in yourself. Apache",
     author: "Encourages gratitude and appreciation for the blessings of life, suggesting that finding reasons to be thankful is a personal responsibility."
-  },
-  {
-    text: "Don't let the weeds grow around your dreams. Apache",
-    author: "Advises against neglecting one's aspirations and allowing obstacles to hinder personal growth and achievement."
-  },
-  {
-    text: "Do not judge your neighbor until you walk two moons in his moccasins. Apache",
-    author: "Reinforces the principle of empathy, encouraging a deeper understanding of others before passing judgment."
-  },
-  {
-    text: "You can't build a reputation on what you are going to do. Apache",
-    author: "Emphasizes the importance of actions and accomplishments in establishing one's reputation, cautioning against relying solely on intentions."
   },
   {
     text: "A journey of a thousand miles begins with a single step. Apache",
@@ -209,10 +121,6 @@ const localQuotes5 = [
     author: "Advises against dwelling excessively on past events, urging a focus on the present and the possibilities of the future."
   },
   {
-    text: "You can't build a reputation on what you are going to do. Apache",
-    author: "Emphasizes the importance of actions and accomplishments in establishing one's reputation, cautioning against relying solely on intentions."
-  },
-  {
     text: "The more you give, the more you will have. Apache",
     author: "Encourages generosity and the understanding that giving can lead to abundance in various aspects of life."
   },
@@ -223,10 +131,6 @@ const localQuotes5 = [
   {
     text: "The sun sets to rise again. Apache",
     author: "Conveys the idea of hope and renewal, suggesting that even in difficult times, there is the promise of a new beginning."
-  },
-  {
-    text: "A wise man learns more from his enemies than a fool from his friends. Apache",
-    author: "Emphasizes the potential for growth and learning in challenges and adversities, contrasting with the limitations of foolishness."
   },
   {
     text: "Fear is the thief of dreams. Apache",
@@ -249,36 +153,12 @@ const localQuotes5 = [
     author: "Advocates for actions and deeds to speak louder than words, emphasizing the value of tangible contributions."
   },
   {
-    text: "The greatest test of courage on Earth is to bear defeat without losing heart. Apache",
-    author: "Recognizes the true test of courage in the ability to endure defeat and setbacks while maintaining resilience."
-  },
-  {
-    text: "When you were born, you cried, and the world rejoiced. Live your life in such a way that when you die, the world cries and you rejoice. Apache",
-    author: "Encourages living a life of positive impact and leaving a lasting legacy that brings joy and reflection upon passing."
-  },
-  {
     text: "The eagle does not catch flies. Apache",
     author: "Draws attention to maintaining focus on significant matters and avoiding distractions that are beneath one's dignity."
   },
   {
-    text: "A mountain is not higher than your confidence. It will be under your feet if you reach the top. Apache",
-    author: "Encourages confidence and self-belief, suggesting that challenges can be overcome with the right mindset."
-  },
-  {
     text: "The only limit to our realization of tomorrow will be our doubts of today. Apache",
     author: "Encourages overcoming doubts and embracing the limitless potential of the future."
-  },
-  {
-    text: "A wise man learns more from his enemies than a fool from his friends. Apache",
-    author: "Emphasizes the potential for growth and learning in challenges and adversities, contrasting with the limitations of foolishness."
-  },
-  {
-    text: "It is better to live one day as a lion than 100 years as a sheep. Apache",
-    author: "Encourages bravery and living with courage, even if it means facing challenges and risks."
-  },
-  {
-    text: "When you arise in the morning, give thanks for the morning light, for your life and strength. Give thanks for your food and the joy of living. If you see no reason for giving thanks, the fault lies in yourself. Apache",
-    author: "Encourages gratitude and appreciation for the blessings of life, suggesting that finding reasons to be thankful is a personal responsibility."
   },
   {
     text: "Don't let the weeds grow around your dreams. Apache",
@@ -293,44 +173,8 @@ const localQuotes5 = [
     author: "Emphasizes the importance of actions and accomplishments in establishing one's reputation, cautioning against relying solely on intentions."
   },
   {
-    text: "The more you give, the more you will have. Apache",
-    author: "Encourages generosity and the understanding that giving can lead to abundance in various aspects of life."
-  },
-  {
-    text: "Don't call the alligator big-mouth until you cross the river. Apache",
-    author: "Advises against underestimating challenges or opponents until they are truly faced, cautioning against premature judgments."
-  },
-  {
-    text: "The sun sets to rise again. Apache",
-    author: "Conveys the idea of hope and renewal, suggesting that even in difficult times, there is the promise of a new beginning."
-  },
-  {
-    text: "A wise man learns more from his enemies than a fool from his friends. Apache",
-    author: "Emphasizes the potential for growth and learning in challenges and adversities, contrasting with the limitations of foolishness."
-  },
-  {
-    text: "Fear is the thief of dreams. Apache",
-    author: "Highlights the inhibiting nature of fear, suggesting that it can rob individuals of pursuing and achieving their dreams."
-  },
-  {
-    text: "Don't let your special character and values, the secret that you know and no one else does, the truth – don't let that get swallowed up by the great chewing complacency. Apache",
-    author: "Urges the preservation of one's unique qualities and values in the face of societal pressures and conformity."
-  },
-  {
-    text: "To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to. Apache",
-    author: "Encourages looking beyond current achievements to understand someone's true character and aspirations."
-  },
-  {
-    text: "When the roots are deep, there is no reason to fear the wind. Apache",
-    author: "Symbolizes the strength and stability that come from a solid foundation, providing resilience against challenges."
-  },
-  {
     text: "Do not be in a hurry to succeed. What would you have to live for afterwards? Apache",
     author: "Emphasizes the value of patience, humility, and the importance of the journey over the destination."
-  },
-  {
-    text: "It is better to have less thunder in the mouth and more lightning in the hand. Apache",
-    author: "Advocates for actions and deeds to speak louder than words, emphasizing the value of tangible contributions."
   },
   {
     text: "The greatest test of courage on Earth is to bear defeat without losing heart. Apache",
@@ -341,10 +185,6 @@ const localQuotes5 = [
     author: "Stresses the importance of active listening to avoid ignorance and the consequences of not hearing and understanding."
   },
   {
-    text: "When you were born, you cried, and the world rejoiced. Live your life in such a way that when you die, the world cries and you rejoice. Apache",
-    author: "Encourages living a life of positive impact and leaving a lasting legacy that brings joy and reflection upon passing."
-  },
-  {
     text: "He who tells the truth is never wrong. Apache",
     author: "Stresses the value of honesty and truthfulness, suggesting that speaking the truth is a principled and righteous act."
   },
@@ -353,24 +193,12 @@ const localQuotes5 = [
     author: "Encourages embracing each new day as an opportunity for a fresh start, letting go of past burdens."
   },
   {
-    text: "Don't be afraid to cry. It will free your mind of sorrowful thoughts. Apache",
-    author: "Recognizes the therapeutic and cathartic nature of expressing emotions, particularly through tears."
-  },
-  {
-    text: "Give me knowledge, so I may have kindness for all. Apache",
-    author: "Links knowledge and understanding to compassion, expressing a desire for wisdom that fosters kindness toward others."
-  },
-  {
     text: "You can't take it with you, but you can send it on ahead. Apache",
     author: "Encourages acts of generosity and kindness, suggesting that the impact of benevolent actions transcends material possessions."
   },
   {
     text: "It is easy to be brave from a distance. Apache",
     author: "Acknowledges the contrast between bravado from a safe distance and the genuine courage required in face-to-face encounters."
-  },
-  {
-    text: "It is better to die than to fear death. Apache",
-    author: "Encourages facing challenges and adversity with courage, suggesting that the fear of death should not hinder one's actions."
   },
   {
     text: "Those who have one foot in the canoe and one foot in the boat are going to fall into the river. Apache",
@@ -383,30 +211,6 @@ const localQuotes5 = [
   {
     text: "The one who tells the stories rules the world. Apache",
     author: "Recognizes the power of storytelling in shaping perceptions and influencing the understanding of the world."
-  },
-  {
-    text: "When you see something that is done, know that the one who did it is already dead. Apache",
-    author: "Acknowledges that the consequences of actions may outlive the individual who performed them."
-  },
-  {
-    text: "A mountain is not higher than your confidence. It will be under your feet if you reach the top. Apache",
-    author: "Encourages confidence and self-belief, suggesting that challenges can be overcome with the right mindset."
-  },
-  {
-    text: "The best fighter is never angry. Apache",
-    author: "Emphasizes the importance of maintaining composure and control, suggesting that true strength lies in calmness."
-  },
-  {
-    text: "Do not allow anger to poison you. Apache",
-    author: "Advises against harboring and succumbing to anger, recognizing its detrimental effects on one's well-being."
-  },
-  {
-    text: "A good friend is better than a near relation. Apache",
-    author: "Values the quality of friendships over mere proximity of relations, highlighting the significance of genuine connections."
-  },
-  {
-    text: "You can't wake a person who is pretending to be asleep. Apache",
-    author: "Reiteration of the proverb, emphasizing the challenge of reaching someone who feigns ignorance or avoidance."
   },
   {
     text: "The tallest tree has the deepest roots. Apache",
@@ -423,10 +227,6 @@ const localQuotes5 = [
   {
     text: "It is better to be feared than loved if you cannot be both. Apache",
     author: "Offers a perspective on leadership, suggesting that if a choice must be made, it is preferable to be respected and feared."
-  },
-  {
-    text: "Don't be someone's downtime, spare time, part-time, or sometime. If they can't be there for you all the time, they're not even worth your time. Apache",
-    author: "Encourages recognizing and prioritizing relationships that are genuine and reciprocated."
   },
   {
     text: "It is not the answer that enlightens, but the question. Apache",
@@ -449,14 +249,6 @@ const localQuotes5 = [
     author: "Advocates for maintaining inner calm and not allowing external actions to disrupt one's inner harmony."
   },
   {
-    text: "Wisdom, like the seed, must be sown and nurtured to grow. Apache",
-    author: "Compares wisdom to a seed that needs intentional cultivation for it to develop and flourish."
-  },
-  {
-    text: "When you were born, you cried, and the world rejoiced. Live your life in such a way that when you die, the world cries and you rejoice. Apache",
-    author: "Encourages living a life of positive impact and leaving a lasting legacy that brings joy and reflection upon passing."
-  },
-  {
     text: "The eagle that sees the furthest flies the highest. Apache",
     author: "Highlights the connection between vision and achievement, suggesting that clarity of vision leads to greater accomplishments."
   },
@@ -477,28 +269,12 @@ const localQuotes5 = [
     author: "Encourages moderation and sustainability, advising against depleting or exploiting one's resources."
   },
   {
-    text: "It is less of a problem to be poor than to be dishonest. Apache",
-    author: "Emphasizes the importance of integrity, suggesting that honesty holds greater value than material wealth."
-  },
-  {
-    text: "A man who trims himself to suit everybody will soon whittle himself away. Apache",
-    author: "Warns against losing one's identity and values by constantly adapting to the expectations of others."
-  },
-  {
     text: "Before eating always take time to thank the food. Apache",
     author: "Encourages gratitude and mindfulness, reminding us to appreciate the source of our sustenance before consuming it."
   },
   {
     text: "Do not wrong or hate your neighbor, for it is not he that you wrong, but yourself. Apache",
     author: "Conveys the interconnectedness of humanity, suggesting that harm to others ultimately harms oneself."
-  },
-  {
-    text: "Silence is the absolute poise or balance of body, mind, and spirit. Apache",
-    author: "Views silence as a state of equilibrium that encompasses physical, mental, and spiritual aspects."
-  },
-  {
-    text: "We do not walk alone. Great Being walks beside us. Know this and be grateful. Apache",
-    author: "Acknowledges a spiritual presence and encourages gratitude for the companionship on life's journey."
   },
   {
     text: "The truth is simple. It is the lies that are complex. Apache",
@@ -525,10 +301,6 @@ const localQuotes5 = [
     author: "Conveys wishes for well-being, renewal, and serenity, invoking the elements of nature for positive energy."
   },
   {
-    text: "You can't force anyone to love you or lend you money. Apache",
-    author: "Highlights the nature of love and support as choices that cannot be compelled but must be freely given."
-  },
-  {
     text: "To be prepared is half the victory. Apache",
     author: "Emphasizes the importance of readiness and foresight in achieving success."
   },
@@ -545,10 +317,6 @@ const localQuotes5 = [
     author: "Reminds us of the tendency for criticism to be easier than taking positive action or contributing improvement."
   },
   {
-    text: "Do not let the behavior of others destroy your inner peace. Apache",
-    author: "Advocates for maintaining inner calm and not allowing external actions to disrupt one's inner harmony."
-  },
-  {
     text: "Wisdom, like the seed, must be sown and nurtured to grow. Apache",
     author: "Compares wisdom to a seed that needs intentional cultivation for it to develop and flourish."
   },
@@ -561,36 +329,12 @@ const localQuotes5 = [
     author: "Encourages forward-focused thinking and the importance of moving ahead without dwelling on the past."
   },
   {
-    text: "It is better to have less thunder in the mouth and more lightning in the hand. Apache",
-    author: "Emphasizes the impact of action and deeds over mere words or empty promises."
-  },
-  {
-    text: "The heart is a small thing, but desireth great matters. Apache",
-    author: "Acknowledges the powerful nature of human aspirations and the capacity of the heart to yearn for significant pursuits."
-  },
-  {
-    text: "You are never alone or helpless. The force that guides the stars, guides you too. Apache",
-    author: "Instills a sense of cosmic connection and support, suggesting a higher force that provides guidance and companionship."
-  },
-  {
-    text: "Man's law changes with his understanding of man. Only the laws of the spirit remain always the same. Apache",
-    author: "Contrasts the evolving nature of human-made laws with the enduring and unchanging principles of spiritual laws."
-  },
-  {
     text: "Keep yourself clean, pure. You are what you see and touch and hear. Apache",
     author: "Emphasizes the importance of maintaining personal purity and being mindful of one's surroundings and influences."
   },
   {
     text: "Life's greatest lessons are learned at the worst times. Apache",
     author: "Recognizes the potential for profound learning and growth during challenging and difficult periods in life."
-  },
-  {
-    text: "A mind, like a home, is furnished by its owner, so if one's life is cold and bare, he can blame none but himself. Apache",
-    author: "Encourages personal responsibility for one's thoughts and experiences, likening the mind to a home shaped by its owner."
-  },
-  {
-    text: "When you arise in the morning, give thanks for the morning light, for your life and strength. Give thanks for your food and the joy of living. If you see no reason for giving thanks, the fault lies in yourself. Apache",
-    author: "Emphasizes gratitude for life's blessings and the responsibility to find reasons for thanks in every circumstance."
   },
   {
     text: "Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend. Apache",
@@ -633,10 +377,6 @@ const localQuotes5 = [
     author: "Contrasts the evolving nature of human-made laws with the enduring and unchanging principles of spiritual laws."
   },
   {
-    text: "The soul would have no rainbow if the eyes had no tears. Apache",
-    author: "Reflects on the depth of human experience, suggesting that both joy and sorrow contribute to the richness of life."
-  },
-  {
     text: "An angry man opens his mouth and shuts his eyes. Apache",
     author: "Illustrates the negative consequences of expressing anger without thought or consideration."
   },
@@ -669,10 +409,6 @@ const localQuotes5 = [
     author: "Conveys wishes for strength, freedom, and elevated perspectives symbolized by the majestic wings of an eagle."
   },
   {
-    text: "The ground on which we stand is sacred ground. Apache",
-    author: "Recognizes the sacredness of the Earth and emphasizes respect for the environment and the places we inhabit."
-  },
-  {
     text: "The best way to predict the future is to create it. Apache",
     author: "Encourages proactive and intentional actions in shaping one's destiny and future outcomes."
   },
@@ -685,14 +421,6 @@ const localQuotes5 = [
     author: "Encourages authentic living and self-expression, emphasizing the intrinsic value of personal fulfillment over external validation."
   },
   {
-    text: "When you arise in the morning, give thanks for the morning light, for your life and strength. Apache",
-    author: "Emphasizes gratitude for life's blessings and the renewal provided by each new day."
-  },
-  {
-    text: "Wisdom, like the seed, must be sown and nurtured to grow. Apache",
-    author: "Compares wisdom to a seed that needs intentional cultivation for it to develop and flourish."
-  },
-  {
     text: "You can't force anyone to love you or lend you money. Apache",
     author: "Highlights the nature of love and support as choices that cannot be compelled but must be freely given."
   },
@@ -703,10 +431,6 @@ const localQuotes5 = [
   {
     text: "Listen, or your tongue will make you deaf. Apache",
     author: "Emphasizes the importance of active listening and restraint in speech to avoid ignorance and misunderstanding."
-  },
-  {
-    text: "The one who tells the stories rules the world. Apache",
-    author: "Recognizes the power of storytelling in shaping perceptions, preserving culture, and influencing the understanding of the world."
   },
   {
     text: "We do not walk alone. Great Being walks beside us. Know this and be grateful. Apache",
@@ -725,48 +449,8 @@ const localQuotes5 = [
     author: "Encourages confidence and self-belief, suggesting that challenges can be overcome with the right mindset."
   },
   {
-    text: "The best fighter is never angry. Apache",
-    author: "Emphasizes the importance of maintaining composure and control, suggesting that true strength lies in calmness."
-  },
-  {
-    text: "Do not allow anger to poison you. Apache",
-    author: "Advises against harboring and succumbing to anger, recognizing its detrimental effects on one's well-being."
-  },
-  {
-    text: "A good friend is better than a near relation. Apache",
-    author: "Values the quality of friendships over mere proximity of relations, highlighting the significance of genuine connections."
-  },
-  {
-    text: "You can't wake a person who is pretending to be asleep. Apache",
-    author: "Reiteration of the proverb, emphasizing the challenge of reaching someone who feigns ignorance or avoidance."
-  },
-  {
-    text: "Don't be afraid to cry. It will free your mind of sorrowful thoughts. Apache",
-    author: "Recognizes the therapeutic and cathartic nature of expressing emotions, particularly through tears."
-  },
-  {
     text: "Give me knowledge, so I may have kindness for all. Apache",
     author: "Links knowledge and understanding to compassion, expressing a desire for wisdom that fosters kindness toward others."
-  },
-  {
-    text: "You can't take it with you, but you can send it on ahead. Apache",
-    author: "Encourages acts of generosity and kindness, suggesting that the impact of benevolent actions transcends material possessions."
-  },
-  {
-    text: "It is easy to be brave from a distance. Apache",
-    author: "Acknowledges the contrast between bravado from a safe distance and the genuine courage required in face-to-face encounters."
-  },
-  {
-    text: "Those who have one foot in the canoe and one foot in the boat are going to fall into the river. Apache",
-    author: "Warns against indecision and the inability to commit fully to a course of action, which may lead to failure."
-  },
-  {
-    text: "You can't plant a bean and expect a cornstalk. Apache",
-    author: "Emphasizes the principle of cause and effect, highlighting the importance of aligning actions with desired outcomes."
-  },
-  {
-    text: "It is better to have less thunder in the mouth and more lightning in the hand. Apache",
-    author: "Emphasizes the impact of action and deeds over mere words or empty promises."
   },
   {
     text: "The heart is a small thing, but desireth great matters. Apache",
@@ -845,10 +529,6 @@ const localQuotes5 = [
     author: "Wishes for a long and fulfilling life with minimal challenges."
   },
   {
-    text: "You can't take it with you, but you can send it on ahead. Apache",
-    author: "Encourages acts of generosity and kindness, suggesting that the impact of benevolent actions transcends material possessions."
-  },
-  {
     text: "A closed mind is like a closed book; just a block of wood. Apache",
     author: "Compares a closed mind to a useless object, emphasizing the value of an open and receptive mindset."
   },
@@ -865,10 +545,6 @@ const localQuotes5 = [
     author: "Encourages forward-focused thinking and the importance of moving ahead without dwelling on the past."
   },
   {
-    text: "The journey of a thousand miles begins with one step. Apache",
-    author: "Encourages taking the first step towards a goal, emphasizing the importance of initiating the journey."
-  },
-  {
     text: "May your heart be as a drum, resonating with the heartbeat of the Earth. Apache",
     author: "Wishes for a harmonious connection with nature and a heart attuned to the rhythms of the Earth."
   },
@@ -879,9 +555,5 @@ const localQuotes5 = [
   {
     text: "May your voice be a melody that brings joy to the hearts of others. Apache",
     author: "Wishes for a positive and uplifting impact through one's words and expressions."
-  },
-  {
-    text: "Wisdom, like the seed, must be sown and nurtured to grow. Apache",
-    author: "Compares wisdom to a seed that needs intentional cultivation for it to develop and flourish."
   },
 ];
