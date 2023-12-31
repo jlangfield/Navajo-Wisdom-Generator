@@ -4,20 +4,8 @@ const localQuotes2 = [
     author: "Treat others and the world with respect, and you will discover a tranquil and harmonious existence."
   },
   {
-    text: "Listen to the whispers of the wind; it carries the secrets of the earth. Cherokee",
-    author: "Nature holds profound wisdom; pay attention to its subtle messages to gain understanding and insight."
-  },
-  {
-    text: "The strength of the wolf is in the pack, and the strength of the pack is in the wolf. Cherokee",
-    author: "Individual strength is valuable, but true power lies in unity and collaboration with others."
-  },
-  {
     text: "Let the rivers teach you to go with the flow of life. Cherokee",
     author: "Life has its own rhythm; learn to adapt and go with the natural flow, embracing change and growth."
-  },
-  {
-    text: "A tree with strong roots laughs at the storm. Cherokee",
-    author: "Cultivate a strong foundation and resilience, and you'll withstand life's challenges with a steady heart."
   },
   {
     text: "See with your heart; the eyes can deceive. Cherokee",
@@ -28,56 +16,28 @@ const localQuotes2 = [
     author: "Every grand endeavor starts with a small, determined action; take that first step towards your goals."
   },
   {
-    text: "Speak truth in the quiet moments; let your words echo in the hearts of others. Cherokee",
-    author: "Choose honesty and sincerity in your words, and their impact will resonate long after they are spoken."
-  },
-  {
     text: "Respect the circle of life, for everything is connected. Cherokee",
     author: "Recognize the interconnectedness of all living things and live in harmony with the delicate balance of nature."
-  },
-  {
-    text: "To know where you are going, remember where you have been. Cherokee",
-    author: "Reflect on your past experiences; they provide valuable lessons and guidance for your future journey."
   },
   {
     text: "Patience is the key that unlocks the door to a peaceful heart. Cherokee",
     author: "Cultivate patience to navigate life's challenges gracefully and maintain a calm and tranquil spirit."
   },
   {
-    text: "When the fire inside is strong, no obstacle is too great. Cherokee",
-    author: "Nurture your inner passion and determination; it will empower you to overcome any obstacle in your path."
-  },
-  {
     text: "The sun does not forget a village just because it is small. Cherokee",
     author: "Every individual and community deserves recognition and care, regardless of their size or prominence."
-  },
-  {
-    text: "A wise person learns more from his enemies than a fool from his friends. Cherokee",
-    author: "Embrace challenges and adversities as opportunities for growth and learning."
   },
   {
     text: "Give thanks for the blessings, even in the midst of challenges. Cherokee",
     author: "Gratitude, even in difficult times, opens the door to resilience and a positive perspective."
   },
   {
-    text: "The heart knows what the eyes cannot see. Cherokee",
-    author: "Trust your instincts and emotions; they often provide insights beyond the surface level of situations."
-  },
-  {
     text: "The earth is our mother; treat her with kindness. Cherokee",
     author: "Show reverence and care for the environment, recognizing the interconnected relationship with the Earth."
   },
   {
-    text: "The strength of a nation lies in its families. Cherokee",
-    author: "Strong, supportive families contribute to the foundation and well-being of a thriving society."
-  },
-  {
     text: "In times of trouble, find strength in the arms of nature. Cherokee",
     author: "Seek solace and inspiration from the natural world during challenging times; it holds healing and rejuvenating power."
-  },
-  {
-    text: "Honor the past, live in the present, and dream for the future. Cherokee",
-    author: "Acknowledge and learn from the past, live mindfully in the present, and envision a positive future filled with dreams and aspirations."
   },
   {
     text: "The greatest gift you can give is the purity of your attention. Cherokee",
@@ -88,18 +48,6 @@ const localQuotes2 = [
     author: "Ground yourself in the present and your surroundings; this connection allows your spirit to soar and achieve great heights."
   },
   {
-    text: "Let your actions speak louder than your words. Cherokee",
-    author: "Demonstrate your intentions and character through your deeds; actions have a lasting impact."
-  },
-  {
-    text: "A wise person seeks wisdom from the old, but the old seek wisdom from nature. Cherokee",
-    author: "Both tradition and nature hold valuable wisdom; seek guidance from both the wisdom of elders and the lessons found in the natural world."
-  },
-  {
-    text: "Harmony is the song of the universe; find your place in the melody. Cherokee",
-    author: "Strive to find balance and alignment with the world around you, contributing to the beautiful harmony of existence."
-  },
-  {
     text: "The one who moves a mountain begins by carrying away small stones. Cherokee",
     author: "Every monumental task is accomplished through gradual, persistent effort; start small and build towards your goals."
   },
@@ -108,88 +56,20 @@ const localQuotes2 = [
     author: "Approach life with humility, as it opens the door to continuous learning and the acquisition of true wisdom."
   },
   {
-    text: "Take only what you need and leave the land as you found it. Cherokee",
-    author: "Practice responsible stewardship; consume resources mindfully and leave a positive impact on the environment."
-  },
-  {
-    text: "In the dance of life, be mindful of your steps. Cherokee",
-    author: "Approach life with awareness and consciousness, making deliberate choices that contribute positively to your journey."
-  },
-  {
-    text: "The heart is the bridge between worlds; keep it open and unburdened. Cherokee",
-    author: "Maintain an open and compassionate heart; it serves as a bridge between different experiences and perspectives."
-  },
-  {
     text: "A kind word is like a gentle rain that nurtures the seeds of friendship. Cherokee",
     author: "Small acts of kindness and words of encouragement have the power to cultivate meaningful and lasting connections."
-  },
-  {
-    text: "The more you give, the more you receive in the circle of giving. Cherokee",
-    author: "Generosity creates a cycle of abundance; the more you give, the more positive energy and blessings you attract."
-  },
-  {
-    text: "Seek the lessons in every adversity; they are the seeds of growth. Cherokee",
-    author: "Challenges and hardships carry valuable lessons that contribute to personal and spiritual growth."
-  },
-  {
-    text: "Let your dreams be the compass that guides your journey. Cherokee",
-    author: "Your dreams and aspirations serve as a guiding light, directing your path toward a fulfilling and purposeful life."
-  },
-  {
-    text: "Respect the elders, for they are the keepers of the flame. Cherokee",
-    author: "Honor and learn from those who have walked the path before you, as they hold valuable wisdom and traditions."
-  },
-  {
-    text: "The strongest warriors are those who fight for peace. Cherokee",
-    author: "True strength lies in the pursuit of peace and justice, even in the face of adversity."
-  },
-  {
-    text: "In the silence of the forest, find the answers that elude you. Cherokee",
-    author: "Seek moments of quiet reflection and solitude to gain clarity and insight into life's challenges."
-  },
-  {
-    text: "To find your way, look to the stars and trust your inner compass. Cherokee",
-    author: "Trust your instincts and inner guidance, for they will lead you on the right path."
-  },
-  {
-    text: "A generous heart is a magnet for abundance. Cherokee",
-    author: "Cultivate generosity, for it attracts abundance and positive energy into your life."
-  },
-  {
-    text: "Every step you take should leave the earth more beautiful than before. Cherokee",
-    author: "Leave a positive impact on the world with every action, contributing to the beauty and well-being of the planet."
   },
   {
     text: "The fire within you should warm others, not consume them. Cherokee",
     author: "Harness your inner passion and strength to inspire and uplift others, rather than overpowering them."
   },
   {
-    text: "In the tapestry of life, every thread has a purpose. Cherokee",
-    author: "Every individual and experience plays a unique and essential role in the intricate fabric of life."
-  },
-  {
-    text: "The river does not flow backward; embrace the forward journey. Cherokee",
-    author: "Embrace change and progress, moving forward with the natural flow of life."
-  },
-  {
     text: "Cherish the moments, for they are the jewels of time. Cherokee",
     author: "Value and appreciate each moment, for they are precious and contribute to the richness of your life."
   },
   {
-    text: "The greatest warriors are those who master themselves. Cherokee",
-    author: "Inner strength and self-mastery are the hallmarks of true warriors who navigate life with integrity and resilience."
-  },
-  {
     text: "A loving heart is a healing balm for the wounds of the world. Cherokee",
     author: "Love and compassion have the power to heal and bring solace to the pains and challenges of the world."
-  },
-  {
-    text: "To find balance, dance with both the light and the shadows. Cherokee",
-    author: "Life is a dance of contrasts; finding balance involves embracing both the joys and challenges with grace."
-  },
-  {
-    text: "The universe speaks in whispers; be still and listen. Cherokee",
-    author: "Tune into the subtle messages of the universe by cultivating stillness and attentive listening."
   },
   {
     text: "Your words are like arrows; aim them wisely. Cherokee",
@@ -204,10 +84,6 @@ const localQuotes2 = [
     author: "Embrace kindness as an integral part of your character, allowing your deeds to uplift and inspire others."
   },
   {
-    text: "Walk the path of respect, and you will find peace. Cherokee",
-    author: "Treat others and the world with respect, and you will discover a tranquil and harmonious existence."
-  },
-  {
     text: "Listen to the whispers of the wind; it carries the secrets of the earth. Cherokee",
     author: "Nature holds profound wisdom; pay attention to its subtle messages to gain understanding and insight."
   },
@@ -216,80 +92,36 @@ const localQuotes2 = [
     author: "Individual strength is valuable, but true power lies in unity and collaboration with others."
   },
   {
-    text: "Let the rivers teach you to go with the flow of life. Cherokee",
-    author: "Life has its own rhythm; learn to adapt and go with the natural flow, embracing change and growth."
-  },
-  {
     text: "A tree with strong roots laughs at the storm. Cherokee",
     author: "Cultivate a strong foundation and resilience, and you'll withstand life's challenges with a steady heart."
-  },
-  {
-    text: "See with your heart; the eyes can deceive. Cherokee",
-    author: "Trust your intuition and emotions, as they often reveal deeper truths than what the eyes perceive."
-  },
-  {
-    text: "The journey of a thousand miles begins with a single step. Cherokee",
-    author: "Every grand endeavor starts with a small, determined action; take that first step towards your goals."
   },
   {
     text: "Speak truth in the quiet moments; let your words echo in the hearts of others. Cherokee",
     author: "Choose honesty and sincerity in your words, and their impact will resonate long after they are spoken."
   },
   {
-    text: "Respect the circle of life, for everything is connected. Cherokee",
-    author: "Recognize the interconnectedness of all living things and live in harmony with the delicate balance of nature."
-  },
-  {
     text: "To know where you are going, remember where you have been. Cherokee",
     author: "Reflect on your past experiences; they provide valuable lessons and guidance for your future journey."
-  },
-  {
-    text: "Patience is the key that unlocks the door to a peaceful heart. Cherokee",
-    author: "Cultivate patience to navigate life's challenges gracefully and maintain a calm and tranquil spirit."
   },
   {
     text: "When the fire inside is strong, no obstacle is too great. Cherokee",
     author: "Nurture your inner passion and determination; it will empower you to overcome any obstacle in your path."
   },
   {
-    text: "The sun does not forget a village just because it is small. Cherokee",
-    author: "Every individual and community deserves recognition and care, regardless of their size or prominence."
-  },
-  {
     text: "A wise person learns more from his enemies than a fool from his friends. Cherokee",
     author: "Embrace challenges and adversities as opportunities for growth and learning."
-  },
-  {
-    text: "Give thanks for the blessings, even in the midst of challenges. Cherokee",
-    author: "Gratitude, even in difficult times, opens the door to resilience and a positive perspective."
   },
   {
     text: "The heart knows what the eyes cannot see. Cherokee",
     author: "Trust your instincts and emotions; they often provide insights beyond the surface level of situations."
   },
   {
-    text: "The earth is our mother; treat her with kindness. Cherokee",
-    author: "Show reverence and care for the environment, recognizing the interconnected relationship with the Earth."
-  },
-  {
     text: "The strength of a nation lies in its families. Cherokee",
     author: "Strong, supportive families contribute to the foundation and well-being of a thriving society."
   },
   {
-    text: "In times of trouble, find strength in the arms of nature. Cherokee",
-    author: "Seek solace and inspiration from the natural world during challenging times; it holds healing and rejuvenating power."
-  },
-  {
     text: "Honor the past, live in the present, and dream for the future. Cherokee",
     author: "Acknowledge and learn from the past, live mindfully in the present, and envision a positive future filled with dreams and aspirations."
-  },
-  {
-    text: "The greatest gift you can give is the purity of your attention. Cherokee",
-    author: "Be present and fully engaged in your interactions; genuine attention is a precious gift that fosters connection."
-  },
-  {
-    text: "When you touch the earth, you touch the sky. Cherokee",
-    author: "Ground yourself in the present and your surroundings; this connection allows your spirit to soar and achieve great heights."
   },
   {
     text: "Let your actions speak louder than your words. Cherokee",
@@ -304,10 +136,6 @@ const localQuotes2 = [
     author: "Strive to find balance and alignment with the world around you, contributing to the beautiful harmony of existence."
   },
   {
-    text: "The path to wisdom is paved with humility. Cherokee",
-    author: "Approach life with humility, as it opens the door to continuous learning and the acquisition of true wisdom."
-  },
-  {
     text: "Take only what you need and leave the land as you found it. Cherokee",
     author: "Practice responsible stewardship; consume resources mindfully and leave a positive impact on the environment."
   },
@@ -318,10 +146,6 @@ const localQuotes2 = [
   {
     text: "The heart is the bridge between worlds; keep it open and unburdened. Cherokee",
     author: "Maintain an open and compassionate heart; it serves as a bridge between different experiences and perspectives."
-  },
-  {
-    text: "A kind word is like a gentle rain that nurtures the seeds of friendship. Cherokee",
-    author: "Small acts of kindness and words of encouragement have the power to cultivate meaningful and lasting connections."
   },
   {
     text: "The more you give, the more you receive in the circle of giving. Cherokee",
@@ -360,10 +184,6 @@ const localQuotes2 = [
     author: "Leave a positive impact on the world with every action, contributing to the beauty and well-being of the planet."
   },
   {
-    text: "The fire within you should warm others, not consume them. Cherokee",
-    author: "Harness your inner passion and strength to inspire and uplift others, rather than overpowering them."
-  },
-  {
     text: "In the tapestry of life, every thread has a purpose. Cherokee",
     author: "Every individual and experience plays a unique and essential role in the intricate fabric of life."
   },
@@ -372,16 +192,8 @@ const localQuotes2 = [
     author: "Embrace change and progress, moving forward with the natural flow of life."
   },
   {
-    text: "Cherish the moments, for they are the jewels of time. Cherokee",
-    author: "Value and appreciate each moment, for they are precious and contribute to the richness of your life."
-  },
-  {
     text: "The greatest warriors are those who master themselves. Cherokee",
     author: "Inner strength and self-mastery are the hallmarks of true warriors who navigate life with integrity and resilience."
-  },
-  {
-    text: "A loving heart is a healing balm for the wounds of the world. Cherokee",
-    author: "Love and compassion have the power to heal and bring solace to the pains and challenges of the world."
   },
   {
     text: "To find balance, dance with both the light and the shadows. Cherokee",
@@ -390,14 +202,6 @@ const localQuotes2 = [
   {
     text: "The universe speaks in whispers; be still and listen. Cherokee",
     author: "Tune into the subtle messages of the universe by cultivating stillness and attentive listening."
-  },
-  {
-    text: "Your words are like arrows; aim them wisely. Cherokee",
-    author: "Be mindful of the impact of your words, using them to uplift and inspire rather than harm."
-  },
-  {
-    text: "The spirit of the eagle resides within; let it soar. Cherokee",
-    author: "Tap into your inner strength and potential, allowing your spirit to soar to great heights and achieve your dreams."
   },
   {
     text: "The river carves its path with patience; let time shape your journey. Cherokee",
@@ -560,10 +364,6 @@ const localQuotes2 = [
     author: "Recognize the cyclical nature of growth, mirrored in the moon's phases, and embrace the ebb and flow of life with acceptance and grace."
   },
   {
-    text: "The river's confluence creates unity; celebrate the merging of diverse paths. Cherokee",
-    author: "Celebrate the unity formed at the confluence of diverse paths, much like the river, and appreciate the richness that comes from merging with others."
-  },
-  {
     text: "The bear dances in ritual; honor traditions that connect you to the sacred. Cherokee",
     author: "Honor and participate in traditions, much like the bear dancing in ritual, as they connect you to the sacred and provide a sense of continuity and purpose."
   },
@@ -598,18 +398,6 @@ const localQuotes2 = [
   {
     text: "The otter plays joyfully in the water; find delight in the simple pleasures of life. Cherokee",
     author: "Emulate the otter's playful spirit in the water, finding joy and delight in the simple pleasures that life offers."
-  },
-  {
-    text: "The moon influences tides; let your actions ripple with positive impact. Cherokee",
-    author: "Harness the influence of your actions, much like the moon affects tides, and let your deeds create positive ripples that touch and influence others."
-  },
-  {
-    text: "The fire's warmth brings people together; nurture the bonds of community. Cherokee",
-    author: "Foster warmth and unity, much like the fire bringing people together, and nurture the bonds of community that create a supportive and connected environment."
-  },
-  {
-    text: "The medicine wheel represents balance; align your mind, body, and spirit. Cherokee",
-    author: "Draw inspiration from the medicine wheel's symbolism of balance, aligning your mind, body, and spirit to achieve harmony and well-being."
   },
   {
     text: "The maple leaf displays vibrant colors in autumn; express your unique beauty with pride. Cherokee",
@@ -712,20 +500,8 @@ const localQuotes2 = [
     author: "Allow your experiences to shape your character, much like the river's flow shaping the landscape, and find wisdom and strength in the journey that molds you."
   },
   {
-    text: "The butterfly's metamorphosis symbolizes transformation; embrace change as a beautiful journey. Cherokee",
-    author: "Like the butterfly's metamorphosis, view change as a beautiful journey of transformation, embracing the process of growth and evolution."
-  },
-  {
-    text: "The otter plays joyfully in the water; find delight in the simple pleasures of life. Cherokee",
-    author: "Emulate the otter's playful spirit in the water, finding joy and delight in the simple pleasures that life offers."
-  },
-  {
     text: "The moon influences tides; let your actions ripple with positive impact. Cherokee",
     author: "Harness the influence of your actions, much like the moon affects tides, and let your deeds create positive ripples that touch and influence others."
-  },
-  {
-    text: "The fire's warmth brings people together; nurture the bonds of community. Cherokee",
-    author: "Foster warmth and unity, much like the fire bringing people together, and nurture the bonds of community that create a supportive and connected environment."
   },
   {
     text: "The medicine wheel represents balance; align your mind, body, and spirit. Cherokee",
@@ -810,11 +586,6 @@ const localQuotes2 = [
   {
     text: "The owl's hoot echoes the wisdom of the night; seek insight in the quiet moments. Cherokee",
     author: "Embrace the wisdom of the night, seeking insight in quiet moments, much like the owl's hoot echoing the profound truths that emerge in the stillness."
-  },
-  
-  {
-    text: "The river's confluence creates unity; celebrate the merging of diverse paths. Cherokee",
-    author: "Celebrate the unity formed at the confluence of diverse paths, much like the river, and appreciate the richness that comes from merging with others."
   },
   {
     text: "The coyote dances under the moon; find joy in the rhythms of life's dance. Cherokee",
@@ -907,9 +678,5 @@ const localQuotes2 = [
   {
     text: "The fire's warmth brings people together; nurture the bonds of community. Cherokee",
     author: "Foster warmth and unity, much like the fire bringing people together, and nurture the bonds of community that create a supportive and connected environment."
-  },
-  {
-    text: "The medicine wheel represents balance; align your mind, body, and spirit. Cherokee",
-    author: "Draw inspiration from the medicine wheel's symbolism of balance, aligning your mind, body, and spirit to achieve harmony and well-being."
   },
 ];

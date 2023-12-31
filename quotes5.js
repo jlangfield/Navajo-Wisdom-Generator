@@ -27,10 +27,7 @@ const localQuotes5 = [
     text: "It is not enough to know, we must also apply. It is not enough to wish; we must also do. Apache",
     author: "Encourages the practical application of knowledge and the importance of taking action to achieve goals."
   },
-  {
-    text: "He who tells the truth is never wrong. Apache",
-    author: "Stresses the value of honesty and truthfulness, suggesting that speaking the truth is a principled and righteous act."
-  },
+  
   {
     text: "One finger cannot lift a pebble. Apache",
     author: "Encourages collaboration and the understanding that collective effort is often necessary to accomplish significant tasks."
@@ -112,16 +109,8 @@ const localQuotes5 = [
     author: "Reiteration of the proverb, emphasizing the challenge of reaching someone who feigns ignorance or avoidance."
   },
   {
-    text: "The eagle does not catch flies. Apache",
-    author: "Draws attention to maintaining focus on significant matters and avoiding distractions that are beneath one's dignity."
-  },
-  {
     text: "Words are beautiful, but silence is better. Apache",
     author: "Appreciates the beauty of words but underscores the power and wisdom found in thoughtful silence."
-  },
-  {
-    text: "Listen or your tongue will keep you deaf. Apache",
-    author: "Stresses the importance of active listening to avoid ignorance and the consequences of not hearing and understanding."
   },
   {
     text: "The tallest tree has the deepest roots. Apache",
@@ -256,10 +245,6 @@ const localQuotes5 = [
     author: "Symbolizes the strength and stability that come from a solid foundation, providing resilience against challenges."
   },
   {
-    text: "Do not be in a hurry to succeed. What would you have to live for afterwards? Apache",
-    author: "Emphasizes the value of patience, humility, and the importance of the journey over the destination."
-  },
-  {
     text: "It is better to have less thunder in the mouth and more lightning in the hand. Apache",
     author: "Advocates for actions and deeds to speak louder than words, emphasizing the value of tangible contributions."
   },
@@ -268,32 +253,12 @@ const localQuotes5 = [
     author: "Recognizes the true test of courage in the ability to endure defeat and setbacks while maintaining resilience."
   },
   {
-    text: "Listen or your tongue will keep you deaf. Apache",
-    author: "Stresses the importance of active listening to avoid ignorance and the consequences of not hearing and understanding."
-  },
-  {
-    text: "Do not be in a hurry to succeed. What would you have to live for afterwards? Apache",
-    author: "Emphasizes the value of patience, humility, and the importance of the journey over the destination."
-  },
-  {
     text: "When you were born, you cried, and the world rejoiced. Live your life in such a way that when you die, the world cries and you rejoice. Apache",
     author: "Encourages living a life of positive impact and leaving a lasting legacy that brings joy and reflection upon passing."
   },
   {
     text: "The eagle does not catch flies. Apache",
     author: "Draws attention to maintaining focus on significant matters and avoiding distractions that are beneath one's dignity."
-  },
-  {
-    text: "Words are beautiful, but silence is better. Apache",
-    author: "Appreciates the beauty of words but underscores the power and wisdom found in thoughtful silence."
-  },
-  {
-    text: "It is not enough to know, we must also apply. It is not enough to wish; we must also do. Apache",
-    author: "Encourages the practical application of knowledge and the importance of taking action to achieve goals."
-  },
-  {
-    text: "He who tells the truth is never wrong. Apache",
-    author: "Stresses the value of honesty and truthfulness, suggesting that speaking the truth is a principled and righteous act."
   },
   {
     text: "A mountain is not higher than your confidence. It will be under your feet if you reach the top. Apache",
@@ -376,24 +341,8 @@ const localQuotes5 = [
     author: "Stresses the importance of active listening to avoid ignorance and the consequences of not hearing and understanding."
   },
   {
-    text: "Do not be in a hurry to succeed. What would you have to live for afterwards? Apache",
-    author: "Emphasizes the value of patience, humility, and the importance of the journey over the destination."
-  },
-  {
     text: "When you were born, you cried, and the world rejoiced. Live your life in such a way that when you die, the world cries and you rejoice. Apache",
     author: "Encourages living a life of positive impact and leaving a lasting legacy that brings joy and reflection upon passing."
-  },
-  {
-    text: "The eagle does not catch flies. Apache",
-    author: "Draws attention to maintaining focus on significant matters and avoiding distractions that are beneath one's dignity."
-  },
-  {
-    text: "Words are beautiful, but silence is better. Apache",
-    author: "Appreciates the beauty of words but underscores the power and wisdom found in thoughtful silence."
-  },
-  {
-    text: "It is not enough to know, we must also apply. It is not enough to wish; we must also do. Apache",
-    author: "Encourages the practical application of knowledge and the importance of taking action to achieve goals."
   },
   {
     text: "He who tells the truth is never wrong. Apache",
@@ -458,18 +407,6 @@ const localQuotes5 = [
   {
     text: "You can't wake a person who is pretending to be asleep. Apache",
     author: "Reiteration of the proverb, emphasizing the challenge of reaching someone who feigns ignorance or avoidance."
-  },
-  {
-    text: "The eagle does not catch flies. Apache",
-    author: "Draws attention to maintaining focus on significant matters and avoiding distractions that are beneath one's dignity."
-  },
-  {
-    text: "Words are beautiful, but silence is better. Apache",
-    author: "Appreciates the beauty of words but underscores the power and wisdom found in thoughtful silence."
-  },
-  {
-    text: "Listen or your tongue will keep you deaf. Apache",
-    author: "Stresses the importance of active listening to avoid ignorance and the consequences of not hearing and understanding."
   },
   {
     text: "The tallest tree has the deepest roots. Apache",
@@ -776,10 +713,6 @@ const localQuotes5 = [
     author: "Acknowledges a spiritual presence and encourages gratitude for the companionship on life's journey."
   },
   {
-    text: "Words are beautiful, but silence is better. Apache",
-    author: "Appreciates the beauty of words but underscores the power and wisdom found in thoughtful silence."
-  },
-  {
     text: "It is better to die than to fear death. Apache",
     author: "Encourages facing challenges and adversity with courage, suggesting that the fear of death should not hinder one's actions."
   },
@@ -806,10 +739,6 @@ const localQuotes5 = [
   {
     text: "You can't wake a person who is pretending to be asleep. Apache",
     author: "Reiteration of the proverb, emphasizing the challenge of reaching someone who feigns ignorance or avoidance."
-  },
-  {
-    text: "The eagle does not catch flies. Apache",
-    author: "Draws attention to maintaining focus on significant matters and avoiding distractions that are beneath one's dignity."
   },
   {
     text: "Don't be afraid to cry. It will free your mind of sorrowful thoughts. Apache",

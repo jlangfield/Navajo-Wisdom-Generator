@@ -36,64 +36,28 @@ const localQuotes4 = [
     author: "Encourages living a life of positive impact and contribution, leaving a meaningful legacy."
   },
   {
-    text: "Don't be afraid to cry. It will free your mind of sorrowful thoughts. Blackfoot",
-    author: "Encourages the expression of emotions as a means of releasing and easing emotional burdens."
-  },
-  {
     text: "Regard heaven as your father, earth as your mother, and all things as your brothers and sisters. Blackfoot",
     author: "Promotes a sense of interconnectedness and unity with the natural world, fostering a harmonious relationship with all things."
-  },
-  {
-    text: "Seek wisdom, not knowledge. Knowledge is of the past, wisdom is of the future. Blackfoot",
-    author: "Distinguishes between knowledge and wisdom, valuing the forward-looking and insightful aspects of wisdom."
   },
   {
     text: "The ground on which we stand is sacred ground. It is the blood of our ancestors. Blackfoot",
     author: "Honors ancestral heritage and emphasizes the sacredness of the land on which one resides."
   },
   {
-    text: "Listen or your tongue will make you deaf. Blackfoot",
-    author: "Encourages active and attentive listening, highlighting the potential consequences of not listening with an open mind."
-  },
-  {
     text: "Take only what you need and leave the land as you found it. Blackfoot",
     author: "Promotes environmental sustainability and the responsible use of resources, advocating for leaving minimal impact on the land."
-  },
-  {
-    text: "It is not the man who has too little, but the man who craves more, that is poor. Blackfoot",
-    author: "Challenges the notion of wealth and poverty, suggesting that contentment is the true measure of abundance."
   },
   {
     text: "Knowledge is rooted in all things. It is the unseen and the seen, the apparent and the apparent. Blackfoot",
     author: "Expands the concept of knowledge to include the seen and unseen, emphasizing its pervasive and interconnected nature."
   },
   {
-    text: "Be generous with your life. Share it with others. Blackfoot",
-    author: "Encourages a spirit of generosity and sharing one's life experiences and blessings with others."
-  },
-  {
-    text: "When you arise in the morning, give thanks for the morning light, for your life and strength. Give thanks for your food and the joy of living. If you see no reason for giving thanks, the fault lies in yourself. Blackfoot",
-    author: "Emphasizes gratitude for the blessings of life and encourages self-reflection on the reasons for gratitude."
-  },
-  {
     text: "What is life? It is the flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset. Blackfoot",
     author: "Offers a poetic and reflective perspective on the fleeting and transient nature of life."
   },
   {
-    text: "When you know who you are; when your mission is clear and you burn with the inner fire of unbreakable will; no cold can touch your heart; no deluge can dampen your purpose. You know that you are alive. Blackfoot",
-    author: "Emphasizes the power of self-awareness, clarity of purpose, and the inner fire of determination in navigating life's challenges."
-  },
-  {
-    text: "Do not be afraid to ask questions. For asking questions is the only way to learn. Blackfoot",
-    author: "Encourages curiosity and the pursuit of knowledge through the act of asking questions and seeking understanding."
-  },
-  {
     text: "We do not inherit the earth from our ancestors, we borrow it from our children. Blackfoot",
     author: "Highlights the intergenerational responsibility to preserve and protect the Earth for the well-being of future generations."
-  },
-  {
-    text: "It is the heart that makes a man rich. He is rich according to what he is, not according to what he has. Blackfoot",
-    author: "Shifts the focus from material wealth to the richness of character and values, suggesting that true wealth lies within the heart."
   },
   {
     text: "Walk lightly in the spring; Mother Earth is pregnant. Blackfoot",
@@ -104,10 +68,6 @@ const localQuotes4 = [
     author: "Emphasizes gratitude for the blessings of life and encourages self-reflection on the reasons for gratitude."
   },
   {
-    text: "What is life? It is the flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset. Blackfoot",
-    author: "Offers a poetic and reflective perspective on the fleeting and transient nature of life."
-  },
-  {
     text: "When you know who you are; when your mission is clear and you burn with the inner fire of unbreakable will; no cold can touch your heart; no deluge can dampen your purpose. You know that you are alive. Blackfoot",
     author: "Emphasizes the power of self-awareness, clarity of purpose, and the inner fire of determination in navigating life's challenges."
   },
@@ -116,16 +76,8 @@ const localQuotes4 = [
     author: "Encourages curiosity and the pursuit of knowledge through the act of asking questions and seeking understanding."
   },
   {
-    text: "We do not inherit the earth from our ancestors, we borrow it from our children. Blackfoot",
-    author: "Highlights the intergenerational responsibility to preserve and protect the Earth for the well-being of future generations."
-  },
-  {
     text: "It is the heart that makes a man rich. He is rich according to what he is, not according to what he has. Blackfoot",
     author: "Shifts the focus from material wealth to the richness of character and values, suggesting that true wealth lies within the heart."
-  },
-  {
-    text: "Walk lightly in the spring; Mother Earth is pregnant. Blackfoot",
-    author: "Encourages respect and care for the Earth, acknowledging its regenerative and life-sustaining qualities during the spring season."
   },
   {
     text: "Do not judge your neighbor until you walk two moons in his moccasins. Blackfoot",
@@ -160,40 +112,20 @@ const localQuotes4 = [
     author: "Links knowledge with compassion, suggesting that understanding can lead to empathy and kindness toward others."
   },
   {
-    text: "When you were born, you cried and the world rejoiced. Live your life so that when you die, the world cries and you rejoice. Blackfoot",
-    author: "Encourages living a life of positive impact and contribution, leaving a meaningful legacy."
-  },
-  {
     text: "Don't be afraid to cry. It will free your mind of sorrowful thoughts. Blackfoot",
     author: "Encourages the expression of emotions as a means of releasing and easing emotional burdens."
-  },
-  {
-    text: "Regard heaven as your father, earth as your mother, and all things as your brothers and sisters. Blackfoot",
-    author: "Promotes a sense of interconnectedness and unity with the natural world, fostering a harmonious relationship with all things."
   },
   {
     text: "Seek wisdom, not knowledge. Knowledge is of the past, wisdom is of the future. Blackfoot",
     author: "Distinguishes between knowledge and wisdom, valuing the forward-looking and insightful aspects of wisdom."
   },
   {
-    text: "The ground on which we stand is sacred ground. It is the blood of our ancestors. Blackfoot",
-    author: "Honors ancestral heritage and emphasizes the sacredness of the land on which one resides."
-  },
-  {
     text: "Listen or your tongue will make you deaf. Blackfoot",
     author: "Encourages active and attentive listening, highlighting the potential consequences of not listening with an open mind."
   },
   {
-    text: "Take only what you need and leave the land as you found it. Blackfoot",
-    author: "Promotes environmental sustainability and the responsible use of resources, advocating for leaving minimal impact on the land."
-  },
-  {
     text: "It is not the man who has too little, but the man who craves more, that is poor. Blackfoot",
     author: "Challenges the notion of wealth and poverty, suggesting that contentment is the true measure of abundance."
-  },
-  {
-    text: "Knowledge is rooted in all things. It is the unseen and the seen, the apparent and the apparent. Blackfoot",
-    author: "Expands the concept of knowledge to include the seen and unseen, emphasizing its pervasive and interconnected nature."
   },
   {
     text: "Be generous with your life. Share it with others. Blackfoot",
@@ -368,10 +300,6 @@ const localQuotes4 = [
     author: "Emphasizes the depth and complexity of self-discovery as the longest and most profound journey one can undertake."
   },
   {
-    text: "If you want to go fast, go alone. If you want to go far, go together. Blackfoot",
-    author: "Encourages collaboration and collective effort for long-term and meaningful achievements."
-  },
-  {
     text: "It is better to light a candle than to curse the darkness. Blackfoot",
     author: "Encourages proactive and positive action in the face of challenges rather than dwelling on negativity."
   },
@@ -416,10 +344,6 @@ const localQuotes4 = [
     author: "Encourages seizing the opportunities presented by each new day and making the most of its potential."
   },
   {
-    text: "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well. Blackfoot",
-    author: "Redefines the purpose of life beyond personal happiness, emphasizing service, honor, and compassion."
-  },
-  {
     text: "Your attitude, not your aptitude, will determine your altitude. Blackfoot",
     author: "Highlights the significance of a positive attitude in determining success and personal growth."
   },
@@ -456,18 +380,6 @@ const localQuotes4 = [
     author: "Encourages taking risks and venturing into the unknown with courage and determination."
   },
   {
-    text: "The greatest glory in living lies not in never falling, but in rising every time we fall. Blackfoot",
-    author: "Emphasizes the resilience and strength found in the act of overcoming challenges and setbacks."
-  },
-  {
-    text: "The only way to do great work is to love what you do. Blackfoot",
-    author: "Highlights the connection between passion and excellence, suggesting that genuine love for one's work leads to greatness."
-  },
-  {
-    text: "In the end, we will remember not the words of our enemies, but the silence of our friends. Blackfoot",
-    author: "Stresses the impact of supportive relationships and the importance of friends in challenging times."
-  },
-  {
     text: "Believe you can and you're halfway there. Blackfoot",
     author: "Emphasizes the power of self-belief and confidence as crucial steps toward achieving goals."
   },
@@ -480,10 +392,6 @@ const localQuotes4 = [
     author: "Challenges the notion of mere existence, encouraging living fully and embracing the richness of life."
   },
   {
-    text: "Be the change that you wish to see in the world. Blackfoot",
-    author: "Inspires personal responsibility and proactive efforts in creating positive change in the world."
-  },
-  {
     text: "If you are not willing to risk the usual, you will have to settle for the ordinary. Blackfoot",
     author: "Encourages embracing risk and stepping out of one's comfort zone for the potential of extraordinary achievements."
   },
@@ -492,32 +400,12 @@ const localQuotes4 = [
     author: "Highlights the role of self-limiting beliefs in hindering progress toward personal goals."
   },
   {
-    text: "Success usually comes to those who are too busy to be looking for it. Blackfoot",
-    author: "Emphasizes the value of hard work, focus, and dedication as key contributors to achieving success."
-  },
-  {
     text: "What you get by achieving your goals is not as important as what you become by achieving your goals. Blackfoot",
     author: "Emphasizes the transformative journey and personal growth that accompanies the pursuit and achievement of goals."
   },
   {
-    text: "The future belongs to those who believe in the beauty of their dreams. Blackfoot",
-    author: "Encourages belief in the potential and fulfillment of one's dreams as a key to shaping a positive future."
-  },
-  {
-    text: "The only person you are destined to become is the person you decide to be. Blackfoot",
-    author: "Empowers individuals to take control of their own destiny through conscious decisions and self-determination."
-  },
-  {
     text: "Your time is limited, don't waste it living someone else's life. Blackfoot",
     author: "Urges individuals to prioritize their own aspirations and live authentically, recognizing the preciousness of time."
-  },
-  {
-    text: "If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you. Blackfoot",
-    author: "Highlights the power of personal determination and the willingness to learn as key factors in personal growth."
-  },
-  {
-    text: "Your life does not get better by chance, it gets better by change. Blackfoot",
-    author: "Emphasizes the role of intentional change and personal growth in improving the quality of one's life."
   },
   {
     text: "The purpose of our lives is to be happy. Blackfoot",
@@ -536,24 +424,12 @@ const localQuotes4 = [
     author: "Reminds individuals to embrace the unexpected and appreciate the richness of life's unplanned moments."
   },
   {
-    text: "The best way to predict the future is to create it. Blackfoot",
-    author: "Empowers individuals to actively shape their future by taking intentional actions and making deliberate choices."
-  },
-  {
     text: "You miss 100% of the shots you don't take. Blackfoot",
     author: "Encourages risk-taking and the pursuit of opportunities, emphasizing that inaction guarantees missed opportunities."
   },
   {
-    text: "The only limit to our realization of tomorrow will be our doubts of today. Blackfoot",
-    author: "Encourages overcoming doubts and embracing the limitless potential of the future."
-  },
-  {
     text: "Life is really simple, but we insist on making it complicated. Blackfoot",
     author: "Highlights the tendency to complicate life unnecessarily and suggests the value of simplicity in living."
-  },
-  {
-    text: "The mind is everything. What you think you become. Blackfoot",
-    author: "Emphasizes the profound impact of thoughts on shaping one's identity and future experiences."
   },
   {
     text: "It's not whether you win or lose, it's how you play the game. Blackfoot",
@@ -580,24 +456,12 @@ const localQuotes4 = [
     author: "Encourages a positive and optimistic mindset, suggesting that belief in the value of life contributes to its fulfillment."
   },
   {
-    text: "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. Blackfoot",
-    author: "Advocates pursuing meaningful and fulfilling work by aligning passion with profession, emphasizing the importance of loving one's work."
-  },
-  {
     text: "In the end, we will remember not the words of our enemies, but the silence of our friends. Blackfoot",
     author: "Emphasizes the impact of supportive relationships and the importance of friendship in challenging times."
   },
   {
-    text: "The best way to predict your future is to create it. Blackfoot",
-    author: "Encourages proactive decision-making and intentional actions in shaping one's future."
-  },
-  {
     text: "If you want to go fast, go alone. If you want to go far, go together. Blackfoot",
     author: "Encourages collaboration and collective effort for long-term and meaningful achievements."
-  },
-  {
-    text: "What lies behind us and what lies before us are tiny matters compared to what lies within us. Blackfoot",
-    author: "Emphasizes the importance of inner strength, potential, and personal qualities in determining one's journey and future."
   },
   {
     text: "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it. Blackfoot",
@@ -616,32 +480,8 @@ const localQuotes4 = [
     author: "Emphasizes the importance of actions over professed beliefs in determining one's character and moral standing."
   },
   {
-    text: "The best way to predict the future is to create it. Blackfoot",
-    author: "Encourages proactive decision-making and intentional actions in shaping one's future."
-  },
-  {
     text: "Be the change that you wish to see in the world. Blackfoot",
     author: "Inspires personal responsibility and proactive efforts in creating positive change in the world."
-  },
-  {
-    text: "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. Blackfoot",
-    author: "Advocates pursuing meaningful and fulfilling work by aligning passion with profession, emphasizing the importance of loving one's work."
-  },
-  {
-    text: "Believe you can and you're halfway there. Blackfoot",
-    author: "Emphasizes the power of self-belief and confidence as crucial steps toward achieving goals."
-  },
-  {
-    text: "If you want to go fast, go alone. If you want to go far, go together. Blackfoot",
-    author: "Encourages collaboration and collective effort for long-term and meaningful achievements."
-  },
-  {
-    text: "What lies behind us and what lies before us are tiny matters compared to what lies within us. Blackfoot",
-    author: "Emphasizes the importance of inner strength, potential, and personal qualities in determining one's journey and future."
-  },
-  {
-    text: "The only way to do great work is to love what you do. Blackfoot",
-    author: "Emphasizes the connection between passion and excellence, suggesting that genuine love for one's work leads to greatness."
   },
   {
     text: "The best revenge is to be unlike him who performed the injustice. Blackfoot",
@@ -656,48 +496,8 @@ const localQuotes4 = [
     author: "Emphasizes personal growth and self-mastery as the true challenges to overcome, rather than external obstacles."
   },
   {
-    text: "The only limit to our realization of tomorrow will be our doubts of today. Blackfoot",
-    author: "Encourages overcoming doubts and embracing the limitless potential of the future."
-  },
-  {
-    text: "Success usually comes to those who are too busy to be looking for it. Blackfoot",
-    author: "Emphasizes the value of hard work, focus, and dedication as key contributors to achieving success."
-  },
-  {
-    text: "The mind is everything. What you think you become. Blackfoot",
-    author: "Emphasizes the profound impact of thoughts on shaping one's identity and future experiences."
-  },
-  {
-    text: "A journey of a thousand miles begins with a single step. Blackfoot",
-    author: "Encourages taking the first step, emphasizing that every significant journey starts with a small action."
-  },
-  {
-    text: "The future belongs to those who believe in the beauty of their dreams. Blackfoot",
-    author: "Encourages belief in the potential and fulfillment of one's dreams as a key to shaping a positive future."
-  },
-  {
     text: "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well. Blackfoot",
     author: "Redefines the purpose of life beyond personal happiness, emphasizing service, honor, and compassion."
-  },
-  {
-    text: "What you get by achieving your goals is not as important as what you become by achieving your goals. Blackfoot",
-    author: "Emphasizes the transformative journey and personal growth that accompanies the pursuit and achievement of goals."
-  },
-  {
-    text: "Every morning brings new potential, but only if you make the most of it. Blackfoot",
-    author: "Encourages seizing the opportunities presented by each new day and making the most of its potential."
-  },
-  {
-    text: "The only person you are destined to become is the person you decide to be. Blackfoot",
-    author: "Empowers individuals to take control of their own destiny through conscious decisions and self-determination."
-  },
-  {
-    text: "If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you. Blackfoot",
-    author: "Highlights the power of personal determination and the willingness to learn as key factors in personal growth."
-  },
-  {
-    text: "Your life does not get better by chance, it gets better by change. Blackfoot",
-    author: "Emphasizes the role of intentional change and personal growth in improving the quality of one's life."
   },
   {
     text: "Your time is limited, don't waste it living someone else's life. Blackfoot",
@@ -720,92 +520,16 @@ const localQuotes4 = [
     author: "Encourages proactive decision-making and intentional actions in shaping one's future."
   },
   {
-    text: "Be the change that you wish to see in the world. Blackfoot",
-    author: "Inspires personal responsibility and proactive efforts in creating positive change in the world."
-  },
-  {
-    text: "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. Blackfoot",
-    author: "Advocates pursuing meaningful and fulfilling work by aligning passion with profession, emphasizing the importance of loving one's work."
-  },
-  {
-    text: "Believe you can and you're halfway there. Blackfoot",
-    author: "Emphasizes the power of self-belief and confidence as crucial steps toward achieving goals."
-  },
-  {
-    text: "If you want to go fast, go alone. If you want to go far, go together. Blackfoot",
-    author: "Encourages collaboration and collective effort for long-term and meaningful achievements."
-  },
-  {
-    text: "What lies behind us and what lies before us are tiny matters compared to what lies within us. Blackfoot",
-    author: "Emphasizes the importance of inner strength, potential, and personal qualities in determining one's journey and future."
-  },
-  {
-    text: "The only limit to our realization of tomorrow will be our doubts of today. Blackfoot",
-    author: "Encourages overcoming doubts and embracing the limitless potential of the future."
-  },
-  {
-    text: "Success usually comes to those who are too busy to be looking for it. Blackfoot",
-    author: "Emphasizes the value of hard work, focus, and dedication as key contributors to achieving success."
-  },
-  {
-    text: "The mind is everything. What you think you become. Blackfoot",
-    author: "Emphasizes the profound impact of thoughts on shaping one's identity and future experiences."
-  },
-  {
-    text: "A journey of a thousand miles begins with a single step. Blackfoot",
-    author: "Encourages taking the first step, emphasizing that every significant journey starts with a small action."
-  },
-  {
     text: "The future belongs to those who believe in the beauty of their dreams. Blackfoot",
     author: "Encourages belief in the potential and fulfillment of one's dreams as a key to shaping a positive future."
-  },
-  {
-    text: "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well. Blackfoot",
-    author: "Redefines the purpose of life beyond personal happiness, emphasizing service, honor, and compassion."
-  },
-  {
-    text: "What you get by achieving your goals is not as important as what you become by achieving your goals. Blackfoot",
-    author: "Emphasizes the transformative journey and personal growth that accompanies the pursuit and achievement of goals."
-  },
-  {
-    text: "Every morning brings new potential, but only if you make the most of it. Blackfoot",
-    author: "Encourages seizing the opportunities presented by each new day and making the most of its potential."
-  },
-  {
-    text: "The only person you are destined to become is the person you decide to be. Blackfoot",
-    author: "Empowers individuals to take control of their own destiny through conscious decisions and self-determination."
   },
   {
     text: "If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you. Blackfoot",
     author: "Highlights the power of personal determination and the willingness to learn as key factors in personal growth."
   },
   {
-    text: "Your life does not get better by chance, it gets better by change. Blackfoot",
-    author: "Emphasizes the role of intentional change and personal growth in improving the quality of one's life."
-  },
-  {
     text: "The greatest glory in living lies not in never falling, but in rising every time we fall. Blackfoot",
     author: "Emphasizes the resilience and strength found in the act of overcoming challenges and setbacks."
-  },
-  {
-    text: "The only way to do great work is to love what you do. Blackfoot",
-    author: "Emphasizes the connection between passion and excellence, suggesting that genuine love for one's work leads to greatness."
-  },
-  {
-    text: "In the end, we will remember not the words of our enemies, but the silence of our friends. Blackfoot",
-    author: "Emphasizes the impact of supportive relationships and the importance of friendship in challenging times."
-  },
-  {
-    text: "The best way to predict your future is to create it. Blackfoot",
-    author: "Encourages proactive decision-making and intentional actions in shaping one's future."
-  },
-  {
-    text: "If you want to go fast, go alone. If you want to go far, go together. Blackfoot",
-    author: "Encourages collaboration and collective effort for long-term and meaningful achievements."
-  },
-  {
-    text: "What lies behind us and what lies before us are tiny matters compared to what lies within us. Blackfoot",
-    author: "Emphasizes the importance of inner strength, potential, and personal qualities in determining one's journey and future."
   },
   {
     text: "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it. Blackfoot",
@@ -824,34 +548,6 @@ const localQuotes4 = [
     author: "Emphasizes the importance of actions over professed beliefs in determining one's character and moral standing."
   },
   {
-    text: "The best way to predict the future is to create it. Blackfoot",
-    author: "Encourages proactive decision-making and intentional actions in shaping one's future."
-  },
-  {
-    text: "Be the change that you wish to see in the world. Blackfoot",
-    author: "Inspires personal responsibility and proactive efforts in creating positive change in the world."
-  },
-  {
-    text: "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. Blackfoot",
-    author: "Advocates pursuing meaningful and fulfilling work by aligning passion with profession, emphasizing the importance of loving one's work."
-  },
-  {
-    text: "Believe you can and you're halfway there. Blackfoot",
-    author: "Emphasizes the power of self-belief and confidence as crucial steps toward achieving goals."
-  },
-  {
-    text: "If you want to go fast, go alone. If you want to go far, go together. Blackfoot",
-    author: "Encourages collaboration and collective effort for long-term and meaningful achievements."
-  },
-  {
-    text: "What lies behind us and what lies before us are tiny matters compared to what lies within us. Blackfoot",
-    author: "Emphasizes the importance of inner strength, potential, and personal qualities in determining one's journey and future."
-  },
-  {
-    text: "The only limit to our realization of tomorrow will be our doubts of today. Blackfoot",
-    author: "Encourages overcoming doubts and embracing the limitless potential of the future."
-  },
-  {
     text: "Success usually comes to those who are too busy to be looking for it. Blackfoot",
     author: "Emphasizes the value of hard work, focus, and dedication as key contributors to achieving success."
   },
@@ -860,56 +556,16 @@ const localQuotes4 = [
     author: "Emphasizes the profound impact of thoughts on shaping one's identity and future experiences."
   },
   {
-    text: "A journey of a thousand miles begins with a single step. Blackfoot",
-    author: "Encourages taking the first step, emphasizing that every significant journey starts with a small action."
-  },
-  {
-    text: "The future belongs to those who believe in the beauty of their dreams. Blackfoot",
-    author: "Encourages belief in the potential and fulfillment of one's dreams as a key to shaping a positive future."
-  },
-  {
-    text: "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well. Blackfoot",
-    author: "Redefines the purpose of life beyond personal happiness, emphasizing service, honor, and compassion."
-  },
-  {
-    text: "What you get by achieving your goals is not as important as what you become by achieving your goals. Blackfoot",
-    author: "Emphasizes the transformative journey and personal growth that accompanies the pursuit and achievement of goals."
-  },
-  {
-    text: "Every morning brings new potential, but only if you make the most of it. Blackfoot",
-    author: "Encourages seizing the opportunities presented by each new day and making the most of its potential."
-  },
-  {
     text: "The only person you are destined to become is the person you decide to be. Blackfoot",
     author: "Empowers individuals to take control of their own destiny through conscious decisions and self-determination."
-  },
-  {
-    text: "If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you. Blackfoot",
-    author: "Highlights the power of personal determination and the willingness to learn as key factors in personal growth."
   },
   {
     text: "Your life does not get better by chance, it gets better by change. Blackfoot",
     author: "Emphasizes the role of intentional change and personal growth in improving the quality of one's life."
   },
   {
-    text: "The greatest glory in living lies not in never falling, but in rising every time we fall. Blackfoot",
-    author: "Emphasizes the resilience and strength found in the act of overcoming challenges and setbacks."
-  },
-  {
-    text: "The only way to do great work is to love what you do. Blackfoot",
-    author: "Emphasizes the connection between passion and excellence, suggesting that genuine love for one's work leads to greatness."
-  },
-  {
-    text: "In the end, we will remember not the words of our enemies, but the silence of our friends. Blackfoot",
-    author: "Emphasizes the impact of supportive relationships and the importance of friendship in challenging times."
-  },
-  {
     text: "The best way to predict your future is to create it. Blackfoot",
     author: "Encourages proactive decision-making and intentional actions in shaping one's future."
-  },
-  {
-    text: "If you want to go fast, go alone. If you want to go far, go together. Blackfoot",
-    author: "Encourages collaboration and collective effort for long-term and meaningful achievements."
   },
   {
     text: "What lies behind us and what lies before us are tiny matters compared to what lies within us. Blackfoot",

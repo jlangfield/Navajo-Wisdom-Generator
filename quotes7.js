@@ -960,10 +960,6 @@ const localQuotes7 = [
         author: "Uses the moon's phases to symbolize the passage of time, urging a life filled with purposeful and intentional actions."
     },
     {
-        text: "The dew on the grass reflects the morning light; may your actions reflect the goodness in your heart. Iroquois",
-        author: "Draws inspiration from the dew reflecting light, symbolizing the reflection of goodness in one's actions."
-    },
-    {
         text: "The hummingbird's flight is a dance of joy; may your life echo with the same exuberance. Iroquois",
         author: "Symbolizes the hummingbird's flight as a dance of joy, wishing for a life filled with exuberance and happiness."
     },

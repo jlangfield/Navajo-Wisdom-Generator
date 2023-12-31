@@ -220,16 +220,8 @@ const localQuotes3 = [
     author: "Encourages embracing life with courage and viewing experiences as opportunities to learn and grow."
   },
   {
-    text: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. Hopi",
-    author: "Encourages pursuing one's dreams and aspirations despite internal fears and doubts."
-  },
-  {
     text: "The strongest people are not those who show strength in front of us but those who win battles we know nothing about. Hopi",
     author: "Acknowledges the strength that can be hidden behind the scenes, beyond what is apparent."
-  },
-  {
-    text: "The soul would have no rainbow if the eyes had no tears. Hopi",
-    author: "Emphasizes the beauty and growth that can come from overcoming challenges and difficulties."
   },
   {
     text: "One finger cannot lift a pebble. Hopi",
@@ -264,16 +256,8 @@ const localQuotes3 = [
     author: "Encourages recognizing the inner light and positive qualities within oneself."
   },
   {
-    text: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. Hopi",
-    author: "Encourages pursuing one's dreams and aspirations despite internal fears and doubts."
-  },
-  {
     text: "To give and then not feel that one has given is the very best of all ways of giving. Hopi",
     author: "Emphasizes the selfless nature of true giving, without expecting anything in return."
-  },
-  {
-    text: "When you arise in the morning, think of what a precious privilege it is to be alive. Hopi",
-    author: "Encourages starting each day with gratitude for the gift of life."
   },
   {
     text: "Every step is a first step if it's a step into the unknown. Hopi",
@@ -624,14 +608,6 @@ const localQuotes3 = [
     author: "Encourages responding to injustice with integrity and moral superiority rather than revenge."
   },
   {
-    text: "The purpose of our lives is to be happy. Hopi",
-    author: "Suggests that the pursuit of happiness is a fundamental and meaningful aspect of life."
-  },
-  {
-    text: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. Hopi",
-    author: "Encourages pursuing dreams and aspirations despite internal fears and doubts."
-  },
-  {
     text: "Life is 10% what happens to us and 90% how we react to it. Hopi",
     author: "Emphasizes the significance of attitude and perspective in shaping one's experience of life."
   },
@@ -712,10 +688,6 @@ const localQuotes3 = [
     author: "Encourages lifelong learning, growth, and the pursuit of new aspirations at any age."
   },
   {
-    text: "The purpose of our lives is to be happy. Hopi",
-    author: "Suggests that the pursuit of happiness is a fundamental and meaningful aspect of life."
-  },
-  {
     text: "Do not speak unless you can improve the silence. Hopi",
     author: "Encourages thoughtful and purposeful speech, recognizing the value of silence."
   },
@@ -756,10 +728,6 @@ const localQuotes3 = [
     author: "Emphasizes the importance of applying knowledge and intelligence in practical and meaningful ways."
   },
   {
-    text: "When you arise in the morning, think of what a precious privilege it is to be alive. Hopi",
-    author: "Encourages starting each day with gratitude for the gift of life and the opportunities it brings."
-  },
-  {
     text: "The only journey is the one within. Hopi",
     author: "Encourages self-reflection and personal growth as an essential part of life's journey."
   },
@@ -784,10 +752,6 @@ const localQuotes3 = [
     author: "Encourages self-awareness and the removal of personal barriers to experiencing love and connection."
   },
   {
-    text: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. Hopi",
-    author: "Encourages pursuing one's dreams and aspirations despite internal fears and doubts."
-  },
-  {
     text: "Every step is a first step if it's a step into the unknown. Hopi",
     author: "Encourages embracing new experiences and challenges with a sense of curiosity and courage."
   },
@@ -806,10 +770,6 @@ const localQuotes3 = [
   {
     text: "Do not let what you cannot do interfere with what you can do. Hopi",
     author: "Encourages focusing on one's strengths and capabilities rather than dwelling on limitations."
-  },
-  {
-    text: "When you arise in the morning, think of what a precious privilege it is to be alive. Hopi",
-    author: "Encourages starting each day with gratitude for the gift of life."
   },
   {
     text: "The river is never in a hurry, yet it still reaches its destination. Hopi",
@@ -842,10 +802,6 @@ const localQuotes3 = [
   {
     text: "It's not what you look at that matters, it's what you see. Hopi",
     author: "Encourages deeper perception and understanding beyond surface appearances."
-  },
-  {
-    text: "The purpose of our lives is to be happy. Hopi",
-    author: "Suggests that the pursuit of happiness is a fundamental and meaningful aspect of life"
   },
   {
     text: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. Hopi",
@@ -934,10 +890,6 @@ const localQuotes3 = [
   {
     text: "The purpose of our lives is to be happy. Hopi",
     author: "Suggests that the pursuit of happiness is a fundamental and meaningful aspect of life"
-  },
-  {
-    text: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. Hopi",
-    author: "Encourages pursuing dreams and aspirations despite internal fears and doubts"
   },
   {
     text: "Sometimes you will never know the value of a moment until it becomes a memory. Hopi",
