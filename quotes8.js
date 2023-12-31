@@ -168,6 +168,14 @@ const localQuotes8 = [
         author: "Draws inspiration from the wolf's howl, encouraging the expression of one's voice and presence in the larger fabric of life."
     },
     {
+        text: "The river's flow carves the canyon; may your persistence shape the path to success. Nez Perce",
+        author: "Uses the river's flow as a metaphor for persistence, encouraging efforts that shape the path to success. Emphasizes the impact of continuous and determined progress."
+    },
+    {
+        text: "The buffalo's roam reflects abundance; may your endeavors be fruitful and plentiful. Nez Perce",
+        author: "Draws abundance from the buffalo's roam, wishing for endeavors that are fruitful and plentiful. Encourages a mindset of abundance and prosperity in one's pursuits."
+    },
+    {
         text: "The sacred fire illuminates the darkness; may your inner light shine brightly in challenging times. Nez Perce",
         author: "Symbolizes the sacred fire as inner light, urging its brightness to guide and illuminate during challenging moments."
     },
@@ -214,6 +222,10 @@ const localQuotes8 = [
     {
         text: "The buffalo's wisdom is written in the patterns of its fur; may you decipher life's messages with clarity. Nez Perce",
         author: "Draws wisdom from the buffalo's patterns, wishing for clarity in understanding and interpreting life's messages."
+    },
+    {
+        text: "The eagle's gaze is unwavering; may your focus be resolute in pursuing your goals. Nez Perce",
+        author: "Uses the eagle's unwavering gaze as a symbol of focus, wishing for resolute determination in pursuing goals. Encourages staying focused and dedicated to the path ahead."
     },
     {
         text: "The cedar tree stands tall in the forest; may your stature be one of strength and dignity. Nez Perce",
@@ -337,6 +349,10 @@ const localQuotes8 = [
         author: "Uses the antler's curve as a symbol of seasonal cycles, encouraging graceful navigation through the changes and seasons of life."
     },
     {
+        text: "The river's bend is a turn of patience; may your journey unfold with serene perseverance. Nez Perce",
+        author: "Symbolizes the river's bend as a turn of patience, wishing for a journey that unfolds with serene perseverance. Encourages navigating life's twists and turns with patience and a calm spirit."
+    },
+    {
         text: "The river's flow mirrors the passage of time; may you embrace change with open arms. Nez Perce",
         author: "Uses the river's flow to symbolize change, encouraging an open-hearted embrace of transformation and growth."
     },
@@ -440,15 +456,23 @@ const localQuotes8 = [
         author: "Uses the drum's beat as a symbol of connection, urging relationships that resonate with mutual understanding."
     },
     {
-        text: "The eagle's flight is a dance with the wind; may your endeavors be carried by the winds of fortune. Nez Perce",
-        author: "Symbolizes the eagle's flight as a dance with the wind, wishing for endeavors carried by the winds of fortune."
-    },
-    {
         text: "The bear's fur is a cloak of strength; may your resilience be a source of empowerment. Nez Perce",
         author: "Draws strength from the bear's fur, wishing for resilience that serves as a source of personal empowerment."
     },
     {
         text: "The river's current shapes the landscape; may your influence leave a positive imprint on your surroundings. Nez Perce",
         author: "Uses the river's current as a metaphor for influence, urging actions that leave a positive imprint on the surrounding landscape."
+    },
+    {
+        text: "The otter's playfulness brings joy to the river; may your spirit dance with the lightness of laughter. Nez Perce",
+        author: "Celebrates the otter's playful nature as a source of joy in the river. Encourages cultivating a spirit of lightheartedness and finding joy in the simple pleasures of life."
+    },
+    {
+        text: "The eagle's nest is a fortress in the heights; may your aspirations be guarded by determination. Nez Perce",
+        author: "Uses the eagle's nest as a symbol of protection and determination. Encourages setting lofty aspirations and safeguarding them with unwavering determination."
+    },
+    {
+        text: "The river's confluence merges diverse waters into one; may your connections harmonize in unity. Nez Perce",
+        author: "Symbolizes the merging of diverse waters in a river's confluence as a metaphor for unity. Encourages fostering harmonious relationships and connections among individuals."
     },
 ];
