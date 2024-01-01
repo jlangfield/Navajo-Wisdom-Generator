@@ -896,7 +896,7 @@ const localQuotes = [
     author: "Encouraging individuals to be a source of comfort and support for others.",
   },
   {
-    text: "Like the moon reflecting in still waters, may your mind find clarity in moments of calm contemplation.. Navajo",
+    text: "Like the moon reflecting in still waters, may your mind find clarity in moments of calm contemplation. Navajo",
     author: "Using the image of the moon reflecting in still waters to symbolize the clarity that can be found in moments of reflection.",
   },
 ];
