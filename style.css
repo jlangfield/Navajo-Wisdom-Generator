@@ -38,6 +38,7 @@ body {
 
 .long-quote {
     font-size: 1.7rem;
+    line-height: 1.0rem;
 }
 
 .quote-author {
