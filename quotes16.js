@@ -1,98 +1,230 @@
 const localQuotes16 = [
     {
-        text: "May you embrace the wisdom of the Seneca Seven Grandfathers Teachings, learning the values of love, respect, bravery, honesty, humility, truth, and wisdom.",
-        author: "Encourages individuals to embrace the wisdom of the Seneca Seven Grandfathers Teachings, emphasizing the values of love, respect, bravery, honesty, humility, truth, and wisdom."
+        text: "Anishinaabe Kinship and Respect Potawatomi",
+        author: "Emphasizes the concept of Anishinaabe Kinship, recognizing the interconnectedness of all living beings and the importance of respect for one another."
     },
     {
-        text: "May you walk the path of the Seneca Thanksgiving Address, acknowledging the interconnectedness of all living things and expressing gratitude for the gifts of the Earth.",
-        author: "Encourages individuals to walk the path of the Seneca Thanksgiving Address, emphasizing the acknowledgment of the interconnectedness of all living things and the expression of gratitude for the gifts of the Earth."
+        text: "Nbakadeyek (Respect for All) Potawatomi",
+        author: "Encourages respect for all living things, promoting harmony and balance in relationships with animals, plants, and the environment."
     },
     {
-        text: "May you live in harmony with the Seneca teachings of the Three Sisters, recognizing the interdependence of corn, beans, and squash in sustainable agriculture.",
-        author: "Urges individuals to live in harmony with the Seneca teachings of the Three Sisters, highlighting the recognition of the interdependence of corn, beans, and squash in sustainable agriculture."
+        text: "Dbaajmowen (Wisdom) Potawatomi",
+        author: "Celebrates the pursuit of wisdom through learning, experience, and the guidance of elders, recognizing the importance of wise decision-making."
     },
     {
-        text: "May you understand the significance of the Seneca Dreamcatcher teachings, symbolizing protection from negative energies and promoting positive dreams.",
-        author: "Encourages individuals to understand the significance of the Seneca Dreamcatcher teachings, emphasizing its symbolic role in protection from negative energies and promotion of positive dreams."
+        text: "Aki (The Earth) Potawatomi",
+        author: "Emphasizes the sacred relationship with the Earth (Aki), teaching responsible stewardship and sustainability to ensure the well-being of current and future generations."
     },
     {
-        text: "May you follow the Seneca teachings of the Sacred Tobacco, using it in ceremonies to communicate with the spiritual world and show respect for the Earth.",
-        author: "Encourages individuals to follow the Seneca teachings of the Sacred Tobacco, emphasizing its use in ceremonies to communicate with the spiritual world and show respect for the Earth."
+        text: "Mno bmaadismin (Living a Good Life) Potawatomi",
+        author: "Encourages individuals to strive for a good and balanced life, encompassing physical, mental, and spiritual well-being in harmony with the natural world."
     },
     {
-        text: "May you embrace the Seneca teachings of the Good Mind, fostering positive thoughts, actions, and relationships for personal and communal well-being.",
-        author: "Encourages individuals to embrace the Seneca teachings of the Good Mind, emphasizing the fostering of positive thoughts, actions, and relationships for personal and communal well-being."
+        text: "Nme (Harmony) Potawatomi",
+        author: "Teaches the importance of living in harmony with nature, recognizing the interconnected relationships and maintaining a balance between humans and the environment."
     },
     {
-        text: "May you uphold the Seneca teachings of the Longhouse, promoting community, unity, and spiritual balance in the shared space of the longhouse.",
-        author: "Urges individuals to uphold the Seneca teachings of the Longhouse, emphasizing the promotion of community, unity, and spiritual balance in the shared space of the longhouse."
+        text: "Gdaa-ndamaagewin (Respect for Elders) Potawatomi",
+        author: "Stresses the respect and value of elders, recognizing their wisdom, guidance, and the importance of passing down cultural teachings."
     },
     {
-        text: "May you learn from the Seneca teachings of the White Buffalo, symbolizing peace, abundance, and the sacredness of life in Native American spirituality.",
-        author: "Encourages individuals to learn from the Seneca teachings of the White Buffalo, emphasizing its symbolic representation of peace, abundance, and the sacredness of life in Native American spirituality."
+        text: "Makwa (Bear) Potawatomi",
+        author: "The bear holds cultural significance, symbolizing strength, courage, and healing. Potawatomi teachings may include stories and lessons associated with the bear."
     },
     {
-        text: "May you appreciate the Seneca teachings of the Drum, recognizing its role in connecting with the heartbeat of Mother Earth and facilitating spiritual communication.",
-        author: "Encourages individuals to appreciate the Seneca teachings of the Drum, emphasizing its role in connecting with the heartbeat of Mother Earth and facilitating spiritual communication."
+        text: "Wiigwaasabak (Birch Bark Scrolls) Potawatomi",
+        author: "Acknowledges the cultural importance of wiigwaasabak, birch bark scrolls, which contain written or pictorial teachings and stories passed down through generations."
     },
     {
-        text: "May you follow the Seneca teachings of the Eagle, symbolizing strength, courage, and connection to the Great Spirit in Native American symbolism.",
-        author: "Urges individuals to follow the Seneca teachings of the Eagle, emphasizing its symbolic representation of strength, courage, and connection to the Great Spirit in Native American symbolism."
+        text: "Gizhaaate nibi onji (Take care of the water) Potawatomi",
+        author: "Emphasizes the sacredness of water, recognizing it as a life-giving force that requires respect and protection."
     },
     {
-        text: "May you respect the Seneca teachings of the Water Drum, using it in ceremonies to honor water, the source of life, and acknowledging its sacredness.",
-        author: "Encourages individuals to respect the Seneca teachings of the Water Drum, emphasizing its use in ceremonies to honor water, the source of life, and acknowledging its sacredness."
+        text: "Zhaawano giizhik (South Wind) Potawatomi",
+        author: "Acknowledges the significance of the south wind, symbolizing warmth, growth, and the renewal of life."
     },
     {
-        text: "May you live by the Seneca teachings of the Great Law of Peace, promoting justice, equity, and unity among individuals and communities.",
-        author: "Urges individuals to live by the Seneca teachings of the Great Law of Peace, emphasizing the promotion of justice, equity, and unity among individuals and communities."
+        text: "Wiisokotaadiwin (Humility) Potawatomi",
+        author: "Teaches the value of humility, emphasizing the importance of approaching life with modesty, respect, and a willingness to learn."
     },
     {
-        text: "May you understand the significance of the Seneca teachings about the Tree of Peace, symbolizing unity among the Five Nations in the Iroquois Confederacy.",
-        author: "Encourages individuals to understand the significance of the Seneca teachings about the Tree of Peace, emphasizing its symbolic role in symbolizing unity among the Five Nations in the Iroquois Confederacy."
+        text: "Wiisiniwin (Generosity) Potawatomi",
+        author: "Encourages a spirit of generosity, recognizing the interconnectedness of all beings and the joy that comes from sharing with others."
     },
     {
-        text: "May you honor the Seneca teachings of the Sacred Fire, using it in ceremonies to connect with the spiritual world and foster communal well-being.",
-        author: "Urges individuals to honor the Seneca teachings of the Sacred Fire, emphasizing its use in ceremonies to connect with the spiritual world and foster communal well-being."
+        text: "Miinawaa gaa-bimoseyaang (Perseverance) Potawatomi",
+        author: "Embraces the concept of perseverance, encouraging individuals to face challenges with determination and resilience."
     },
     {
-        text: "May you follow the Seneca teachings of the Great Spirit, recognizing the divine presence in all aspects of life and fostering a sense of spiritual connectedness.",
-        author: "Encourages individuals to follow the Seneca teachings of the Great Spirit, emphasizing the recognition of the divine presence in all aspects of life and fostering a sense of spiritual connectedness."
+        text: "Mno-bimaadiziwin (A good life) Potawatomi",
+        author: "Encourages the pursuit of a good and balanced life, encompassing physical, mental, and spiritual well-being."
     },
     {
-        text: "May you live in accordance with the Seneca teachings of the Medicine Wheel, symbolizing the interconnectedness of all things and the cycles of life.",
-        author: "Urges individuals to live in accordance with the Seneca teachings of the Medicine Wheel, emphasizing its symbolic representation of the interconnectedness of all things and the cycles of life."
+        text: "Mnidoo (Spirit) Potawatomi",
+        author: "Acknowledges the presence of spiritual forces in all aspects of life, promoting a deep connection to the spiritual dimensions of existence."
     },
     {
-        text: "May you appreciate the Seneca teachings of the Sacred Pipe, using it in ceremonies to connect with the spiritual world and seek guidance from the ancestors.",
-        author: "Encourages individuals to appreciate the Seneca teachings of the Sacred Pipe, emphasizing its use in ceremonies to connect with the spiritual world and seek guidance from the ancestors."
+        text: "Gizis bakadeyaang (Sunrise) Potawatomi",
+        author: "Symbolizes new beginnings, hope, and the continuous cycle of life represented by the rising sun."
     },
     {
-        text: "May you respect the Seneca teachings of the Corn Husk Doll, symbolizing fertility, protection, and the nurturing qualities of women in Native American culture.",
-        author: "Urges individuals to respect the Seneca teachings of the Corn Husk Doll, emphasizing its symbolic representation of fertility, protection, and the nurturing qualities of women in Native American culture."
+        text: "Bimaadiziwin miinawaa gikendaasowin (Life and knowledge) Potawatomi",
+        author: "Emphasizes the interconnectedness of life and knowledge, recognizing the value of wisdom in navigating life's journey."
     },
     {
-        text: "May you embrace the Seneca teachings of the Clan System, promoting kinship, mutual support, and cooperation within the extended family structure.",
-        author: "Encourages individuals to embrace the Seneca teachings of the Clan System, emphasizing the promotion of kinship, mutual support, and cooperation within the extended family structure."
+        text: "Wiisakodewin (Love) Potawatomi",
+        author: "Celebrates the importance of love in all its forms, promoting compassion, empathy, and a harmonious way of life."
     },
     {
-        text: "May you follow the Seneca teachings of the Sky Woman, recognizing her role in the creation story and the importance of women in sustaining life.",
-        author: "Urges individuals to follow the Seneca teachings of the Sky Woman, emphasizing her role in the creation story and the importance of women in sustaining life."
+        text: "Migisi giizhik (Eagle) Potawatomi",
+        author: "Symbolizes strength, vision, and a connection to the spiritual realm, representing a guide and protector."
     },
     {
-        text: "May you understand the significance of the Seneca teachings of the Thunder Beings, symbolizing the power of thunderstorms and their role in cleansing and renewal.",
-        author: "Encourages individuals to understand the significance of the Seneca teachings of the Thunder Beings, emphasizing their symbolic representation of the power of thunderstorms and their role in cleansing and renewal."
+        text: "Gzhemnidoo (Thunder) Potawatomi",
+        author: "Acknowledges the power and significance of thunder, symbolizing strength, cleansing, and the voice of the Creator."
     },
     {
-        text: "May you honor the Seneca teachings of the Sacred Bundle, recognizing its role in ceremonies and its symbolism of unity and spiritual connection.",
-        author: "Urges individuals to honor the Seneca teachings of the Sacred Bundle, emphasizing its role in ceremonies and its symbolism of unity and spiritual connection."
+        text: "Niizhwaaswi gagiikwewin (Humility) Potawatomi",
+        author: "Reiterates the value of humility, recognizing that true strength lies in acknowledging one's own limitations and learning from others."
     },
     {
-        text: "May you live by the Seneca teachings of the Smudging Ceremony, using sacred herbs to purify the mind, body, and spirit, and create a sacred space.",
-        author: "Encourages individuals to live by the Seneca teachings of the Smudging Ceremony, emphasizing the use of sacred herbs to purify the mind, body, and spirit, and create a sacred space."
+        text: "Gwayako-bimaadiziwin (A genuine life) Potawatomi",
+        author: "Encourages living authentically, true to one's values, identity, and cultural heritage."
     },
     {
-        text: "May you respect the Seneca teachings of the Turtle, symbolizing wisdom, patience, and connection to the Earth in Native American symbolism.",
-        author: "Urges individuals to respect the Seneca teachings of the Turtle, emphasizing its symbolic representation of wisdom, patience, and connection to the Earth in Native American symbolism."
+        text: "Bakade-aya'aad (Do not fear) Potawatomi",
+        author: "Promotes a mindset of fearlessness, encouraging individuals to face challenges with strength and courage."
+    },
+    {
+        text: "Gdaa-ndamaagewin (Respect for Elders) Potawatomi",
+        author: "Stresses the respect and value of elders, recognizing their wisdom, guidance, and the importance of passing down cultural teachings."
+    },
+    {
+        text: "Makwa (Bear) Potawatomi",
+        author: "The bear holds cultural significance, symbolizing strength, courage, and healing. Potawatomi teachings may include stories and lessons associated with the bear."
+    },
+    {
+        text: "Wiigwaasabak (Birch Bark Scrolls) Potawatomi",
+        author: "Acknowledges the cultural importance of wiigwaasabak, birch bark scrolls, which contain written or pictorial teachings and stories passed down through generations."
+    },
+    {
+        text: "Gizhaaate nibi onji (Take care of the water) Potawatomi",
+        author: "Emphasizes the sacredness of water, recognizing it as a life-giving force that requires respect and protection."
+    },
+    {
+        text: "Zhaawano giizhik (South Wind) Potawatomi",
+        author: "Acknowledges the significance of the south wind, symbolizing warmth, growth, and the renewal of life."
+    },
+    {
+        text: "Wiisokotaadiwin (Humility) Potawatomi",
+        author: "Teaches the value of humility, emphasizing the importance of approaching life with modesty, respect, and a willingness to learn."
+    },
+    {
+        text: "Wiisiniwin (Generosity) Potawatomi",
+        author: "Encourages a spirit of generosity, recognizing the interconnectedness of all beings and the joy that comes from sharing with others."
+    },
+    {
+        text: "Miinawaa gaa-bimoseyaang (Perseverance) Potawatomi",
+        author: "Embraces the concept of perseverance, encouraging individuals to face challenges with determination and resilience."
+    },
+    {
+        text: "Mno-bimaadiziwin (A good life) Potawatomi",
+        author: "Encourages the pursuit of a good and balanced life, encompassing physical, mental, and spiritual well-being."
+    },
+    {
+        text: "Mnidoo (Spirit) Potawatomi",
+        author: "Acknowledges the presence of spiritual forces in all aspects of life, promoting a deep connection to the spiritual dimensions of existence."
+    },
+    {
+        text: "Gizis bakadeyaang (Sunrise) Potawatomi",
+        author: "Symbolizes new beginnings, hope, and the continuous cycle of life represented by the rising sun."
+    },
+    {
+        text: "Bimaadiziwin miinawaa gikendaasowin (Life and knowledge) Potawatomi",
+        author: "Emphasizes the interconnectedness of life and knowledge, recognizing the value of wisdom in navigating life's journey."
+    },
+    {
+        text: "Wiisakodewin (Love) Potawatomi",
+        author: "Celebrates the importance of love in all its forms, promoting compassion, empathy, and a harmonious way of life."
+    },
+    {
+        text: "Migisi giizhik (Eagle) Potawatomi",
+        author: "Symbolizes strength, vision, and a connection to the spiritual realm, representing a guide and protector."
+    },
+    {
+        text: "Gzhemnidoo (Thunder) Potawatomi",
+        author: "Acknowledges the power and significance of thunder, symbolizing strength, cleansing, and the voice of the Creator."
+    },
+    {
+        text: "Niizhwaaswi gagiikwewin (Humility) Potawatomi",
+        author: "Reiterates the value of humility, recognizing that true strength lies in acknowledging one's own limitations and learning from others."
+    },
+    {
+        text: "Gwayako-bimaadiziwin (A genuine life) Potawatomi",
+        author: "Encourages living authentically, true to one's values, identity, and cultural heritage."
+    },
+    {
+        text: "Bakade-aya'aad (Do not fear) Potawatomi",
+        author: "Promotes a mindset of fearlessness, encouraging individuals to face challenges with strength and courage."
+    },
+    {
+        text: "Gizhaaate nibi onji (Take care of the water) Potawatomi",
+        author: "Emphasizes the sacredness of water, recognizing it as a life-giving force that requires respect and protection."
+    },
+    {
+        text: "Zhaawano giizhik (South Wind) Potawatomi",
+        author: "Acknowledges the significance of the south wind, symbolizing warmth, growth, and the renewal of life."
+    },
+    {
+        text: "Wiisokotaadiwin (Humility) Potawatomi",
+        author: "Teaches the value of humility, emphasizing the importance of approaching life with modesty, respect, and a willingness to learn."
+    },
+    {
+        text: "Wiisiniwin (Generosity) Potawatomi",
+        author: "Encourages a spirit of generosity, recognizing the interconnectedness of all beings and the joy that comes from sharing with others."
+    },
+    {
+        text: "Miinawaa gaa-bimoseyaang (Perseverance) Potawatomi",
+        author: "Embraces the concept of perseverance, encouraging individuals to face challenges with determination and resilience."
+    },
+    {
+        text: "Mno-bimaadiziwin (A good life) Potawatomi",
+        author: "Encourages the pursuit of a good and balanced life, encompassing physical, mental, and spiritual well-being."
+    },
+    {
+        text: "Mnidoo (Spirit) Potawatomi",
+        author: "Acknowledges the presence of spiritual forces in all aspects of life, promoting a deep connection to the spiritual dimensions of existence."
+    },
+    {
+        text: "Gizis bakadeyaang (Sunrise) Potawatomi",
+        author: "Symbolizes new beginnings, hope, and the continuous cycle of life represented by the rising sun."
+    },
+    {
+        text: "Bimaadiziwin miinawaa gikendaasowin (Life and knowledge) Potawatomi",
+        author: "Emphasizes the interconnectedness of life and knowledge, recognizing the value of wisdom in navigating life's journey."
+    },
+    {
+        text: "Wiisakodewin (Love) Potawatomi",
+        author: "Celebrates the importance of love in all its forms, promoting compassion, empathy, and a harmonious way of life."
+    },
+    {
+        text: "Migisi giizhik (Eagle) Potawatomi",
+        author: "Symbolizes strength, vision, and a connection to the spiritual realm, representing a guide and protector."
+    },
+    {
+        text: "Gzhemnidoo (Thunder) Potawatomi",
+        author: "Acknowledges the power and significance of thunder, symbolizing strength, cleansing, and the voice of the Creator."
+    },
+    {
+        text: "Niizhwaaswi gagiikwewin (Humility) Potawatomi",
+        author: "Reiterates the value of humility, recognizing that true strength lies in acknowledging one's own limitations and learning from others."
+    },
+    {
+        text: "Gwayako-bimaadiziwin (A genuine life) Potawatomi",
+        author: "Encourages living authentically, true to one's values, identity, and cultural heritage."
+    },
+    {
+        text: "Bakade-aya'aad (Do not fear) Potawatomi",
+        author: "Promotes a mindset of fearlessness, encouraging individuals to face challenges with strength and courage."
     },
 ];
