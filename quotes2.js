@@ -679,4 +679,8 @@ const localQuotes2 = [
     text: "The fire's warmth brings people together; nurture the bonds of community. Cherokee",
     author: "Foster warmth and unity, much like the fire bringing people together, and nurture the bonds of community that create a supportive and connected environment."
   },
+  {
+    text: "The fire's warmth brings people together; nurture the bonds of community. Cherokee",
+    author: "Foster warmth and unity, much like the fire bringing people together, and nurture the bonds of community that create a supportive and connected environment."
+  },
 ];
