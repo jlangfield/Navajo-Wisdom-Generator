@@ -20,6 +20,8 @@ const newQuoteBtn15 = document.getElementById("new-quote15");
 const newQuoteBtn16 = document.getElementById("new-quote16");
 const newQuoteBtn17 = document.getElementById("new-quote17");
 const newQuoteBtn18 = document.getElementById("new-quote18");
+const newQuoteBtn19 = document.getElementById("new-quote19");
+const newQuoteBtn20 = document.getElementById("new-quote20");
 
 // Show new quote
 function newQuote() {
@@ -363,6 +365,44 @@ function newQuote18() {
     quoteText.textContent = quote.text;
 }
 
+// Show new quote19
+function newQuote19() {
+    // Pick a random quote from apiQuotes array
+    const quote = localQuotes19[Math.floor(Math.random() * localQuotes19.length)];
+    // Check if author name is blank to replace with "Unknown"
+    if (!quote.author) {
+        authorText.textContent = "Unknown";
+    } else {
+        authorText.textContent = quote.author;
+    }
+    // Check quote length to determine styling
+    if (quote.text.length > 120) {
+        quoteText.classList.add("long-quote");
+    } else {
+        quoteText.classList.remove("long-quote");
+    }
+    quoteText.textContent = quote.text;
+}
+
+// Show new quote20
+function newQuote20() {
+    // Pick a random quote from apiQuotes array
+    const quote = localQuotes20[Math.floor(Math.random() * localQuotes20.length)];
+    // Check if author name is blank to replace with "Unknown"
+    if (!quote.author) {
+        authorText.textContent = "Unknown";
+    } else {
+        authorText.textContent = quote.author;
+    }
+    // Check quote length to determine styling
+    if (quote.text.length > 120) {
+        quoteText.classList.add("long-quote");
+    } else {
+        quoteText.classList.remove("long-quote");
+    }
+    quoteText.textContent = quote.text;
+}
+
 // Tweet Quote
 function tweetQuote() {
     const twitterUrl = `https://twitter.com/intent/tweet?text=${quoteText.innerText} - ${authorText.innerText}`;
@@ -388,6 +428,8 @@ newQuoteBtn15.addEventListener("click", newQuote15);
 newQuoteBtn16.addEventListener("click", newQuote16);
 newQuoteBtn17.addEventListener("click", newQuote17);
 newQuoteBtn18.addEventListener("click", newQuote18);
+newQuoteBtn19.addEventListener("click", newQuote19);
+newQuoteBtn20.addEventListener("click", newQuote20);
 twitterBtn.addEventListener("click", tweetQuote);
 
 // On load
@@ -410,6 +452,8 @@ newQuote15();
 newQuote16();
 newQuote17();
 newQuote18();
+newQuote19();
+newQuote20();
 
 // To display duplicates in console
 
@@ -434,7 +478,7 @@ function findDuplicates(array) {
 
 // Update 'localQuotes' number to show duplicates for each array
 
-const duplicateQuotes = findDuplicates(localQuotes11);
+const duplicateQuotes = findDuplicates(localQuotes20);
 
 if (duplicateQuotes.length > 0) {
     console.log('Duplicates found:');
