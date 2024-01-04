@@ -24,6 +24,7 @@ const newQuoteBtn19 = document.getElementById("new-quote19");
 const newQuoteBtn20 = document.getElementById("new-quote20");
 const newQuoteBtn21 = document.getElementById("new-quote21");
 const newQuoteBtn22 = document.getElementById("new-quote22");
+const newQuoteBtn23 = document.getElementById("new-quote23");
 
 // Show new quote
 function newQuote() {
@@ -443,6 +444,25 @@ function newQuote22() {
     quoteText.textContent = quote.text;
 }
 
+// Show new quote23
+function newQuote23() {
+    // Pick a random quote from apiQuotes array
+    const quote = localQuotes23[Math.floor(Math.random() * localQuotes23.length)];
+    // Check if author name is blank to replace with "Unknown"
+    if (!quote.author) {
+        authorText.textContent = "Unknown";
+    } else {
+        authorText.textContent = quote.author;
+    }
+    // Check quote length to determine styling
+    if (quote.text.length > 120) {
+        quoteText.classList.add("long-quote");
+    } else {
+        quoteText.classList.remove("long-quote");
+    }
+    quoteText.textContent = quote.text;
+}
+
 // Tweet Quote
 function tweetQuote() {
     const twitterUrl = `https://twitter.com/intent/tweet?text=${quoteText.innerText} - ${authorText.innerText}`;
@@ -472,6 +492,7 @@ newQuoteBtn19.addEventListener("click", newQuote19);
 newQuoteBtn20.addEventListener("click", newQuote20);
 newQuoteBtn21.addEventListener("click", newQuote21);
 newQuoteBtn22.addEventListener("click", newQuote22);
+newQuoteBtn23.addEventListener("click", newQuote23);
 twitterBtn.addEventListener("click", tweetQuote);
 
 // On load
@@ -498,6 +519,7 @@ newQuote19();
 newQuote20();
 newQuote21();
 newQuote22();
+newQuote23();
 
 // To display duplicates in console
 
@@ -522,7 +544,7 @@ function findDuplicates(array) {
 
 // Update 'localQuotes' number to show duplicates for each array
 
-const duplicateQuotes = findDuplicates(localQuotes22);
+const duplicateQuotes = findDuplicates(localQuotes23);
 
 if (duplicateQuotes.length > 0) {
     console.log('Duplicates found:');
