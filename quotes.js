@@ -52,10 +52,6 @@ const localQuotes = [
       author: "Stresses the teaching of respect, emphasizing its importance in Navajo culture and encouraging individuals to show reverence for all aspects of life."
   },
   {
-      text: "Níłtsą́ Nítsą́ (Seeking Balance) Navajo",
-      author: "Encourages individuals to seek balance in all aspects of life, recognizing the interconnectedness of physical, mental, and spiritual well-being in Navajo teachings."
-  },
-  {
       text: "Ahóóhai (Compassion) Navajo",
       author: "Emphasizes the value of compassion, encouraging individuals to show kindness and empathy to others, promoting harmonious relationships in Navajo culture."
   },
@@ -178,5 +174,49 @@ const localQuotes = [
   {
     text: "Tłéehił (Rainbow) Navajo",
     author: "While not a star, the Rainbow is seen as a celestial bridge connecting the physical and spiritual realms. Reflects the interconnectedness of the universe and the harmonious balance between different elements."
+  },
+  {
+    text: "Táá hwó' ají t'éego (Self-Determination) Navajo",
+    author: "Encourages individuals to look to the stars as guides for self-determination and personal growth. The navigation of one's path is likened to the movement of stars in the night sky."
+  },
+  {
+    text: "Hózhó (Beauty and Harmony) Navajo",
+    author: "Central to Navajo philosophy, Hózhó represents the concept of living in beauty and harmony with the world. Encourages individuals to maintain balance and order in their lives, fostering positive relationships with the natural world."
+  },
+  {
+      text: "Tó éí Iina (Sacred Mountain) Navajo",
+      author: "Sacred mountains are considered living entities with a spiritual connection to the world. Reflects the idea that the natural landscape holds profound spiritual significance for the Navajo people."
+  },
+  {
+      text: "Diné Bike'éyah (Navajo Wedding) Navajo",
+      author: "Navajo wedding ceremonies emphasize the sacred union and harmony between individuals. Acknowledges the interconnectedness of families and communities, reinforcing the importance of balance in relationships."
+  },
+  {
+      text: "Níłch'i Diyin (Holy Wind) Navajo",
+      author: "The Holy Wind is a spiritual force that permeates the world, connecting all living beings. Symbolizes the presence of the divine in the natural elements, emphasizing a spiritual connection to the Earth."
+  },
+  {
+      text: "Ha'ashchʼééłi (Talking God) Navajo",
+      author: "One of the Holy People in Navajo mythology, Talking God is associated with maintaining balance in the world. Represents the power of communication and diplomacy to resolve conflicts and restore harmony."
+  },
+  {
+      text: "Yéigo Diné (Navajo Night Chant) Navajo",
+      author: "The Night Chant ceremony seeks to restore balance and harmony to individuals and the world. Participants engage in rituals and chants to connect with spiritual forces and promote well-being."
+  },
+  {
+      text: "Tł'éehił (Rainbow) Navajo",
+      author: "The Rainbow is seen as a symbol of harmony and balance in the natural world. Reflects the interconnectedness of different elements, both in the physical and spiritual realms."
+  },
+  {
+      text: "Chʼil Hajiin (Bluebird) Navajo",
+      author: "The Bluebird is associated with happiness and positive omens, bringing blessings to the world. Represents the belief in the importance of positivity and well-being in the community."
+  },
+  {
+      text: "Shash Yázhí (Bear) Navajo",
+      author: "The Bear symbolizes strength, introspection, and healing, emphasizing the interconnectedness of all life. Teaches lessons about coexistence and the importance of respecting the natural world."
+  },
+  {
+      text: "Níłtsą́ Nítsą́ (Seeking Balance) Navajo",
+      author: "Encourages individuals to seek balance in all aspects of life, recognizing the interconnectedness of physical, mental, and spiritual well-being. Reflects the idea that balance is essential for personal and collective harmony."
   },
 ];

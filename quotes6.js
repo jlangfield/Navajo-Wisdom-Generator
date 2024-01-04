@@ -139,5 +139,100 @@ const localQuotes6 = [
       text: "Wótȟakuye Oyáŋke (Harmony with All Relatives) Lakota",
       author: "Highlights the importance of living in harmony with all living beings, recognizing the interconnected web of relationships within the Lakota worldview."
   },
-  
+  {
+      text: "Mitakuye Oyasin (All Are Related) Lakota",
+      author: "Expresses the interconnectedness of all living beings. Emphasizes the need for harmony, respect, and balance in the relationship between humans and nature."
+  },
+  {
+      text: "Wóiyake (Spirit) Lakota",
+      author: "Acknowledges the presence of spirit in all living things. Encourages a deep connection with nature and a profound respect for the spiritual essence within the natural world."
+  },
+  {
+      text: "Taku Wakan Skan Skan (Something Sacred is Moving) Lakota",
+      author: "Refers to the sacredness and spirituality inherent in the natural world. Encourages mindfulness and recognition of the divine in every aspect of creation."
+  },
+  {
+      text: "WíiyayA (Sun) Lakota",
+      author: "The sun is revered as a powerful spiritual force. Symbolizes life, illumination, and the divine energy that sustains all living things."
+  },
+  {
+      text: "Mílahaŋska (Butterfly) Lakota",
+      author: "The butterfly is a symbol of transformation and renewal. Encourages embracing change and understanding the cyclical nature of life and growth."
+  },
+  {
+      text: "Zinjtkála (Bird) Lakota",
+      author: "Birds are seen as messengers and carry spiritual significance. Their presence is believed to bring messages from the spirit world."
+  },
+  {
+      text: "Tȟatȟáŋka (Buffalo) Lakota",
+      author: "The buffalo is a sacred and revered animal. Symbolizes strength, abundance, and the interconnectedness of all life."
+  },
+  {
+      text: "Tȟokáta (Friend) Lakota",
+      author: "The natural world is viewed as a friend and ally. Encourages a respectful and reciprocal relationship with nature, recognizing it as a source of guidance and support."
+  },
+  {
+      text: "WíiyayAčhiŋ (Star) Lakota",
+      author: "Stars are considered sacred and are associated with spiritual teachings. Symbolize guidance, inspiration, and connection to the cosmic forces."
+  },
+  {
+      text: "Maȟpíya (Sky) Lakota",
+      author: "The sky is seen as a sacred and limitless expanse. Symbolizes the vastness of the spiritual realm and the interconnectedness of all creation."
+  },
+  {
+      text: "Wazí (Moon) Lakota",
+      author: "The moon holds spiritual significance, representing cycles of life, growth, and transformation. Symbolizes the connection between the earthly and spiritual realms."
+  },
+  {
+      text: "Ptehé Wí (Buffalo Woman) Lakota",
+      author: "Buffalo Woman is a spiritual entity associated with abundance and nourishment. Her teachings emphasize respect for nature's gifts and the importance of balance."
+  },
+  {
+      text: "WíiyayA (Sun) Lakota",
+      author: "The sun is associated with the afterlife and is seen as a path for the spirits. Symbolizes the journey of the soul towards the spiritual realm."
+  },
+  {
+      text: "WíiyayAčhiŋ (Star) Lakota",
+      author: "Stars are believed to be connected to the afterlife. Represent the eternal nature of the spirit and guide souls on their journey to the spirit world."
+  },
+  {
+      text: "Zinjtkála (Bird) Lakota",
+      author: "Birds are considered messengers between the living and the spirit world. Their presence is seen as a sign of connection with departed loved ones."
+  },
+  {
+      text: "Tȟokáta (Friend) Lakota",
+      author: "The natural world is viewed as a friend and ally in the afterlife. Emphasizes the continuity of the spirit's relationship with nature beyond physical existence."
+  },
+  {
+      text: "Tȟatȟáŋka (Buffalo) Lakota",
+      author: "The buffalo is associated with the afterlife, symbolizing abundance and the sustenance of the spirit. Represents the interconnectedness of all life."
+  },
+  {
+      text: "Wazí (Moon) Lakota",
+      author: "The moon holds significance in afterlife beliefs, representing the cyclical nature of life, death, and rebirth. Symbolizes the spirit's journey through different phases."
+  },
+  {
+      text: "Ptehé Wí (Buffalo Woman) Lakota",
+      author: "Buffalo Woman is connected to the afterlife, guiding spirits towards nourishment and abundance. Emphasizes the importance of balance and respect for spiritual teachings."
+  },
+  {
+      text: "Waníyetu (Winter) Lakota",
+      author: "Winter is symbolic of the afterlife in Lakota spirituality. Represents the season of rest and reflection for the spirits before the cycle of rebirth in spring."
+  },
+  {
+      text: "Wóiyake (Spirit) Lakota",
+      author: "Acknowledges the eternal nature of the spirit. Encourages a profound connection with one's spirit, recognizing its continuation in the afterlife."
+  },
+  {
+      text: "Ištála (Eagle) Lakota",
+      author: "The eagle is a sacred messenger in Lakota afterlife beliefs. It is believed to carry prayers and messages between the living and the spirit world."
+  },
+  {
+      text: "Wíyutehiŋ (Dreams) Lakota",
+      author: "Dreams are considered a bridge to the afterlife. They may bring messages from departed loved ones, offering guidance and communication with the spirit realm."
+  },
+  {
+      text: "Wíyutehiŋ (Soul) Lakota",
+      author: "The concept of Wíyutehiŋ emphasizes the soul's journey in the afterlife. Encourages a connection with the spiritual essence that transcends physical existence."
+  },
 ];
