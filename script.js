@@ -434,7 +434,7 @@ function findDuplicates(array) {
 
 // Update 'localQuotes' number to show duplicates for each array
 
-const duplicateQuotes = findDuplicates(localQuotes6);
+const duplicateQuotes = findDuplicates(localQuotes11);
 
 if (duplicateQuotes.length > 0) {
     console.log('Duplicates found:');
