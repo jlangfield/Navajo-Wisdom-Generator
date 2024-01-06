@@ -43,4 +43,28 @@ const localQuotes21 = [
         text: "Choctaw Concepts of Healing",
         author: "Choctaw healing practices involve a holistic approach, addressing physical, mental, and spiritual well-being. Spiritual teachings may emphasize the interconnectedness of mind, body, and spirit, encouraging individuals to seek balance and harmony for overall health."
     },
+    {
+        text: "Hólí Chahta Anowa (Nature's Guidance)",
+        author: "Choctaw cultural wisdom recognizes nature as a guiding force. Choctaw teachings may emphasize the importance of attuning oneself to the rhythms of the natural world, acknowledging the wisdom present in the land, plants, animals, and elements. Connecting with nature is seen as a means of spiritual insight, balance, and harmony."
+    },
+    {
+        text: "Ishkitini Shkima (Sacred Earth Mother)",
+        author: "The Earth is regarded as a sacred entity in Choctaw culture. Choctaw teachings may guide individuals to honor the Earth as a nurturing mother, emphasizing the interconnectedness between humans and the land. Rituals and ceremonies may be conducted to express gratitude, reciprocity, and a deep spiritual connection to the Earth."
+    },
+    {
+        text: "Hashi Nittak Himak (Celestial Teachings)",
+        author: "Celestial bodies hold spiritual significance in Choctaw cultural wisdom. Choctaw teachings may guide individuals to observe and draw wisdom from the movements of the sun, moon, stars, and other celestial entities. The celestial teachings contribute to the understanding of time, seasons, and the interconnectedness of spiritual energies."
+    },
+    {
+        text: "Anumpa Aya (Sacred Waters)",
+        author: "Water is revered as sacred in Choctaw culture. Choctaw teachings may highlight the spiritual significance of rivers, lakes, and other bodies of water. Ceremonies and rituals may be conducted to honor water as a life-giving force, symbolizing purification, renewal, and the flow of spiritual energies within the Choctaw cultural narrative."
+    },
+    {
+        text: "Náchi Ilowa (Spirit of the Forest)",
+        author: "Forests are viewed as sacred spaces in Choctaw cultural wisdom. Choctaw teachings may guide individuals to recognize the spiritual energies present in the forest, fostering a sense of reverence for trees, plants, and the interconnected web of life. Forests may be seen as places for spiritual reflection, communion, and guidance."
+    },
+    {
+        text: "Atokoli Isht I Nanpisa (Teaching through the Four Winds)",
+        author: "The four winds hold spiritual teachings in Choctaw culture. Choctaw teachings may guide individuals to understand the symbolic meanings and guidance associated with each wind direction. The teachings of the four winds contribute to a deeper understanding of the interconnected forces that shape the spiritual landscape of the Choctaw community."
+    },
 ];
