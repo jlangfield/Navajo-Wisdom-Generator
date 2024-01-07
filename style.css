@@ -44,7 +44,7 @@ body {
 .quote-author {
     margin: 20px auto;
     font-size: 1.2rem;
-    line-height: 1.8rem;
+    line-height: 1.5rem;
     font-weight: 500;
     color: lightskyblue;
     animation: fadeInDown;
@@ -107,7 +107,7 @@ button:active {
 
 i {
     font-size: 1.4rem;
-    margin: 5px 5px 0 0;
+    margin: 5px 3px 0 2px;
 }
 
 h1 {
