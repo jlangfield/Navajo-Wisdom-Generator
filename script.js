@@ -2,6 +2,9 @@ const quoteContainer = document.getElementById("quote-container");
 const quoteText = document.getElementById("quote");
 const authorText = document.getElementById("author");
 const twitterBtn = document.getElementById("twitter");
+
+// quotes
+
 const newQuoteBtn = document.getElementById("new-quote");
 const newQuoteBtn2 = document.getElementById("new-quote2");
 const newQuoteBtn3 = document.getElementById("new-quote3");
@@ -26,8 +29,24 @@ const newQuoteBtn21 = document.getElementById("new-quote21");
 const newQuoteBtn22 = document.getElementById("new-quote22");
 const newQuoteBtn23 = document.getElementById("new-quote23");
 
+// Loader
+const loader = document.getElementById("loader");
+
+function showLoadingSpinner() {
+    loader.hidden = false;
+    quoteContainer.hidden = true;
+}
+
+function hideLoadingSpinner() {
+    if (!loader.hidden) {
+        quoteContainer.hidden = false;
+        loader.hidden = true;
+    }
+}
+
 // Show new quote
 function newQuote() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes[Math.floor(Math.random() * localQuotes.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -42,11 +61,14 @@ function newQuote() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote2
 function newQuote2() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes2[Math.floor(Math.random() * localQuotes2.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -61,11 +83,14 @@ function newQuote2() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote3
 function newQuote3() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes3[Math.floor(Math.random() * localQuotes3.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -80,11 +105,14 @@ function newQuote3() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote4
 function newQuote4() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes4[Math.floor(Math.random() * localQuotes4.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -99,11 +127,14 @@ function newQuote4() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote5
 function newQuote5() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes5[Math.floor(Math.random() * localQuotes5.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -118,11 +149,14 @@ function newQuote5() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote6
 function newQuote6() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes6[Math.floor(Math.random() * localQuotes6.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -137,11 +171,14 @@ function newQuote6() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote7
 function newQuote7() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes7[Math.floor(Math.random() * localQuotes7.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -156,11 +193,14 @@ function newQuote7() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote8
 function newQuote8() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes8[Math.floor(Math.random() * localQuotes8.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -175,11 +215,14 @@ function newQuote8() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote9
 function newQuote9() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes9[Math.floor(Math.random() * localQuotes9.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -194,11 +237,14 @@ function newQuote9() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote10
 function newQuote10() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes10[Math.floor(Math.random() * localQuotes10.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -213,11 +259,14 @@ function newQuote10() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote11
 function newQuote11() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes11[Math.floor(Math.random() * localQuotes11.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -232,11 +281,14 @@ function newQuote11() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote12
 function newQuote12() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes12[Math.floor(Math.random() * localQuotes12.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -251,11 +303,14 @@ function newQuote12() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote13
 function newQuote13() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes13[Math.floor(Math.random() * localQuotes13.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -270,11 +325,14 @@ function newQuote13() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote14
 function newQuote14() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes14[Math.floor(Math.random() * localQuotes14.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -289,11 +347,14 @@ function newQuote14() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote15
 function newQuote15() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes15[Math.floor(Math.random() * localQuotes15.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -308,11 +369,14 @@ function newQuote15() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote16
 function newQuote16() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes16[Math.floor(Math.random() * localQuotes16.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -327,11 +391,14 @@ function newQuote16() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote17
 function newQuote17() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes17[Math.floor(Math.random() * localQuotes17.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -346,11 +413,14 @@ function newQuote17() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote18
 function newQuote18() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes18[Math.floor(Math.random() * localQuotes18.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -365,11 +435,14 @@ function newQuote18() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote19
 function newQuote19() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes19[Math.floor(Math.random() * localQuotes19.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -384,11 +457,14 @@ function newQuote19() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote20
 function newQuote20() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes20[Math.floor(Math.random() * localQuotes20.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -403,11 +479,14 @@ function newQuote20() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote21
 function newQuote21() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes21[Math.floor(Math.random() * localQuotes21.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -422,11 +501,14 @@ function newQuote21() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote22
 function newQuote22() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes22[Math.floor(Math.random() * localQuotes22.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -441,11 +523,14 @@ function newQuote22() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Show new quote23
 function newQuote23() {
+    showLoadingSpinner();
     // Pick a random quote from apiQuotes array
     const quote = localQuotes23[Math.floor(Math.random() * localQuotes23.length)];
     // Check if author name is blank to replace with "Unknown"
@@ -460,7 +545,9 @@ function newQuote23() {
     } else {
         quoteText.classList.remove("long-quote");
     }
+    // Set quote and hide loader
     quoteText.textContent = quote.text;
+    hideLoadingSpinner();
 }
 
 // Tweet Quote
@@ -493,10 +580,13 @@ newQuoteBtn20.addEventListener("click", newQuote20);
 newQuoteBtn21.addEventListener("click", newQuote21);
 newQuoteBtn22.addEventListener("click", newQuote22);
 newQuoteBtn23.addEventListener("click", newQuote23);
+
+// twitter
 twitterBtn.addEventListener("click", tweetQuote);
 
 // On load
 // getQuotes();
+// showLoadingSpinner();
 newQuote();
 newQuote2();
 newQuote3();
@@ -544,7 +634,7 @@ function findDuplicates(array) {
 
 // Update 'localQuotes' number to show duplicates for each array
 
-const duplicateQuotes = findDuplicates(localQuotes14);
+const duplicateQuotes = findDuplicates(localQuotes11);
 
 if (duplicateQuotes.length > 0) {
     console.log('Duplicates found:');
