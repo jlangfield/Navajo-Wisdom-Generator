@@ -1,238 +1,182 @@
 const localQuotes6 = [
-  {
-      text: "Wíyutehiŋ Wíyutehiŋkaŋ (Generosity)",
-      author: "Emphasizes the value of generosity, encouraging individuals to share resources and kindness with others to foster harmony within the community."
-  },
-  {
-      text: "Wóiyokiyapi (Respect)",
-      author: "Stresses the importance of respect for oneself, others, and the natural world, promoting harmonious relationships and balanced living."
-  },
-  {
-      text: "Woúnšila (Compassion)",
-      author: "Encourages the practice of compassion towards all living beings, fostering empathy, understanding, and interconnectedness within the Lakota worldview."
-  },
-  {
-      text: "Wóksape (Wisdom)",
-      author: "Acknowledges the importance of acquiring wisdom through experience, reflection, and learning, guiding individuals in making thoughtful and responsible decisions."
-  },
-  {
-      text: "Wíyutehiŋkičiyapi (Sharing with Others)",
-      author: "Emphasizes the cultural value of sharing, reinforcing the interconnectedness of the Lakota people and promoting communal well-being."
-  },
-  {
-      text: "Wótȟakuye (Family)",
-      author: "Highlights the significance of family, not only in a biological sense but also in the broader sense of community, emphasizing mutual support and unity."
-  },
-  {
-      text: "Wačhíŋtognakaŋ (Honesty)",
-      author: "Stresses the importance of honesty and truthfulness in all aspects of life, promoting integrity and trust within the Lakota community."
-  },
-  {
-      text: "Iyóȟlȟaŋpaŋ (Humility)",
-      author: "Encourages individuals to approach life with humility, recognizing the interconnectedness of all beings and the importance of maintaining a balanced perspective."
-  },
-  {
-      text: "Wíčhoȟ’ičhiyapi (Helping One Another)",
-      author: "Emphasizes the cultural value of assisting and supporting one another, fostering a sense of community and collective well-being within Lakota society."
-  },
-  {
-      text: "Wíiyute (Bravery)",
-      author: "Acknowledges the importance of bravery in facing life's challenges, promoting courage and resilience among the Lakota people."
-  },
-  {
-      text: "Wówačhaŋtognakaŋ (Respect for Elders)",
-      author: "Stresses the respect and honor for elders, recognizing their wisdom, guidance, and the importance of preserving cultural traditions and teachings."
-  },
-  {
-      text: "Ištáȟiyaye (Courage)",
-      author: "Encourages individuals to cultivate inner strength and courage, enabling them to navigate life's difficulties with resilience and determination."
-  },
-  {
-      text: "Wíyute Oyáŋke (Generosity of Spirit)",
-      author: "Emphasizes the generosity of spirit, encouraging individuals to approach life with an open heart and a willingness to share kindness and positivity with others."
-  },
-  {
-      text: "Wóiyuonihan (Respect for Nature)",
-      author: "Stresses the importance of respecting and living in harmony with the natural world, recognizing it as a source of life and spiritual connection for the Lakota people."
-  },
-  {
-      text: "Wóiyohiyan (Bravery in Battle)",
-      author: "Acknowledges the bravery required in times of conflict, emphasizing the importance of defending one's people and upholding honor with courage."
-  },
-  {
-      text: "Wóiyute Kin (Kindness)",
-      author: "Encourages the practice of kindness, promoting a positive and compassionate approach to interactions with others within the Lakota community."
-  },
-  {
-      text: "Wóuŋspe Oyáŋke (Harmony with the Universe)",
-      author: "Stresses the interconnectedness of all things and encourages individuals to live in harmony with the universe, respecting the balance of life."
-  },
-  {
-      text: "Iyápi (Love)",
-      author: "Acknowledges the importance of love, promoting compassion, empathy, and deep connections within relationships and the Lakota community."
-  },
-  {
-      text: "Wóiyute Kičhízapi (Honesty and Truthfulness)",
-      author: "Emphasizes the cultural values of honesty and truthfulness, highlighting their role in maintaining integrity and ethical conduct within the Lakota community."
-  },
-  {
-      text: "Wótȟiyute (Strength)",
-      author: "Encourages the cultivation of inner and outer strength, promoting resilience, perseverance, and the ability to overcome challenges within the Lakota worldview."
-  },
-  {
-      text: "Wóiyuȟpeyata (Bravery in Battle)",
-      author: "Acknowledges the bravery and courage required in times of conflict, emphasizing the importance of defending one's people and upholding honor with strength."
-  },
-  {
-      text: "Ičhaȟpe Lúta (Sacred Pipe)",
-      author: "Recognizes the sacredness of the pipe ceremony, a central ritual in Lakota spirituality, symbolizing prayer, communication with the divine, and unity among the people."
-  },
-  {
-      text: "Wóiyutekiye (Generosity and Sharing)",
-      author: "Emphasizes the cultural value of generosity and sharing, reinforcing the interconnectedness of the Lakota people and promoting communal well-being."
-  },
-  {
-      text: "Wótȟakuye Kici Un (All My Relatives)",
-      author: "Highlights the interconnectedness of all living beings, promoting a sense of kinship and responsibility for the well-being of the entire community."
-  },
-  {
-      text: "Išté Tȟáȟčhiŋ (Face the Reality)",
-      author: "Encourages individuals to face reality with honesty and courage, promoting personal growth and resilience within the Lakota worldview."
-  },
-  {
-      text: "Wóiyotanúŋka (The Great Spirit)",
-      author: "Acknowledges the presence and guidance of the Great Spirit, emphasizing spiritual connection, gratitude, and reverence for the divine within Lakota traditions."
-  },
-  {
-      text: "WíyakA (Balance)",
-      author: "Stresses the importance of balance in all aspects of life, promoting harmony and well-being within oneself, relationships, and the community."
-  },
-  {
-      text: "Wíčhoȟ’ičhiyataŋka (Helping One Another)",
-      author: "Emphasizes the cultural value of assisting and supporting one another, fostering a sense of community and collective well-being within Lakota society."
-  },
-  {
-      text: "Wókȟiyuziŋ (Gratitude)",
-      author: "Encourages individuals to cultivate a spirit of gratitude, recognizing and appreciating the blessings and interconnectedness of life within the Lakota worldview."
-  },
-  {
-      text: "WíčhakA (Understanding)",
-      author: "Acknowledges the importance of understanding oneself, others, and the world, promoting empathy, compassion, and harmonious relationships within the Lakota community."
-  },
-  {
-      text: "WíyuhAŋblA (Forgiveness)",
-      author: "Encourages the practice of forgiveness, promoting healing, reconciliation, and the restoration of harmony within relationships and the Lakota community."
-  },
-  {
-      text: "Wíiyute WowAčhiŋ (Bravery in the Face of Adversity)",
-      author: "Acknowledges the importance of bravery and resilience in the face of adversity, promoting courage and strength within the Lakota worldview."
-  },
-  {
-      text: "Wíiyute Oyáŋke (Generosity of Spirit)",
-      author: "Emphasizes the generosity of spirit, encouraging individuals to approach life with an open heart and a willingness to share kindness and positivity with others."
-  },
-  {
-      text: "WíčhAblA (Patience)",
-      author: "Acknowledges the importance of patience, promoting the ability to endure challenges and wait for the right time within the Lakota cultural context."
-  },
-  {
-      text: "Wótȟakuye Oyáŋke (Harmony with All Relatives)",
-      author: "Highlights the importance of living in harmony with all living beings, recognizing the interconnected web of relationships within the Lakota worldview."
-  },
-  {
-      text: "Mitakuye Oyasin (All Are Related)",
-      author: "Expresses the interconnectedness of all living beings. Emphasizes the need for harmony, respect, and balance in the relationship between humans and nature."
-  },
-  {
-      text: "Wóiyake (Spirit)",
-      author: "Acknowledges the presence of spirit in all living things. Encourages a deep connection with nature and a profound respect for the spiritual essence within the natural world."
-  },
-  {
-      text: "Taku Wakan Skan Skan (Something Sacred is Moving)",
-      author: "Refers to the sacredness and spirituality inherent in the natural world. Encourages mindfulness and recognition of the divine in every aspect of creation."
-  },
-  {
-      text: "WíiyayA (Sun)",
-      author: "The sun is revered as a powerful spiritual force. Symbolizes life, illumination, and the divine energy that sustains all living things."
-  },
-  {
-      text: "Mílahaŋska (Butterfly)",
-      author: "The butterfly is a symbol of transformation and renewal. Encourages embracing change and understanding the cyclical nature of life and growth."
-  },
-  {
-      text: "Zinjtkála (Bird)",
-      author: "Birds are seen as messengers and carry spiritual significance. Their presence is believed to bring messages from the spirit world."
-  },
-  {
-      text: "Tȟatȟáŋka (Buffalo)",
-      author: "The buffalo is a sacred and revered animal. Symbolizes strength, abundance, and the interconnectedness of all life."
-  },
-  {
-      text: "Tȟokáta (Friend)",
-      author: "The natural world is viewed as a friend and ally. Encourages a respectful and reciprocal relationship with nature, recognizing it as a source of guidance and support."
-  },
-  {
-      text: "WíiyayAčhiŋ (Star)",
-      author: "Stars are considered sacred and are associated with spiritual teachings. Symbolize guidance, inspiration, and connection to the cosmic forces."
-  },
-  {
-      text: "Maȟpíya (Sky)",
-      author: "The sky is seen as a sacred and limitless expanse. Symbolizes the vastness of the spiritual realm and the interconnectedness of all creation."
-  },
-  {
-      text: "Wazí (Moon)",
-      author: "The moon holds spiritual significance, representing cycles of life, growth, and transformation. Symbolizes the connection between the earthly and spiritual realms."
-  },
-  {
-      text: "Ptehé Wí (Buffalo Woman)",
-      author: "Buffalo Woman is a spiritual entity associated with abundance and nourishment. Her teachings emphasize respect for nature's gifts and the importance of balance."
-  },
-  {
-      text: "WíiyayA (Sun)",
-      author: "The sun is associated with the afterlife and is seen as a path for the spirits. Symbolizes the journey of the soul towards the spiritual realm."
-  },
-  {
-      text: "WíiyayAčhiŋ (Star)",
-      author: "Stars are believed to be connected to the afterlife. Represent the eternal nature of the spirit and guide souls on their journey to the spirit world."
-  },
-  {
-      text: "Zinjtkála (Bird)",
-      author: "Birds are considered messengers between the living and the spirit world. Their presence is seen as a sign of connection with departed loved ones."
-  },
-  {
-      text: "Tȟokáta (Friend)",
-      author: "The natural world is viewed as a friend and ally in the afterlife. Emphasizes the continuity of the spirit's relationship with nature beyond physical existence."
-  },
-  {
-      text: "Tȟatȟáŋka (Buffalo)",
-      author: "The buffalo is associated with the afterlife, symbolizing abundance and the sustenance of the spirit. Represents the interconnectedness of all life."
-  },
-  {
-      text: "Wazí (Moon)",
-      author: "The moon holds significance in afterlife beliefs, representing the cyclical nature of life, death, and rebirth. Symbolizes the spirit's journey through different phases."
-  },
-  {
-      text: "Ptehé Wí (Buffalo Woman)",
-      author: "Buffalo Woman is connected to the afterlife, guiding spirits towards nourishment and abundance. Emphasizes the importance of balance and respect for spiritual teachings."
-  },
-  {
-      text: "Waníyetu (Winter)",
-      author: "Winter is symbolic of the afterlife in Lakota spirituality. Represents the season of rest and reflection for the spirits before the cycle of rebirth in spring."
-  },
-  {
-      text: "Wóiyake (Spirit)",
-      author: "Acknowledges the eternal nature of the spirit. Encourages a profound connection with one's spirit, recognizing its continuation in the afterlife."
-  },
-  {
-      text: "Ištála (Eagle)",
-      author: "The eagle is a sacred messenger in Lakota afterlife beliefs. It is believed to carry prayers and messages between the living and the spirit world."
-  },
-  {
-      text: "Wíyutehiŋ (Dreams)",
-      author: "Dreams are considered a bridge to the afterlife. They may bring messages from departed loved ones, offering guidance and communication with the spirit realm."
-  },
-  {
-      text: "Wíyutehiŋ (Soul)",
-      author: "The concept of Wíyutehiŋ emphasizes the soul's journey in the afterlife. Encourages a connection with the spiritual essence that transcends physical existence."
-  },
+    {
+        "text": "Harmony in Creation: Emphasizes the interconnectedness of all living beings and elements in creation. Teaches the importance of living in balance and harmony with nature, recognizing the sacredness of all life.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Sacred Origin of the Lakota People: Conveys the belief in a unique and sacred origin of the Lakota people. Instills a sense of pride and responsibility to uphold cultural identity and values.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Cleverness and Adaptability: Trickster figures embody Lakota virtues of cleverness and adaptability. Teaches individuals to approach challenges with creativity and resourcefulness.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Consequences of Deception: Shows that deceptive actions lead to negative consequences. Promotes values of honesty and integrity within the Lakota community.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Guidance from Animal Allies: Teaches that animals possess spiritual wisdom and guidance. Encourages individuals to observe, learn from, and respect the teachings of their animal allies.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Respect for the Natural World: Conveys the belief in the sacredness of animals and the necessity of treating them with respect. Teaches the balance and harmony maintained by respecting the natural world.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Communion with Spirits: Emphasizes the practice of seeking communion with spiritual entities through rituals and ceremonies. Fosters a deeper connection to the unseen forces that influence life.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Importance of Rituals: Highlights the significance of rituals and ceremonies in invoking the presence and blessings of spiritual entities. Teaches the role of these practices in maintaining spiritual balance.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Courage and Sacrifice: Heroic figures exemplify virtues like courage and sacrifice. Inspires individuals to act selflessly for the greater good. Teaches the importance of moral courage and communal well-being.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Archetypes of Leadership: Heroic legends present figures embodying leadership qualities. Offers teachings on responsible leadership within the Lakota cultural context.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Sacred Connection to the Earth: Narratives convey a sense of sacredness and interconnectedness between the Lakota people and the Earth. Teaches the importance of viewing the Earth as a sacred and nurturing entity.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Stewardship of the Land: Emphasizes the role of Lakota individuals as stewards of the land. Teaches the responsibility to care for and protect the natural environment for future generations.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Spiritual Renewal through Ceremony: Narratives stress the spiritual renewal and connection achieved through rituals and ceremonies. Teaches the transformative power of communal practices in fostering spiritual growth.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Communal Bonding: Highlights the unity and communal bonding that occurs during ceremonies. Emphasizes the importance of shared spiritual experiences in building a strong Lakota community.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Honor and Integrity: Ethical teachings stress the virtues of honor and integrity. Inspires Lakota individuals to uphold moral values in their interactions with others.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Respect for Others: Narratives convey ethical lessons focusing on the importance of respecting others and treating them with kindness. Teaches the value of harmonious community relationships based on understanding and empathy.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Cooperation and Unity: Narratives stress the importance of cooperation and unity within the Lakota community. Teaches individuals to work together for the common good, fostering a strong sense of community.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Preservation of Cultural Heritage: Stories highlight the value of preserving and passing down cultural traditions. Teaches the importance of cultural continuity and the transmission of ancestral wisdom.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Guidance from Ancestors: Narratives about ancestral wisdom emphasize seeking guidance from the knowledge passed down by ancestors. Teaches the value of connecting with ancestral wisdom for guidance and inspiration.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Continuity of Cultural Knowledge: Stories stress the responsibility of preserving and passing down ancestral wisdom to future generations. Teaches the importance of cultural continuity and the role of each generation in upholding cultural heritage.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Cosmic Harmony: Narratives connecting celestial bodies to life convey teachings about cosmic harmony. Emphasizes the interconnectedness of earthly life with the celestial realm.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Guidance from Stars: Celestial stories often depict stars as guides, offering wisdom and guidance. Teaches individuals to find inspiration and direction in the celestial phenomena, recognizing their symbolic significance.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Learning from History: Stories integrating historical events stress the importance of learning from the past. Encourages reflection on historical experiences, gaining insights that contribute to the guidance of future generations.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Harmony in Diversity: Explores the beauty and importance of diversity within the Lakota community. Teaches that different perspectives and backgrounds contribute to the richness of the cultural tapestry.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Dance of Balance: Narratives depicting life as a delicate dance that requires balance. Teaches the significance of balancing responsibilities, relationships, and spiritual well-being.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Wisdom of the Thunder Beings: Conveys teachings from thunder beings as symbols of power and transformative energy. Emphasizes the importance of harnessing inner strength for personal growth.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Gift of Silence: Narratives celebrating the value of silence as a source of wisdom and introspection. Teaches the profound insights that can arise from moments of quiet contemplation.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Guardians of the Water: Teaches the sacredness of water and the role of the Lakota people as guardians of this life-sustaining element. Emphasizes the responsibility to protect and preserve water sources.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Honoring the Four Directions: Narratives emphasizing the spiritual significance of the four directions. Teaches the importance of aligning oneself with these directions for guidance and balance.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Rituals of Renewal: Explores the concept of renewal through sacred rituals. Teaches the transformative power of participating in rituals for personal and communal growth.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Medicine Wheel's Wisdom: Conveys teachings from the medicine wheel, symbolizing harmony and balance. Emphasizes the interconnectedness of all aspects of life within the circular design.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Path of the Buffalo: Teaches the lessons of the buffalo, emphasizing qualities such as strength, endurance, and sacred connection to the land. Inspires individuals to walk a path of resilience and purpose.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Dance of Connection: Narratives illustrating the interconnected dance of all living things. Teaches the importance of recognizing and honoring the web of connections that sustain life.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Soul's Journey in Dreams: Explores the significance of dreams as a reflection of the soul's journey. Teaches the interpretation of dreams for spiritual guidance and self-discovery.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Honoring the Elders: Conveys the value of respecting and learning from the wisdom of elders. Teaches the importance of preserving and passing down the knowledge of the older generation.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Sacred Fire: Narratives about the sacredness of fire as a symbol of purification and transformation. Teaches the lessons of resilience and renewal found in the dancing flames.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Guiding Lights of Ancestors: Explores the belief in ancestral spirits as guiding lights. Teaches the practice of seeking guidance and wisdom from the spirits of those who came before.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Dance of Seasons: Narratives depicting the cyclical dance of seasons as a metaphor for life's phases. Teaches the wisdom of adapting to change and finding beauty in each season.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "Ceremonial Drums' Heartbeat: Conveys the sacred significance of ceremonial drums. Teaches that the rhythmic heartbeat of the drum connects individuals to the heartbeat of the Earth and the cosmos.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Humility of the Wolf: Explores the teachings of humility from the wolf, symbolizing the strength found in humility. Inspires individuals to lead with a humble heart and a sense of unity.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Echo of Ancestral Voices: Teaches the practice of listening for the echoes of ancestral voices in nature. Emphasizes the guidance and wisdom that can be received through attentive listening.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Dance of Lightning: Narratives about the dance of lightning as a powerful force of nature. Teaches the lessons of embracing the dynamic energy of change and transformation.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Sacred Hoop: Conveys the symbolism of the sacred hoop as a representation of unity and interconnectedness. Teaches the importance of maintaining harmony within the circle of life.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Gift of Laughter: Explores the healing and transformative power of laughter. Teaches the importance of finding joy in life and using laughter as a source of resilience and well-being.",
+        "author": "Lakota / Sioux wisdom"
+    },
+    {
+        "text": "The Butterfly's Metamorphosis: Narratives about the metamorphosis of the butterfly as a symbol of transformation. Teaches the wisdom of embracing change and undergoing personal growth.",
+        "author": "Lakota / Sioux wisdom"
+    },
 ];

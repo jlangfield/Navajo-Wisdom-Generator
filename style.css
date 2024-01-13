@@ -29,23 +29,26 @@ body {
 }
 
 .quote-text {
-    font-size: 2.0rem;
-    line-height: 2.3rem;
-    margin: 20px 0 10px 0;
+    font-size: 1.9rem;
+    line-height: 2.0rem;
+    margin: 0 0 20px 0;
     animation: fadeInUp;
     animation-duration: 2s;
 }
 
 .long-quote {
-    font-size: 1.7rem;
+    font-size: 1.3rem;
     line-height: 1.0rem;
+    margin: 0 0 20px 0;
 }
 
 .quote-author {
     margin: 20px auto;
-    font-size: 1.2rem;
-    line-height: 1.5rem;
-    font-weight: 500;
+    font-size: 1.3rem;
+    line-height: 2.0rem;
+    /* font-size: 1.9rem; */
+    /* line-height: 2.5rem; */
+    /* font-weight: 600; */
     color: lightskyblue;
     animation: fadeInDown;
     animation-duration: 2s;
@@ -91,7 +94,7 @@ button {
     color: lightskyblue;
     background-color: rgba(73, 112, 204, 0.65);
     outline: none;
-    padding: 0.3rem 0.7rem 0.7rem 0.4rem;
+    padding: .8rem 1.0rem;
     box-shadow: 0 0.4rem rgba(0, 0, 0, 0.65);
     margin: 10px;
 }
@@ -107,7 +110,7 @@ button:active {
 
 i {
     font-size: 1.4rem;
-    margin: 5px 3px 0 2px;
+    margin: 5px 0;
 }
 
 h1 {
@@ -134,9 +137,10 @@ h5 {
 
 p {
     max-width: 600px;
-    color: #647f93;
+    color: lightskyblue;
     margin: 20px auto;
     padding: 10px;
+    line-height: 1.4rem;;
 }
 
 a {
