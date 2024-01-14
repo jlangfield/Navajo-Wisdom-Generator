@@ -55,12 +55,6 @@ function newQuote() {
     } else {
         authorText.textContent = quote.author;
     }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
-    }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
     hideLoadingSpinner();
@@ -76,12 +70,6 @@ function newQuote2() {
         authorText.textContent = "Unknown";
     } else {
         authorText.textContent = quote.author;
-    }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
     }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
@@ -99,12 +87,6 @@ function newQuote3() {
     } else {
         authorText.textContent = quote.author;
     }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
-    }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
     hideLoadingSpinner();
@@ -120,12 +102,6 @@ function newQuote4() {
         authorText.textContent = "Unknown";
     } else {
         authorText.textContent = quote.author;
-    }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
     }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
@@ -143,12 +119,6 @@ function newQuote5() {
     } else {
         authorText.textContent = quote.author;
     }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
-    }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
     hideLoadingSpinner();
@@ -164,12 +134,6 @@ function newQuote6() {
         authorText.textContent = "Unknown";
     } else {
         authorText.textContent = quote.author;
-    }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
     }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
@@ -187,12 +151,6 @@ function newQuote7() {
     } else {
         authorText.textContent = quote.author;
     }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
-    }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
     hideLoadingSpinner();
@@ -208,12 +166,6 @@ function newQuote8() {
         authorText.textContent = "Unknown";
     } else {
         authorText.textContent = quote.author;
-    }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
     }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
@@ -231,12 +183,6 @@ function newQuote9() {
     } else {
         authorText.textContent = quote.author;
     }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
-    }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
     hideLoadingSpinner();
@@ -252,12 +198,6 @@ function newQuote10() {
         authorText.textContent = "Unknown";
     } else {
         authorText.textContent = quote.author;
-    }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
     }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
@@ -275,12 +215,6 @@ function newQuote11() {
     } else {
         authorText.textContent = quote.author;
     }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
-    }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
     hideLoadingSpinner();
@@ -296,12 +230,6 @@ function newQuote12() {
         authorText.textContent = "Unknown";
     } else {
         authorText.textContent = quote.author;
-    }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
     }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
@@ -319,12 +247,6 @@ function newQuote13() {
     } else {
         authorText.textContent = quote.author;
     }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
-    }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
     hideLoadingSpinner();
@@ -340,12 +262,6 @@ function newQuote14() {
         authorText.textContent = "Unknown";
     } else {
         authorText.textContent = quote.author;
-    }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
     }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
@@ -363,12 +279,6 @@ function newQuote15() {
     } else {
         authorText.textContent = quote.author;
     }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
-    }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
     hideLoadingSpinner();
@@ -384,12 +294,6 @@ function newQuote16() {
         authorText.textContent = "Unknown";
     } else {
         authorText.textContent = quote.author;
-    }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
     }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
@@ -407,12 +311,6 @@ function newQuote17() {
     } else {
         authorText.textContent = quote.author;
     }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
-    }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
     hideLoadingSpinner();
@@ -428,12 +326,6 @@ function newQuote18() {
         authorText.textContent = "Unknown";
     } else {
         authorText.textContent = quote.author;
-    }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
     }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
@@ -451,12 +343,6 @@ function newQuote19() {
     } else {
         authorText.textContent = quote.author;
     }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
-    }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
     hideLoadingSpinner();
@@ -472,12 +358,6 @@ function newQuote20() {
         authorText.textContent = "Unknown";
     } else {
         authorText.textContent = quote.author;
-    }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
     }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
@@ -495,12 +375,6 @@ function newQuote21() {
     } else {
         authorText.textContent = quote.author;
     }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
-    }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
     hideLoadingSpinner();
@@ -517,12 +391,6 @@ function newQuote22() {
     } else {
         authorText.textContent = quote.author;
     }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
-    }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
     hideLoadingSpinner();
@@ -538,12 +406,6 @@ function newQuote23() {
         authorText.textContent = "Unknown";
     } else {
         authorText.textContent = quote.author;
-    }
-    // Check quote length to determine styling
-    if (quote.text.length > 120) {
-        quoteText.classList.add("long-quote");
-    } else {
-        quoteText.classList.remove("long-quote");
     }
     // Set quote and hide loader
     quoteText.textContent = quote.text;
@@ -634,7 +496,7 @@ function findDuplicates(array) {
 
 // Update 'localQuotes' number to show duplicates for each array
 
-const duplicateQuotes = findDuplicates(localQuotes9);
+const duplicateQuotes = findDuplicates(localQuotes18);
 
 if (duplicateQuotes.length > 0) {
     console.log('Duplicates found:');
