@@ -416,7 +416,7 @@ function newQuote23() {
 function tweetQuote() {
     const twitterUrl = `https://twitter.com/intent/tweet?text=${quoteText.innerText} - ${authorText.innerText}`;
     window.open(twitterUrl, '_blank');
-  }
+}
 
 // Event listeners
 newQuoteBtn.addEventListener("click", newQuote);
